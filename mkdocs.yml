@@ -99,13 +99,20 @@ watch:
 nav:
   - Home: 
     - index.md
-  - Loaders: apps/loaders.md
-  - Utilities: apps/utilities.md
-  - Emulators: apps/emulators.md
-  - Games: apps/games.md
-  - Diagnostics: apps/diagnostics.md
-  - System Apps: - system_apps/index.md
-  - Thanks: thanks/index.md
+  - Loaders:
+    - loaders/index.md
+  - Utilities:
+    - util/index.md
+  - Emulators:
+    - emu/index.md
+  - Games:
+    - games/index.md
+  - Diagnostics:
+    - diag/index.md
+  - System Apps:
+    - sys/index.md
+  - Thanks:
+    - thanks/index.md
 
 
 
