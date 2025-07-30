@@ -7,7 +7,7 @@
 
     Speed test tool for internal HDD/SSD
 
-    Download here
+    [:material-cloud-download: HDD Tester](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_HDDTESTER.psu)
 
 -   __Pad Test__
 
@@ -15,7 +15,7 @@
 
     Test your controller(s)
 
-    Download here
+    [:material-cloud-download: Pad Test](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_PADTEST.psu)
 
 -   __PS2 Temps__
 
@@ -23,7 +23,7 @@
 
     Show your consoles temperature, SCPH-50K and later.
 
-    Download here
+    [:material-cloud-download: PS2 Temps](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_PS2TEMPS.psu)
 
 -   __ROMVER-Checker__
 
@@ -39,22 +39,7 @@
 
     Test for SCPH-37K to SCPH-70K to inform if a PICFIX is needed to save lazer upon DSP crash.
 
-    Download here
+    [:material-cloud-download: Mechacon Crash Tester](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_MECHACON-CRASH-TESTER.psu)
 
--   __wLaunch Elf (krHACKen's Fork)__
-
-    ---
-
-    Launch PS1 VCDs via wLE!
-
-    Download here
-
--   __PS2 Link__
-
-    ---
-
-    Run apps over network
-
-    Download here
 
 </div>

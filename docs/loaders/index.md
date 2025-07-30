@@ -7,7 +7,7 @@
 
     MMCE, SMB, APA, Fat32, ExFat, NBD
 
-    Download here
+    [:material-cloud-download: OPL 1.2.0 Beta 2241](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL-120B2241.psu)
 
 -   __OPL Forks__
 
@@ -35,7 +35,7 @@
 
     [Documentation](https://github.com/pcm720/nhddl)
 
-    Download [here](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_NHDDL.psu)
+    [:material-cloud-download: NHDDL](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_NHDDL.psu)
 
 -   __Neutrino__
 
@@ -47,7 +47,7 @@
 
     [Documentation](https://github.com/rickgaiser/neutrino)
 
-    Download [here](/docs/assets/NON-SAS/NEUTRINO.zip)
+    [:material-cloud-download: Neutrino](/docs/assets/NON-SAS/NEUTRINO.zip)
 
 -   __XEB+__
 
@@ -57,9 +57,11 @@
 
     This app cannot be packaged as a PSU due to subfolders and licensing.
 
-    Download [here](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
+    [:material-cloud-download: XEB+](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
     [XEB+ Neutrino Loader plugin by Sync On Luma](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin)
+
+    [:material-cloud-download: XEB+ USB folder](/docs/assets/NON-SAS/XEBPLUS.zip)
 
 -   __Unnofficial OPL__
 
@@ -67,6 +69,14 @@
 
     KrahJohnlitos last ditch attempt to make OPL great again!
 
-    Download here
+    [:material-cloud-download: uOPL](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_UOPL.psu)
+
+-   __Unnofficial OPL Betrayal__
+
+    ---
+
+    KrahJohnlitos last ditch attempt to make OPL great again forked with different theme and some fixes
+
+    [:material-cloud-download: uOPL Betrayal](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_UOPL-BETRAYAL.psu)
 
 </div>

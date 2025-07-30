@@ -7,7 +7,7 @@
 
     A game by Retroguru
 
-    Download here
+    [:material-cloud-download: Hermes](/docs/assets/SAVE-APPLICATION-SYSTEM/GME_HERMES.psu)
 
 
 </div>
