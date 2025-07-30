@@ -101,18 +101,19 @@ nav:
     - index.md
   - Exploits:
     - exploits/index.md
+    - PS2BBL: ps2bbl.md
+    - Opentuna: opentuna.md
+    - Supporting Folders: system.md
   - Loaders:
     - loaders/index.md
   - Utilities:
-    - util/index.md
+    - utilities/index.md
   - Emulators:
-    - emu/index.md
+    - emulators/index.md
   - Games:
     - games/index.md
   - Diagnostics:
     - diag/index.md
-  - System Apps:
-    - sys/index.md
   - Thanks:
     - thanks/index.md
 
