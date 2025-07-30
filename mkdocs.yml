@@ -99,21 +99,28 @@ watch:
 nav:
   - Home: 
     - index.md
+    
   - Exploits:
     - exploits/index.md
-    - PS2BBL: ps2bbl.md
-    - Opentuna: opentuna.md
-    - Supporting Folders: system.md
+    - PS2BBL: exploits/ps2bbl.md
+    - Opentuna: exploits/opentuna.md
+    - Supporting Folders: exploits/system.md
+
   - Loaders:
     - loaders/index.md
-  - Utilities:
-    - utilities/index.md
+
   - Emulators:
     - emulators/index.md
+
   - Games:
     - games/index.md
+
+  - Utilities:
+    - utilities/index.md
+
   - Diagnostics:
     - diag/index.md
+
   - Thanks:
     - thanks/index.md
 
