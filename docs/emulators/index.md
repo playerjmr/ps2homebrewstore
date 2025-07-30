@@ -1,4 +1,3 @@
-# Emulators
 
 <div class="grid cards" markdown>
 
