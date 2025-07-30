@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown>
 
--   __OPL 1.2.0 Beta 2241__
+-   __[OPL 1.2.0 Beta 2241](https://github.com/rickgaiser/Open-PS2-Loader/releases)__
 
     ---
 
@@ -26,7 +26,7 @@
 
     Download here
 
--   __NHDDL__
+-   __[NHDDL](https://github.com/pcm720/nhddl)__
 
     ---
 
@@ -38,7 +38,7 @@
 
     [:material-cloud-download: NHDDL](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_NHDDL.psu)
 
--   __Neutrino__
+-   __[Neutrino](https://github.com/rickgaiser/neutrino)__
 
     ---
 
@@ -50,7 +50,7 @@
 
     [:material-cloud-download: Neutrino](/docs/assets/NON-SAS/NEUTRINO.zip)
 
--   __XEB+__
+-   __[XEB+](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)__
 
     ---
 

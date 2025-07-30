@@ -1,7 +1,7 @@
 # Games
 <div class="grid cards" markdown>
 
--   __Hermes__
+-   __[Hermes](https://www.retroguru.com/hermes/)__
 
     ---
 

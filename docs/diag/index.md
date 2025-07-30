@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown>
 
--   __HDD Tester__
+-   __[HDD Tester](https://github.com/GrimBrew/PS2HDDTester)__
 
     ---
 
@@ -10,7 +10,7 @@
 
     [:material-cloud-download: HDD Tester](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_HDDTESTER.psu)
 
--   __Pad Test__
+-   __[Pad Test](https://www.psx-place.com/resources/ps2-controller-tester-by-jbit.670/)__
 
     ---
 
@@ -18,7 +18,7 @@
 
     [:material-cloud-download: Pad Test](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_PADTEST.psu)
 
--   __PS2 Temps__
+-   __[PS2 Temps](https://www.psx-place.com/threads/ps2temps.27864/)__
 
     ---
 
@@ -34,7 +34,7 @@
 
     Download here
 
--   __Mechacon Crash Tester__
+-   __[Mechacon Crash Tester](https://github.com/israpps/MechaconCrashTestAPP)__
 
     ---
 

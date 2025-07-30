@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown>
 
--   __DKWDRV__
+-   __[DKWDRV](https://github.com/DKWDRV/DKWDRV)__
 
     ---
 
@@ -10,7 +10,7 @@
 
     [:material-cloud-download: DKWDRV](/docs/assets/SAVE-APPLICATION-SYSTEM/PS1_DKWDRV.psu)
 
--   __POPSLoader__
+-   __[POPSLoader](https://www.psx-place.com/resources/popsloader.1396/)__
 
     ---
 
@@ -18,7 +18,7 @@
 
     [:material-cloud-download: POPSLoader](/docs/assets/SAVE-APPLICATION-SYSTEM/PS1_POPSLOADER.psu)
 
--   __PicoDrive__
+-   __[PicoDrive](https://github.com/notaz/picodrive)__
 
     ---
 
@@ -26,7 +26,7 @@
 
     [:material-cloud-download: PicoDrive](/docs/assets/SAVE-APPLICATION-SYSTEM/EMU_PICODRIVE.psu)
 
--   __Xbox 2 Playstation Emulator__
+-   __[Xbox 2 Playstation Emulator](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa)__
 
     ---
 
