@@ -57,7 +57,11 @@
 
     Fully Lua Scripted dashboard experience that is extensable
 
-    Download here
+    This app cannot be packaged as a PSU due to subfolders and licensing.
+
+    Download [here](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
+
+    [XEB+ Neutrino Loader plugin by Sync On Luma](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin)
 
 -   __Unnofficial OPL__
 
