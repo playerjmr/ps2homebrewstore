@@ -14,25 +14,25 @@ hide:
 -  [__Exploits__ Methods to run homebrew](/exploits/)
 { .card }
 
--  [__Loaders__ Load ISO files](/docs/loaders/index.md)
+-  [__Loaders__ Load ISO files](/loaders/)
 { .card }
 
--  [__Emulators__ Play Pre-PS2 games](/docs/emulators/index.md)
+-  [__Emulators__ Play Pre-PS2 games](/emulators/)
 { .card }
 
--  [__Games__ Homebrew games](/docs/games/index.md)
+-  [__Games__ Homebrew games](/games/)
 { .card }
 
--  [__Utilities__ Manage files](/docs/utilities/index.md)
+-  [__Utilities__ Manage files](/utilities/)
 { .card }
 
--  [__Diagnostics__ Discover and fix problems](/docs/diag/index.md)
+-  [__Diagnostics__ Discover and fix problems](/diag/)
 { .card }
 
 >  __Icon Meanings__ What does it mean?
 
 >  __Tutorial__ How to use this sites content
 
->  [__Thanks__ Pay your respects](/docs/thanks/index.md)
+>  [__Thanks__ Pay your respects](/thanks/)
 
 </div>
