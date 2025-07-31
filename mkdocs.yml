@@ -85,18 +85,18 @@ watch:
   
 extra:
   alternate:
-  - name: English
-    link: /en/ 
-    lang: en
-  - name: Deutsch
-    link: /de/
-    lang: de
-  - name: French
-    link: /fr/
-    lang: fr
-  - name: Spanish
-    link: /es/
-    lang: es
+  # - name: English
+  #   link: /en/ 
+  #   lang: en
+  # - name: Deutsch
+  #   link: /de/
+  #   lang: de
+  # - name: French
+  #   link: /fr/
+  #   lang: fr
+  # - name: Spanish
+  #   link: /es/
+  #   lang: es
   social:
     - icon: fontawesome/brands/discord
       name: PS2 Space on Discord
