@@ -20,7 +20,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: :material-store:
+  logo: :simple-playstation2: :material-store:
   favicon: :material-store:
   features:
     - search.suggest
