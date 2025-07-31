@@ -7,8 +7,6 @@ hide:
 
 
 ## Where shall I take you today?
-
-
 <div class="grid" markdown>
 
 [__:simple-hackaday: Exploits:__ Methods to run homebrew](/exploits/)
@@ -28,6 +26,13 @@ hide:
 
 [__:material-heart-pulse: Diagnostics:__ Discover and fix problems](/diag/)
 { .card }
+
+
+</div>
+
+
+## Help
+<div class="grid" markdown>
 
 [__:material-help-circle: Icon Meanings:__ What does it mean?](https://ps2wiki.github.io/documentation/homebrew/PS2-App-System/SAS/indicators-and-warnings/indicators-and-warnings)
 
