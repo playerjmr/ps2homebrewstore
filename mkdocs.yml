@@ -20,8 +20,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: :simple-playstation2: :material-store:
-  favicon: :material-store:
+  logo: assets/website_logo1.png
+  favicon: assets/favicon.png
   features:
     - search.suggest
     - search.highlight
@@ -105,25 +105,25 @@ extra:
 
 # Page tree
 nav:
-  - :material-home:Home: index.md
+  - Home: index.md
     
-  - :simple-hackaday:Exploits: 
+  - Exploits: 
     - exploits/index.md
     - PS2BBL: exploits/ps2bbl.md
     - Opentuna: exploits/opentuna.md
     - Supporting Folders: exploits/system.md
 
-  - :fontawesome-solid-compact-disc:Loaders: loaders/index.md
+  - Loaders: loaders/index.md
 
-  - :simple-retropie:Emulators: emulators/index.md
+  - Emulators: emulators/index.md
 
-  - :material-controller:Games: games/index.md
+  - Games: games/index.md
 
-  - :material-toolbox:Utilities: utilities/index.md
+  - Utilities: utilities/index.md
 
-  - :material-heart-pulse:Diagnostics: diag/index.md
+  - Diagnostics: diag/index.md
 
-  - :material-hand-wave:Thanks: thanks/index.md
+  - Thanks: thanks/index.md
 
 
 
