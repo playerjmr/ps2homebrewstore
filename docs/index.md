@@ -11,7 +11,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--  [__Exploits__ Methods to run homebrew](/docs/exploits/index.md)
+-  [__Exploits__ Methods to run homebrew](/exploits/index.md)
 { .card }
 
 -  [__Loaders__ Load ISO files](/docs/loaders/index.md)
