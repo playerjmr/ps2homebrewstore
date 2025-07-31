@@ -94,35 +94,30 @@ watch:
 #   - icon: fontawesome/brands/youtube
 #     name: PS2 Modchip Tutorials on YouTube
 #     link: https://www.youtube.com/@PS2ModchipTutorials
+  - icon: fontawesome/brands/discord
+    name: PS2 Space on Discord
+    link: https://discord.com/invite/JNEeD77R?utm_source=Discord%20Widget&utm_medium=Connect
 
 # Page tree
 nav:
-  - Home: 
-    - index.md
+  - Home: index.md
     
-  - Exploits:
-    - exploits/index.md
+  - Exploits: exploits/index.md
     - PS2BBL: exploits/ps2bbl.md
     - Opentuna: exploits/opentuna.md
     - Supporting Folders: exploits/system.md
 
-  - Loaders:
-    - loaders/index.md
+  - Loaders: loaders/index.md
 
-  - Emulators:
-    - emulators/index.md
+  - Emulators: emulators/index.md
 
-  - Games:
-    - games/index.md
+  - Games: games/index.md
 
-  - Utilities:
-    - utilities/index.md
+  - Utilities: utilities/index.md
 
-  - Diagnostics:
-    - diag/index.md
+  - Diagnostics: diag/index.md
 
-  - Thanks:
-    - thanks/index.md
+  - Thanks: thanks/index.md
 
 
 
