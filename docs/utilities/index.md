@@ -77,6 +77,8 @@
 
     ---
 
+    ![PS2-Link_Pic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuZE2RdTI1SUgQe-THdtXh2OjbdxH1RtifA&s)
+
     Run apps over network, useful for debugging.
 
     [:material-cloud-download: PS2 Link](/docs/assets/SAVE-APPLICATION-SYSTEM/DBG_PS2LINK.psu)
