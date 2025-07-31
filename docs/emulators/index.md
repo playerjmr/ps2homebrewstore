@@ -22,6 +22,8 @@ hide:
 
     ---
 
+    ![POPSLoader_Pic](https://i.ytimg.com/vi/3MdRi3mGGWU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-BYAC4AOKAgwIABABGH8gEygjMA8=&rs=AOn4CLBuAHWHZ2DHf7iXUfpa0a6M402uaw)
+
     Customizable POPStarter launcher.
 
     [:material-cloud-download: POPSLoader](/docs/assets/SAVE-APPLICATION-SYSTEM/PS1_POPSLOADER.psu)
@@ -29,6 +31,8 @@ hide:
 -   __[PicoDrive](https://github.com/notaz/picodrive)__
 
     ---
+
+    ![Picodrive_Pic](https://www.romspedia.com/img/emulators/PicoDrive.jpg)
 
     A port of PicoDrive for the PS2
 
