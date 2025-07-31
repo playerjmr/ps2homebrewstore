@@ -11,28 +11,28 @@ hide:
 
 <div class="grid" markdown>
 
-[__Exploits__ Methods to run homebrew](/exploits/)
+[__:simple-hackaday: Exploits:__ Methods to run homebrew](/exploits/)
 { .card }
 
-[__Loaders__ Load ISO files](/loaders/)
+[__:fontawesome-solid-compact-disc: Loaders:__ Load ISO files](/loaders/)
 { .card }
 
-[__Emulators__ Play Pre-PS2 games](/emulators/)
+[__:simple-retropie: Emulators:__ Play Pre-PS2 games](/emulators/)
 { .card }
 
-[__Games__ Homebrew games](/games/)
+[__::video_game: Games:__ Homebrew games](/games/)
 { .card }
 
-[__Utilities__ Manage files](/utilities/)
+[__:material-toolbox: Utilities:__ Manage files](/utilities/)
 { .card }
 
-[__Diagnostics__ Discover and fix problems](/diag/)
+[__:material-heart-pulse: Diagnostics:__ Discover and fix problems](/diag/)
 { .card }
 
-__Icon Meanings__ What does it mean?
+[__:material-help-circle: Icon Meanings:__ What does it mean?](https://ps2wiki.github.io/documentation/homebrew/PS2-App-System/SAS/indicators-and-warnings/indicators-and-warnings)
 
-__Tutorial__ How to use this sites content
+[__:fontawesome-brands-readme: Tutorial:__ How to use this sites content](https://ps2wiki.github.io/ps2-app-system/sas/2024/12/13/how-to-install-app-psus.html)
 
-[__Thanks__ Pay your respects](/thanks/)
+[__:material-hand-wave: Thanks:__ Pay your respects](/thanks/)
 
 </div>
