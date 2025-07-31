@@ -20,7 +20,7 @@ hide:
 [__:simple-retropie: Emulators:__ Play Pre-PS2 games](/emulators/)
 { .card }
 
-[__:video_game: Games:__ Homebrew games](/games/)
+[__:material-controller: Games:__ Homebrew games](/games/)
 { .card }
 
 [__:material-toolbox: Utilities:__ Manage files](/utilities/)

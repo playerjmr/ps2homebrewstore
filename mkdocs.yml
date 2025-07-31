@@ -107,23 +107,23 @@ extra:
 nav:
   - Home: index.md
     
-  - Exploits: 
+  - :simple-hackaday:Exploits: 
     - exploits/index.md
     - PS2BBL: exploits/ps2bbl.md
     - Opentuna: exploits/opentuna.md
     - Supporting Folders: exploits/system.md
 
-  - Loaders: loaders/index.md
+  - :fontawesome-solid-compact-disc:Loaders: loaders/index.md
 
-  - Emulators: emulators/index.md
+  - :simple-retropie:Emulators: emulators/index.md
 
-  - Games: games/index.md
+  - :video_game:Games: games/index.md
 
-  - Utilities: utilities/index.md
+  - :material-toolbox:Utilities: utilities/index.md
 
-  - Diagnostics: diag/index.md
+  - :material-heart-pulse:Diagnostics: diag/index.md
 
-  - Thanks: thanks/index.md
+  - :material-hand-wave:Thanks: thanks/index.md
 
 
 
