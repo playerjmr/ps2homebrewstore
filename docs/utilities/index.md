@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Utilities
 
 <div class="grid cards" markdown>

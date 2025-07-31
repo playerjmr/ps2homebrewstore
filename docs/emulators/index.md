@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Emulators
 
 <div class="grid cards" markdown>

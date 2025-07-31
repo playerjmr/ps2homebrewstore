@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Diagnostic Service Tools
 
 <div class="grid cards" markdown>
