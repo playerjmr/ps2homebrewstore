@@ -12,33 +12,20 @@ hide:
 
     ---
 
-    MMCE, SMB, APA, Fat32, ExFat, NBD
+    ![OPL-Latest_Pic](https://www.psx-place.com/attachments/opl-logo-2025-png.45831/)
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2241](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL-120B2241.psu)
+    Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD
 
--   __OPL Forks__
+    [:material-cloud-download: OPL 1.2.0 Beta 2241](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL-120B2241.psu) 
 
-    ---
-
-    Various functionality
-
-    Download here
-
--   __OPL Legacy__
-
-    ---
-
-    Older builds that may work for that certain game you want to play!
-
-    Download here
 
 -   __[NHDDL](https://github.com/pcm720/nhddl)__
 
     ---
 
-    Fat32, ExFat, APA, UDPBD, MMCE, MMCE
+    ![NHDDL_Pic](https://github.com/pcm720/nhddl/raw/main/img/logo/logo.png)
 
-    Frontend for Neutrino
+     Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
 
     [Documentation](https://github.com/pcm720/nhddl)
 
@@ -48,9 +35,11 @@ hide:
 
     ---
 
-    Fat32, ExFat, APA, UDPBD, MMCE, MMCE
+    ![Neutrino_Pic](https://pbs.twimg.com/media/GWga4uEW8AAZhD9.png)
 
     Neutrino is a mall, fast and modular PS2 device emulator. A frontend such as NHDDL, Xeb+ or PS2 Link passes arguments to Neutrino to run ISO. This app cannot be packaged as a PSU due to subfolders. 
+
+    Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO
 
     [Documentation](https://github.com/rickgaiser/neutrino)
 
@@ -59,6 +48,8 @@ hide:
 -   __[XEB+](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)__
 
     ---
+
+    ![XEB+_Pic](https://www.psx-place.com/attachments/xeblogo_red-png.39341/)
 
     Fully Lua Scripted dashboard experience that is extensable
 
@@ -74,16 +65,13 @@ hide:
 
     ---
 
+    ![uOPL_Pic](https://www.psx-place.com/attachments/uopl_intro-png.45122/)
+
     KrahJohnlitos last ditch attempt to make OPL great again!
 
     [:material-cloud-download: uOPL](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_UOPL.psu)
 
--   __Unnofficial OPL Betrayal__
-
-    ---
-
-    KrahJohnlitos last ditch attempt to make OPL great again forked with different theme and some fixes
-
     [:material-cloud-download: uOPL Betrayal](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_UOPL-BETRAYAL.psu)
+
 
 </div>
