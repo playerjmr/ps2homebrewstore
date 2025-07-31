@@ -77,7 +77,7 @@
 
     ---
 
-    ![PS2-Link_Pic](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMuZE2RdTI1SUgQe-THdtXh2OjbdxH1RtifA&s)
+    ![PS2-Link_Pic](https://lh3.googleusercontent.com/proxy/CYip1hRP4R6iohcIQchOoPpAlBwk25Gyvx9EYtkp3Yf37WbgjoPHQ_lM9UOk9D6TRpBZm3GgvgDgcfA)
 
     Run apps over network, useful for debugging.
 
