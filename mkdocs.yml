@@ -43,8 +43,9 @@ theme:
     admonition:
       soldering: material/soldering-iron
 
-extra_css:
-  - stylesheets/extra.css
+# Content width
+# extra_css:
+#   - stylesheets/extra.css
 
 plugins:
   - search
