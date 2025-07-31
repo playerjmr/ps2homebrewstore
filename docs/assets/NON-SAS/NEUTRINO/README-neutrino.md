@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # neutrino
 Small, Fast and Modular PS2 Device Emulator
 

@@ -1,3 +1,9 @@
+---
+search:
+  exclude: true
+---
+
+
 Spaghetticode / LC - Mendoza - Argentina / 2024 - RETROLauncher
 
 --------------------------------------------------------------------------
