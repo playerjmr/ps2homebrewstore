@@ -105,7 +105,7 @@ extra:
 
 # Page tree
 nav:
-  - Home: index.md
+  - :material-home:Home: index.md
     
   - :simple-hackaday:Exploits: 
     - exploits/index.md
@@ -117,7 +117,7 @@ nav:
 
   - :simple-retropie:Emulators: emulators/index.md
 
-  - :video_game:Games: games/index.md
+  - :material-controller:Games: games/index.md
 
   - :material-toolbox:Utilities: utilities/index.md
 
