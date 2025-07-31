@@ -6,6 +6,8 @@
 
     ---
 
+    ![DKWDRV_Pic](https://hackinformer.com/wp-content/uploads/2024/09/Untitled-4.png)
+
     Replacement for the Sony PS1DRV
 
     [:material-cloud-download: DKWDRV](/docs/assets/SAVE-APPLICATION-SYSTEM/PS1_DKWDRV.psu)
@@ -29,6 +31,8 @@
 -   __[Xbox 2 Playstation Emulator](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa)__
 
     ---
+
+    ![X2P_Pic](https://www.psx-place.com/attachments/background-frame-separated-1-1-1-png.42797/)
 
     Original Xbox Emulator for the PS2
 
