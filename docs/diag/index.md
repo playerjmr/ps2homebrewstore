@@ -1,4 +1,8 @@
-
+---
+hide:
+  - navigation
+  - toc
+---
 
 # Diagnostic Service Tools
 
