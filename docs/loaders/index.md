@@ -67,7 +67,9 @@ hide:
 
     ![uOPL_Pic](https://www.psx-place.com/attachments/uopl_intro-png.45122/)
 
-    KrahJohnlitos last ditch attempt to make OPL great again!
+    KrahJohnlitos last ditch attempt to make OPL great again! 
+
+    Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.
 
     [:material-cloud-download: uOPL](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_UOPL.psu)
 
