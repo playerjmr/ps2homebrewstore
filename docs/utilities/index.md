@@ -67,6 +67,8 @@
 
     ---
 
+    ![wlE-KHN_Pic](https://www.ps2-home.com/forum/download/file.php?id=8666&t=1&sid=50b6f47c3ed020caf5a8f36bfd2f341e)
+
     Launch PS1 VCDs via wLE!
 
     [:material-cloud-download: wLE KHN](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-KHN.psu)
