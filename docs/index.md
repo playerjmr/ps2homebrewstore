@@ -2,10 +2,19 @@
 Site is a WIP. Co-Maintainers welcomed...
 
 
-## Welcome text!
+## Where shall I take you today?
 
 
-## Icon Meanings
-What do all these icons mean?
+<div class="grid cards" markdown>
 
-Head over to the source of this info @ [PS2 Wiki!](https://ps2wiki.github.io/documentation/homebrew/PS2-App-System/SAS/indicators-and-warnings/indicators-and-warnings)
+-  __Exploits__ Methods to run homebrew
+-  __Loaders__ Load ISO files
+-  __Emulators__ Play Pre-PS2 games
+-  __Games__ Homebrew games
+-  __Utilities__ Manage files
+-  __Diagnostics__ Discover and fix problems
+-  __Icon Meanings__ What does it mean?
+-  __Tutorial__ How to use this sites content
+-  __Thanks__ Pay your respects
+
+</div>
