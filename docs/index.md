@@ -1,5 +1,9 @@
-# PS2 Homebrew Store
-Site is a WIP. Co-Maintainers welcomed...
+---
+hide:
+  - navigation
+  - toc
+---
+
 
 
 ## Where shall I take you today?
