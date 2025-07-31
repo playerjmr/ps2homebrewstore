@@ -2,7 +2,7 @@
 
 <div class="grid cards" markdown>
 
--   __PS2WIKI.GITHUB.IO__
+-   __PS2 Wiki__
 
     ---
 
@@ -13,6 +13,8 @@
 -   __PS2 Modchip Tutorials__
 
     ---
+
+    ![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png)
 
     Another site that tries to follow such structure, but directed more to the lucky modchip master race.
 
@@ -41,6 +43,17 @@
     Wiki full of PS2 Specific information
 
     [PS2DevWiki](www.ps2devwiki.com)
+
+-   __PS2 Homebrew Github__
+
+    ---
+
+    ps2homebrew is a collection of free tools for the Sony PlayStation 2® videogame system and similar hardware.
+
+    [PS2Homebrew Github](https://github.com/ps2homebrew)
+
+    https://github.com/ps2homebrew
+
 
 </div>
 

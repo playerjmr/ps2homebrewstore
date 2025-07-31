@@ -26,7 +26,7 @@
 
     ---
 
-    ![GSM_Pic](https://www.psx-place.com/resources/graphics-synthesizer-mode-selector-gsm.678/)
+    ![GSM_Pic](https://s22.postimg.cc/9lnosyf4h/gsm038.png)
 
     Hooks into software to output different video modes
 
