@@ -20,8 +20,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: assets/website_logo1.png
-  favicon: assets/favicon.png
+  logo: assets/ps2shomebrewstorelogo.png
+  favicon: assets/ps2shomebrewstorelogo.png
   features:
     - search.suggest
     - search.highlight
