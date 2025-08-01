@@ -35,8 +35,10 @@ hide:
 <div class="grid" markdown>
 
 [__:material-help-circle: Icon Meanings:__ What does it mean?](https://ps2wiki.github.io/documentation/homebrew/PS2-App-System/SAS/indicators-and-warnings/indicators-and-warnings)
+{ .card }
 
 [__:fontawesome-brands-readme: Tutorial:__ How to use this sites content](https://ps2wiki.github.io/ps2-app-system/sas/2024/12/13/how-to-install-app-psus.html)
+{ .card }
 
 [__:material-hand-wave: Thanks:__ Pay your respects](/thanks/)
 
