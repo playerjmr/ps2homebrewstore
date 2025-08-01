@@ -40,6 +40,6 @@ hide:
 [__:fontawesome-brands-readme: Tutorial:__ How to use this sites content](https://ps2wiki.github.io/ps2-app-system/sas/2024/12/13/how-to-install-app-psus.html)
 { .card }
 
-[__:material-hand-wave: Thanks:__ Pay your respects](/thanks/)
+> [__:material-hand-wave: Thanks:__ Pay your respects](/thanks/)
 
 </div>
