@@ -63,3 +63,9 @@ hide:
 
 </div>
 
+
+## No Thanks to:
+
+!!! danger
+
+    TnA Plastic of r/PS2Homebrew, psx-place.com and PS2 Scene Discord.
