@@ -12,7 +12,7 @@ hide:
 
     ---
 
-    [![PS2-Wiki_Pic](assets/ps2wiki.png){ height="75" align="middle" }](ps2wiki.github.io)
+    [![PS2-Wiki_Pic](assets/ps2wiki.png){ height="75" align="middle" }](https://ps2wiki.github.io)
 
     The inspiration for this fork, and the source of team who created such SAS/UMCS structure to make updating and supporting apps easy.
 
@@ -21,7 +21,7 @@ hide:
 
     ---
 
-    [![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png){ height="75" align="middle" }](ps2modchiptutorials.com)
+    [![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png){ height="75" align="middle" }](https://ps2modchiptutorials.com)
 
 
     Another site that tries to follow such structure, but directed more to the lucky modchip master race.
@@ -38,7 +38,7 @@ hide:
 
     ---
 
-    [![Console-Mods_Pic](assets/consolemods.png){ height="75" align="middle" }](consolemods.org)
+    [![Console-Mods_Pic](assets/consolemods.png){ height="75" align="middle" }](https://consolemods.org)
 
     Wiki full of console information
 
@@ -46,7 +46,7 @@ hide:
 
     ---
 
-    [![PS2-Dev-Wiki_Pic](assets/ps2devwiki.png){ height="75" align="middle" }](www.ps2devwiki.com)
+    [![PS2-Dev-Wiki_Pic](assets/ps2devwiki.png){ height="75" align="middle" }](https://www.ps2devwiki.com)
 
     Wiki full of PS2 Specific information
 
