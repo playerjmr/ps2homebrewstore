@@ -39,9 +39,7 @@ theme:
     - content.code.annotate
     - toc.follow
     # - toc.integrate
-  icon:
-    admonition:
-      soldering: material/soldering-iron
+
 
 # Content width
 # extra_css:
@@ -124,6 +122,8 @@ nav:
   - Diagnostics: diag/index.md
 
   - Thanks: thanks/index.md
+
+  - ALL: test/index.md
 
 
 
