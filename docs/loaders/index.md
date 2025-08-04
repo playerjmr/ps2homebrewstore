@@ -12,7 +12,7 @@ hide:
 
     ---
 
-    [![OPL-Latest_Pic](https://www.psx-place.com/attachments/opl-logo-2025-png.45831/)](https://github.com/rickgaiser/Open-PS2-Loader/releases)
+    [![OPL-Latest_Pic](assets/opol_2025.png)](https://github.com/rickgaiser/Open-PS2-Loader/releases)
 
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD
 
@@ -23,7 +23,7 @@ hide:
 
     ---
 
-    [![NHDDL_Pic](https://github.com/pcm720/nhddl/raw/main/img/logo/logo.png)](https://github.com/pcm720/nhddl)
+    [![NHDDL_Pic](assets/nhddl.png)](https://github.com/pcm720/nhddl)
 
      Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
 
@@ -36,7 +36,7 @@ hide:
 
     ---
 
-    [![Neutrino_Pic](https://pbs.twimg.com/media/GWga4uEW8AAZhD9.png)](https://github.com/rickgaiser/neutrino)
+    [![Neutrino_Pic](assets/neutrino.png)](https://github.com/rickgaiser/neutrino)
 
     Neutrino is a mall, fast and modular PS2 device emulator. A frontend such as NHDDL, PS2BBN DEP, OSD-XMB, XEB+ or PS2 Link is needed. 
 
@@ -53,7 +53,7 @@ hide:
 
     ---
 
-    [![XEB+_Pic](https://www.psx-place.com/attachments/xeblogo_red-png.39341/)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
+    [![XEB+_Pic](assets/xeb_logo.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
     Fully Lua Scripted dashboard experience that is extensable. Download and extract to [XEB+ USB folder](/docs/assets/NON-SAS/XEBPLUS.zip).
 
@@ -70,7 +70,7 @@ hide:
 
     ---
 
-    [![uOPL_Pic](https://www.psx-place.com/attachments/uopl_intro-png.45122/)](https://github.com/NathanNeurotic/uOPL)
+    [![uOPL_Pic](assets/uopl.png)](https://github.com/NathanNeurotic/uOPL)
 
     KrahJohnlitos last ditch attempt to make OPL great again! 
 
