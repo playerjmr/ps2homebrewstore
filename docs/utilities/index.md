@@ -12,7 +12,7 @@ hide:
 
     ---
 
-    [![Apollo-Save-Tool_Pic](https://github.com/bucanero/apollo-ps2/raw/main/docs/screenshots/screenshot-main.png)](https://github.com/bucanero/apollo-ps2)
+    [![Apollo-Save-Tool_Pic](assets/apollo.png)](https://github.com/bucanero/apollo-ps2)
 
     Save file manager
 
@@ -23,7 +23,7 @@ hide:
 
     ---
 
-    [![Argon_Pic](https://s8.postimg.cc/oxb4ngdth/image.jpg)](http://sourceforge.net/projects/argon-ps2/)
+    [![Argon_Pic](assets/argon.jpg)](http://sourceforge.net/projects/argon-ps2/)
 
     SMS based video player with XMB GUI
 
@@ -34,7 +34,7 @@ hide:
 
     ---
 
-    [![GSM_Pic](https://s22.postimg.cc/9lnosyf4h/gsm038.png)](https://www.psx-place.com/resources/graphics-synthesizer-mode-selector-gsm.678/)
+    [![GSM_Pic](assets/gsm.png)](https://www.psx-place.com/resources/graphics-synthesizer-mode-selector-gsm.678/)
 
     Hooks into software to output different video modes. Caution: does break apps/games.
 
@@ -45,7 +45,7 @@ hide:
 
     ---
 
-    [![SMS_Pic](https://www.ps2homebrew.org/SMS/images/usage-network-smb-sms_usage05.png)](https://github.com/ps2homebrew/SMS?tab=readme-ov-file)
+    [![SMS_Pic](assets/sms.jpg)](https://github.com/ps2homebrew/SMS?tab=readme-ov-file)
 
     Video Player
 
@@ -56,7 +56,7 @@ hide:
 
     ---
 
-    [![wLE_Pic](https://www.psx-place.com/attachments/boot-no_network-elf_20221227130514-png.39347/)](https://github.com/israpps/wLaunchELF_ISR)
+    [![wLE_Pic](assets/wle_isr.png)](https://github.com/israpps/wLaunchELF_ISR)
 
     File manager with support for multiple devices.
 
@@ -73,7 +73,7 @@ hide:
 
     ---
 
-    [![wlE-KHN_Pic](https://www.ps2-home.com/forum/download/file.php?id=8666&t=1&sid=50b6f47c3ed020caf5a8f36bfd2f341e)](https://www.psx-place.com/resources/unofficial-launchelf-khn.1534/)
+    [![wlE-KHN_Pic](assets/ule_khn.png)](https://www.psx-place.com/resources/unofficial-launchelf-khn.1534/)
 
     Launch PS1 VCDs via wLE!
 
@@ -83,7 +83,7 @@ hide:
 
     ---
 
-    [![PS2-Link_Pic](https://lh3.googleusercontent.com/proxy/CYip1hRP4R6iohcIQchOoPpAlBwk25Gyvx9EYtkp3Yf37WbgjoPHQ_lM9UOk9D6TRpBZm3GgvgDgcfA)](https://github.com/ps2dev/ps2link)
+    [![PS2-Link_Pic](assets/ps2link.jpg)](https://github.com/ps2dev/ps2link)
 
     Run apps over network, useful for debugging.
 
@@ -96,7 +96,7 @@ hide:
 
     ---
 
-    [![MCA_Pic](https://www.psx-place.com/attachments/mca_mcinfo-png.35902/)](https://github.com/ffgriever-pl/Memory-Card-Annihilator)
+    [![MCA_Pic](assets/mca.png)](https://github.com/ffgriever-pl/Memory-Card-Annihilator)
 
     Format, Backup and Restore your normal memory cards.
 
@@ -107,7 +107,7 @@ hide:
 
     ---
 
-    [![Power_Pic](https://i.imgur.com/ot9PAlh.png)](https://www.psx-place.com/resources/power-off-power-off-elf.349/)
+    [![Power_Pic](assets/shutdown.png)](https://www.psx-place.com/resources/power-off-power-off-elf.349/)
 
     PowerOff or Restart the PS2.
 
