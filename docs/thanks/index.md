@@ -12,7 +12,7 @@ hide:
 
     ---
 
-    [![PS2-Wiki_Pic](assets/ps2wiki.png){ height="25" }](https://ps2wiki.github.io)
+    [![PS2-Wiki_Pic](assets/ps2wiki.png){ height=25 }](https://ps2wiki.github.io)
 
     The inspiration for this fork, and the source of team who created such SAS/UMCS structure to make updating and supporting apps easy.
 
@@ -21,7 +21,7 @@ hide:
 
     ---
 
-    [![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png){ height="75" align=middle }](https://ps2modchiptutorials.com)
+    [![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png){ height="50" align=middle }](https://ps2modchiptutorials.com)
 
 
     Another site that tries to follow such structure, but directed more to the lucky modchip master race.
