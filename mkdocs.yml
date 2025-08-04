@@ -5,8 +5,8 @@ theme:
   name: material
   custom_dir: overrides
   language: en 
-  logo: assets/ps2shomebrewstorelogo.png
-  favicon: assets/ps2shomebrewstorelogo.png
+  logo: material/store
+  favicon: material/store
   font:
     text: Oxanium
     code: Roboto Mono

@@ -18,3 +18,4 @@
 *[PSBBN]: Playstation Broadband Network
 *[DEP]: Definitive English Patch
 *[XEB+]: Xtreme Elite Boot Plus
+*[NHDDL]: Neutrino HDD Launcher (Fat32 USB, Exfat USB/HDD, APA, MMCE, iLINK, UDPBD)
