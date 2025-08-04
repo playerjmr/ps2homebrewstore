@@ -17,3 +17,4 @@
 *[PS2BBL]: Playstation 2 Basic Bootloader
 *[PSBBN]: Playstation Broadband Network
 *[DEP]: Definitive English Patch
+*[XEB+]: Xtreme Elite Boot Plus
