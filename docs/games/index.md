@@ -7,11 +7,11 @@ hide:
 # Games
 <div class="grid cards" markdown>
 
--   __[Hermes](https://www.retroguru.com/hermes/)__
+-   __Hermes__
 
     ---
 
-    ![Hermes_Pic](https://www.retroguru.com/hermes/hermes-screenshot-1_thumb.png)
+    [![Hermes_Pic](https://www.retroguru.com/hermes/hermes-screenshot-1_thumb.png)](https://www.retroguru.com/hermes/)
 
     A game by Retroguru
 
