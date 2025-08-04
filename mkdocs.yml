@@ -5,6 +5,8 @@ theme:
   name: material
   custom_dir: overrides
   language: en 
+  logo: assets/ps2shomebrewstorelogo.png
+  favicon: assets/ps2shomebrewstorelogo.png
   font:
     text: Oxanium
     code: Roboto Mono
@@ -20,8 +22,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  logo: assets/ps2shomebrewstorelogo.png
-  favicon: assets/ps2shomebrewstorelogo.png
   features:
     - search.suggest
     - search.highlight
