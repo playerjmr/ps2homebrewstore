@@ -12,7 +12,7 @@ hide:
 
     ---
 
-    [![PS2-Wiki_Pic](assets/ps2wiki.png){ height="75" align=middle }](https://ps2wiki.github.io)
+    [![PS2-Wiki_Pic](assets/ps2wiki.png){ height="75" }](https://ps2wiki.github.io)
 
     The inspiration for this fork, and the source of team who created such SAS/UMCS structure to make updating and supporting apps easy.
 
