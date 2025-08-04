@@ -27,7 +27,7 @@ hide:
 
      Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
 
-    [Documentation](https://github.com/pcm720/nhddl)
+    [:material-file-document: Documentation](https://github.com/pcm720/nhddl)
 
     [:material-cloud-download: NHDDL](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_NHDDL.psu)
 
@@ -44,7 +44,7 @@ hide:
 
     This app cannot be packaged as a PSU due to subfolders. 
 
-    [Documentation](https://github.com/rickgaiser/neutrino)
+    [:material-file-document: Documentation](https://github.com/rickgaiser/neutrino)
 
     [:material-cloud-download: Neutrino](/docs/assets/NON-SAS/NEUTRINO.zip)
 
