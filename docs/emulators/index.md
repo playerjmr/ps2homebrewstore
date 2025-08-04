@@ -12,7 +12,7 @@ hide:
 
     ---
 
-    [![DKWDRV_Pic](https://hackinformer.com/wp-content/uploads/2024/09/Untitled-4.png)](https://github.com/DKWDRV/DKWDRV)
+    [![DKWDRV_Pic](assets/dkwdrv.png)](https://github.com/DKWDRV/DKWDRV)
 
     Replacement for the Sony PS1DRV
 
@@ -22,7 +22,7 @@ hide:
 
     ---
 
-    [![POPSLoader_Pic](https://i.ytimg.com/vi/3MdRi3mGGWU/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-BYAC4AOKAgwIABABGH8gEygjMA8=&rs=AOn4CLBuAHWHZ2DHf7iXUfpa0a6M402uaw)](https://www.psx-place.com/resources/popsloader.1396/)
+    [![POPSLoader_Pic](assets/popsloader.jpg)](https://www.psx-place.com/resources/popsloader.1396/)
 
     Customizable POPStarter launcher.
 
@@ -32,7 +32,7 @@ hide:
 
     ---
 
-    [![Picodrive_Pic](https://www.romspedia.com/img/emulators/PicoDrive.jpg)](https://github.com/notaz/picodrive)
+    [![Picodrive_Pic](assets/picodrive.jpg)](https://github.com/notaz/picodrive)
 
     A port of PicoDrive for the PS2
 
@@ -42,7 +42,7 @@ hide:
 
     ---
 
-    [![X2P_Pic](https://www.psx-place.com/attachments/background-frame-separated-1-1-1-png.42797/)](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa)
+    [![X2P_Pic](assets/x2p.jpg)](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa)
 
     Original Xbox Emulator for the PS2
 
