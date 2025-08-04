@@ -43,3 +43,8 @@ hide:
 > [__:material-hand-wave: Thanks:__ Pay your respects](/thanks/)
 
 </div>
+
+
+!!! info "Source Material"
+
+    Applications are the property of of the their respective developers. Source material is linked where possible by clicking the apps picture as well as in title.cfg included within each download folder.
