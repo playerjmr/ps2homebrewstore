@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+search:
+  exclude: true
 ---
 
 ## ISO Loaders
