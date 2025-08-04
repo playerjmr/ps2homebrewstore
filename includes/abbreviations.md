@@ -15,3 +15,4 @@
 *[OEM]: Original Equipment Manufacturer
 *[Loader]: ISO loader such as OPL or Neutrino
 *[PS2BBL]: Playstation 2 Basic Bootloader
+*[PSBBN]: Playstation Broadband Network
