@@ -66,7 +66,7 @@ hide:
 
     [:material-cloud-download: wLE ISR ExFat USB / MX4SIO](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF-MX.psu)
 
-    [:material-cloud-download: wLE ISR HDD](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-HDD.psu)
+    [:material-cloud-download: wLE ISR HDD](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-HDD.psu) Alows system partitions that start with double underscores to be managed IE __system
 
 
 -   __wLaunch Elf (krHACKen's Fork)__
