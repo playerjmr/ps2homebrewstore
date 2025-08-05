@@ -12,7 +12,7 @@ hide:
 
     ---
 
-    [![OPL-Latest_Pic](assets/opol_2025.png)](https://github.com/rickgaiser/Open-PS2-Loader/releases)
+    [![OPL-Latest_Pic](assets/opl2025.png)](https://github.com/rickgaiser/Open-PS2-Loader/releases)
 
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD
 
@@ -53,7 +53,7 @@ hide:
 
     ---
 
-    [![XEB+_Pic](assets/xeb_logo.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
+    [![XEB+_Pic](assets/xeb.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
     Fully Lua Scripted dashboard experience that is extensable. Download and extract to [XEB+ USB folder](/docs/assets/NON-SAS/XEBPLUS.zip).
 

@@ -54,7 +54,7 @@ search:
 
     ---
 
-    [![XEB+_Pic](assets/xeb_logo.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
+    [![XEB+_Pic](assets/xeb.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
     Fully Lua Scripted dashboard experience that is extensable. Download and extract to [XEB+ USB folder](/docs/assets/NON-SAS/XEBPLUS.zip).
 
@@ -125,7 +125,7 @@ search:
 
     ---
 
-    [![SMS_Pic](assets/sms.jpg)](https://github.com/ps2homebrew/SMS?tab=readme-ov-file)
+    [![SMS_Pic](assets/sms.png)](https://github.com/ps2homebrew/SMS?tab=readme-ov-file)
 
     Video Player
 
@@ -163,7 +163,7 @@ search:
 
     ---
 
-    [![PS2-Link_Pic](assets/ps2link.jpg)](https://github.com/ps2dev/ps2link)
+    [![PS2-Link_Pic](assets/ps2link.png)](https://github.com/ps2dev/ps2link)
 
     Run apps over network, useful for debugging.
 

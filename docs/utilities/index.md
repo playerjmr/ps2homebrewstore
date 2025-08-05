@@ -45,7 +45,7 @@ hide:
 
     ---
 
-    [![SMS_Pic](assets/sms.jpg)](https://github.com/ps2homebrew/SMS?tab=readme-ov-file)
+    [![SMS_Pic](assets/sms.png)](https://github.com/ps2homebrew/SMS?tab=readme-ov-file)
 
     Video Player
 
@@ -83,7 +83,7 @@ hide:
 
     ---
 
-    [![PS2-Link_Pic](assets/ps2link.jpg)](https://github.com/ps2dev/ps2link)
+    [![PS2-Link_Pic](assets/ps2link.png)](https://github.com/ps2dev/ps2link)
 
     Run apps over network, useful for debugging.
 
