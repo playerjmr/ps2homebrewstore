@@ -26,7 +26,7 @@ search:
 
     [![NHDDL_Pic](assets/nhddl.png)](https://github.com/pcm720/nhddl)
 
-     Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
+     Frontend for Neutrino.
 
     [:material-file-document: Documentation](https://github.com/pcm720/nhddl)
 
@@ -39,9 +39,9 @@ search:
 
     [![Neutrino_Pic](assets/neutrino.png)](https://github.com/rickgaiser/neutrino)
 
-    Neutrino is a mall, fast and modular PS2 device emulator. A frontend such as NHDDL, PS2BBN DEP, OSD-XMB, XEB+ or PS2 Link is needed. 
+    Neutrino is a small, fast and modular PS2 device emulator. A frontend such as NHDDL, PS2BBN DEP, OSD-XMB, XEB+ or PS2 Link is needed. 
 
-    Supports: Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO
+    Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO
 
     This app cannot be packaged as a PSU due to subfolders. 
 
@@ -239,7 +239,7 @@ search:
 
     [![X2P_Pic](assets/x2p.jpg)](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa)
 
-    Original Xbox Emulator for the PS2
+    Original Xbox Emulator for the PS2 based off OPL 1.2.0 2081. Note: this was an April Fools joke but is a fully functional theme
 
     [:material-cloud-download: XB2PS2](/docs/assets/SAVE-APPLICATION-SYSTEM/EMU_X2P.psu)
 

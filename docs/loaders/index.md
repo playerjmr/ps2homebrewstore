@@ -38,9 +38,9 @@ hide:
 
     [![Neutrino_Pic](assets/neutrino.png)](https://github.com/rickgaiser/neutrino)
 
-    Neutrino is a mall, fast and modular PS2 device emulator. A frontend such as NHDDL, PS2BBN DEP, OSD-XMB, XEB+ or PS2 Link is needed. 
+    Neutrino is a small, fast and modular PS2 device emulator. A frontend such as NHDDL, PS2BBN DEP, OSD-XMB, XEB+ or PS2 Link is needed. 
 
-    Supports: Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO
+    Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO
 
     This app cannot be packaged as a PSU due to subfolders. 
 
