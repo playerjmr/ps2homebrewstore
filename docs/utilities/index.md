@@ -66,7 +66,7 @@ hide:
 
     [:material-cloud-download: wLE ISR ExFat USB / MX4SIO](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF-MX.psu)
 
-    [:material-cloud-download: wLE ISR HDD](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-HDD.psu) Alows system partitions that start with double underscores to be managed IE __system
+    [:material-cloud-download: wLE ISR HDD](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-HDD.psu) Used for [header injection](https://www.psx-place.com/threads/wlaunchelf-isr_hdd.34075/) retrieved from `mass:/__Headers/%PARTITION_NAME%/*` Expects list.ico, icon.sys, system.cnf, boot.kelf
 
 
 -   __wLaunch Elf (krHACKen's Fork)__
@@ -75,7 +75,7 @@ hide:
 
     [![wlE-KHN_Pic](assets/ule_khn.png)](https://www.psx-place.com/resources/unofficial-launchelf-khn.1534/)
 
-    Launch PS1 VCDs via wLE!
+    Launch PS1 VCDs via wLE and allows system partitions that start with double underscores to be managed IE __system
 
     [:material-cloud-download: wLE KHN](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-KHN.psu)
 
