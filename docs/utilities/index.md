@@ -103,18 +103,27 @@ hide:
     [:material-cloud-download: Memory Card Annihilator](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_MCA.psu)
 
 
--   __PowerOff PS2 / Restart PS2__
+-   __PowerOff PS2__
 
     ---
 
-    [![Power_Pic](assets/shutdown.png)](https://www.psx-place.com/resources/power-off-power-off-elf.349/)
+    [![Power_Pic](assets/poweroff.png)](https://www.psx-place.com/resources/power-off-power-off-elf.349/)
 
-    PowerOff or Restart the PS2.
+    Turn off the PS2 console.
 
     [:material-cloud-download: Memory Card Annihilator](/docs/assets/SAVE-APPLICATION-SYSTEM/POWEROFF.psu)
 
     [:material-cloud-download: Reboot](/docs/assets/SAVE-APPLICATION-SYSTEM/RESTART.psu)
 
+-   __Reboot PS2__
+
+    ---
+
+    [![Restart_Pic](assets/restart.png)](https://www.psx-place.com/resources/reboot-reboot-elf.348/)
+
+    Reboot the PS2.
+
+    [:material-cloud-download: Reboot](/docs/assets/SAVE-APPLICATION-SYSTEM/RESTART.psu)
 
 
 </div>
