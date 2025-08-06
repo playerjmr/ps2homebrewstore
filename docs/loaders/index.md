@@ -14,9 +14,13 @@ hide:
 
     [![OPL-Latest_Pic](assets/opl2025.png)](https://github.com/rickgaiser/Open-PS2-Loader/releases)
 
-    Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD
+    Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD (2241)
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2241](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL-120B2241.psu)
+    [:material-cloud-download: OPL 1.2.0 Beta 2241](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2241.psu) RECOMMENDED
+
+    [:material-cloud-download: OPL 1.2.0 Beta 2212](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2212.psu)
+
+    [:material-cloud-download: OPL 1.2.0 Beta 2049](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2049GID.psu)
 
 
 -   __Unnofficial OPL__
