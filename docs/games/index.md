@@ -12,7 +12,7 @@ hide:
 
     ---
 
-    [![Hermes_Pic](assets/hermes.png)](https://www.retroguru.com/hermes/)
+    [![Hermes_Pic](assets/hermes.png){ width="300" }](https://www.retroguru.com/hermes/)
 
     A game by Retroguru
 
