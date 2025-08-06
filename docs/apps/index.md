@@ -66,7 +66,7 @@ hide:
 
     [:material-cloud-download: wLE ISR ExFat USB / MX4SIO](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF-MX.psu)
 
-    [:material-cloud-download: wLE ISR HDD](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-HDD.psu) Used for [header injection](https://www.psx-place.com/threads/wlaunchelf-isr_hdd.34075/) retrieved from `mass:/__Headers/%PARTITION_NAME%/*` Expects list.ico, icon.sys, system.cnf, boot.kelf
+    [:material-cloud-download: wLE ISR HDD](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-HDD.psu) Used for [:material-file-document: header injection](https://www.psx-place.com/threads/wlaunchelf-isr_hdd.34075/)
 
 
 -   __wLaunch Elf (krHACKen's Fork)__
