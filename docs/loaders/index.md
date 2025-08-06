@@ -8,7 +8,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __OPL 1.2.0 Beta 2241__
+-   __OPL__
 
     ---
 
