@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# Utilities
+# Applications
 
 <div class="grid cards" markdown>
 

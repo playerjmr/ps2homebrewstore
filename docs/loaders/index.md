@@ -16,7 +16,22 @@ hide:
 
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2241](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL-120B2241.psu) 
+    [:material-cloud-download: OPL 1.2.0 Beta 2241](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL-120B2241.psu)
+
+
+-   __Unnofficial OPL__
+
+    ---
+
+    [![uOPL_Pic](assets/uopl.png)](https://github.com/NathanNeurotic/uOPL)
+
+    KrahJohnlitos last ditch attempt to make OPL great again! 
+
+    Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.
+
+    [:material-cloud-download: uOPL](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_UOPL.psu)
+
+    [:material-cloud-download: uOPL Betrayal](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_UOPL-BETRAYAL.psu) 
 
 
 -   __NHDDL__
@@ -65,20 +80,6 @@ hide:
 
     [:material-cloud-download: XEB+ USB folder](/docs/assets/NON-SAS/XEBPLUS.zip)
 
-
--   __Unnofficial OPL__
-
-    ---
-
-    [![uOPL_Pic](assets/uopl.png)](https://github.com/NathanNeurotic/uOPL)
-
-    KrahJohnlitos last ditch attempt to make OPL great again! 
-
-    Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.
-
-    [:material-cloud-download: uOPL](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_UOPL.psu)
-
-    [:material-cloud-download: uOPL Betrayal](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_UOPL-BETRAYAL.psu)
 
 
 </div>
