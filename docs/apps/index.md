@@ -111,9 +111,7 @@ hide:
 
     Turn off the PS2 console.
 
-    [:material-cloud-download: Memory Card Annihilator](/docs/assets/SAVE-APPLICATION-SYSTEM/POWEROFF.psu)
-
-    [:material-cloud-download: Reboot](/docs/assets/SAVE-APPLICATION-SYSTEM/RESTART.psu)
+    [:material-cloud-download: PowerOff](/docs/assets/SAVE-APPLICATION-SYSTEM/POWEROFF.psu)
 
 -   __Reboot PS2__
 
