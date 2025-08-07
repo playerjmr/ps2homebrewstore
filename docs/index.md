@@ -12,7 +12,7 @@ hide:
 [__:simple-hackaday: Exploits:__ Methods to run homebrew](/exploits/)
 { .card }
 
-[__:fontawesome-solid-compact-disc: Loaders:__ Load ISO files](/loaders/)
+[__:fontawesome-solid-compact-disc: Loaders:__ Play games in ISO format!](/loaders/)
 { .card }
 
 [__:material-toolbox: Applications:__ Manage files, play videos etc!](/apps/)
