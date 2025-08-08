@@ -34,7 +34,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.path
-    - navigation.top
+    # - navigation.top
     - content.code.copy
     - content.code.select
     - content.code.annotate
