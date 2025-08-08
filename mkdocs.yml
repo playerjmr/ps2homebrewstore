@@ -106,8 +106,7 @@ extra:
 nav:
   - Home: index.md
     
-  - Exploits: 
-    - exploits/index.md
+  - Exploits: exploits/index.md
 
   - Loaders: loaders/index.md
 
