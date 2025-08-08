@@ -108,9 +108,6 @@ nav:
     
   - Exploits: 
     - exploits/index.md
-    - PS2BBL: exploits/PS2BBL.md
-    - Opentuna: exploits/opentuna.md
-    - Supporting Folders: exploits/system.md
 
   - Loaders: loaders/index.md
 
