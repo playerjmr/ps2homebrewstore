@@ -11,6 +11,7 @@
 *[ELF]: Executable and Linkable Format. Executables/Applications for PS2
 *[MMCE]: Multipurpose Memory Card Emulator: SD2PSX, PSxMemCard Gen2, MemCardPro 2
 *[VMC]: Virtual Memory Card used by MMCE Device or OPL
+*[VMCs]: Virtual Memory Card(s) used by MMCE Device or OPL
 *[OPL]: Open PS2 Loader
 *[OEM]: Original Equipment Manufacturer
 *[Loader]: ISO loader such as OPL or Neutrino
