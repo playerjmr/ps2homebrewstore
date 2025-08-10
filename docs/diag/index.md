@@ -9,7 +9,7 @@ hide:
 <div class="grid cards" markdown>
 
 
--   __[:material-cloud-download:](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_HDDTESTER.psu) HDD Tester__
+-   __HDD Tester__
 
     ---
 
