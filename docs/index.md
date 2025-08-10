@@ -12,10 +12,10 @@ hide:
 [__:simple-hackaday: Exploits:__ Pre-made AIO VMCs to run homebrew](/exploits/)
 { .card }
 
-[__:fontawesome-solid-compact-disc: Loaders:__ Play games in ISO format!](/loaders/)
+[__:fontawesome-solid-compact-disc: Loaders:__ Play games in ISO format](/loaders/)
 { .card }
 
-[__:material-toolbox: Applications:__ Manage files, play videos etc!](/apps/)
+[__:material-toolbox: Applications:__ Manage files, play videos etc](/apps/)
 { .card }
 
 [__:simple-retropie: Emulators:__ Play Pre-PS2 games](/emulators/)
