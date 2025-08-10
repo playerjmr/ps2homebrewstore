@@ -9,7 +9,7 @@ hide:
 ## Where shall I take you today?
 <div class="grid" markdown>
 
-[__:simple-hackaday: Exploits:__ Methods to run homebrew](/exploits/)
+[__:simple-hackaday: Exploits:__ Pre-made AIO VMCs to run homebrew](/exploits/)
 { .card }
 
 [__:fontawesome-solid-compact-disc: Loaders:__ Play games in ISO format!](/loaders/)
