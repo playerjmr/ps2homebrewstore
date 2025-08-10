@@ -50,7 +50,7 @@ extra_css:
 plugins:
   - search
   - blog
-  - glightbox
+  - glightbox:
       manual: true
 
 markdown_extensions:
