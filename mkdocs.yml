@@ -51,6 +51,7 @@ plugins:
   - search
   - blog
   - glightbox
+      manual: true
 
 markdown_extensions:
   - attr_list
