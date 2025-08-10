@@ -21,4 +21,4 @@
 *[XEB+]: Xtreme Elite Boot Plus
 *[NHDDL]: Neutrino HDD Launcher (Fat32 USB, Exfat USB/HDD, APA, MMCE, iLINK, UDPBD)
 *[GUI]: Graphical User Interface
-*[AIO]: All-in-one
+*[AIO]: All-In-One
