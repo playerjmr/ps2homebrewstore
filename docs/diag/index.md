@@ -26,7 +26,7 @@ hide:
 
     [![Mech-Crash-Test_Pic](assets/mechcrashtester.png)](https://ps2modchiptutorials.com/misc/picfix.html)
 
-    Test for SCPH-37K to SCPH-70K to inform if a PICFIX is needed to save lazer upon DSP crash.
+    Test for SCPH-37K to SCPH-70K to inform if a [PICFIX](https://ps2modchiptutorials.com/misc/picfix/) or PICFIXv2 is needed to save lazer upon DSP crash.
 
     [:material-cloud-download: Mechacon Crash Tester](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_MECHACON-CRASH-TESTER.psu)
 
