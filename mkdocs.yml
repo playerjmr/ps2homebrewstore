@@ -6,8 +6,9 @@ theme:
   custom_dir: overrides
   language: en 
   icon:
-    logo: material/store
+    # logo: material/store
     favicon: material/store
+  logo: assets/logo.png
   font:
     text: Oxanium
     code: Roboto Mono
