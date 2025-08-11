@@ -70,7 +70,7 @@ hide:
 
     Check if a PS2 supports: System Updates, MechaPwn, ProtoPwn
 
-    INCOMING...[:material-cloud-download: ROM Version Check]()
+    [:material-cloud-download: ROM Version Check](../assets/SAVE-APPLICATION-SYSTEM/DST_ROMVERCHK.psu)
 
 
 </div>
