@@ -62,7 +62,7 @@ hide:
 
     [:material-cloud-download: PS2 Temps](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_PS2TEMPS.psu)
 
--   __ROM Version Check__
+-   __ROM Version Checker__
 
     ---
 
@@ -70,7 +70,7 @@ hide:
 
     Check if a PS2 supports: System Updates, MechaPwn, ProtoPwn
 
-    [:material-cloud-download: ROM Version Check](../assets/SAVE-APPLICATION-SYSTEM/DST_ROMVERCHK.psu)
+    [:material-cloud-download: ROM Version Checker](../assets/SAVE-APPLICATION-SYSTEM/DST_ROMVERCHK.psu)
 
 
 </div>
