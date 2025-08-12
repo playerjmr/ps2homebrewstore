@@ -62,7 +62,7 @@ hide:
 
     [:material-cloud-download: PS2 Temps](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_PS2TEMPS.psu)
 
--   __ROM Version Checker__
+-   __ROM Version Check__
 
     ---
 
