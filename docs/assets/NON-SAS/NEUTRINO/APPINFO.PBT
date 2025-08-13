@@ -9,8 +9,8 @@
 #
 # Source: https://github.com/rickgaiser/neutrino
 SET "TITLE" "[RTE] NEUTRINO"
-SET "VERSION" "1.61"
-SET "AUTHOR" "github.com/pcm720"
+SET "VERSION" "1.70"
+SET "AUTHOR" "https://github.com/rickgaiser/neutrinoi"
 SET "DESC" "A neutrino is a particle with almost zero mass, and that's what this device emulator's primary goal is. To have almost 0 mass when emulating devices to maximize compatibility."
 SET "ELF" ""
 SET "SAS" "NEUTRINO"

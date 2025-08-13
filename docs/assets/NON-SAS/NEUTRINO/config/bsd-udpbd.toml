@@ -12,7 +12,7 @@ env = ["LE", "EE"]
 
 # Faking strategy
 # ---------------
-# To prevent games from trying to use networking:
+# To prevent games from trying to use networing:
 # - we try to simulate that there is no dev9 hardware present:
 #   - dev9 returns NO_RESIDENT_END, module is hidden
 #   - all modules depending on dev9 fail to load becouse dev9 is not resident
