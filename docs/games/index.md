@@ -16,7 +16,7 @@ hide:
 
     A game by Retroguru
 
-    [:material-cloud-download: Hermes](/docs/assets/SAVE-APPLICATION-SYSTEM/GME_HERMES.psu)
+    [:material-cloud-download: Hermes](../assets/SAVE-APPLICATION-SYSTEM/GME_HERMES.psu)
 
 
 </div>

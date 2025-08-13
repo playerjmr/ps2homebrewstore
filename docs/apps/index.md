@@ -16,7 +16,7 @@ hide:
 
     Save file manager
 
-    [:material-cloud-download: Apollo](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_APOLLO.psu)
+    [:material-cloud-download: Apollo](../assets/SAVE-APPLICATION-SYSTEM/APP_APOLLO.psu)
 
 
 -   __Argon__
@@ -27,7 +27,7 @@ hide:
 
     SMS based video player with XMB GUI
 
-    [:material-cloud-download: Argon](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_ARGON.psu)
+    [:material-cloud-download: Argon](../assets/SAVE-APPLICATION-SYSTEM/APP_ARGON.psu)
 
 
 -   __Graphics Synthesizer Mode (GSM)__
@@ -38,7 +38,7 @@ hide:
 
     Hooks into software to output different video modes. Caution: does break apps/games.
 
-    [:material-cloud-download: GSM](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_GSM.psu)
+    [:material-cloud-download: GSM](../assets/SAVE-APPLICATION-SYSTEM/APP_GSM.psu)
 
 
 -   __Simple Media System (SMS)__
@@ -49,7 +49,7 @@ hide:
 
     Video Player
 
-    [:material-cloud-download: SMS](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_SMS.psu)
+    [:material-cloud-download: SMS](../assets/SAVE-APPLICATION-SYSTEM/APP_SMS.psu)
 
 
 -   __wLaunch ELF (El Isra's Fork)__
@@ -60,13 +60,13 @@ hide:
 
     File manager with support for multiple devices.
 
-    [:material-cloud-download: wLE ISR ExFat USB](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF.psu)
+    [:material-cloud-download: wLE ISR ExFat USB](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF.psu)
 
-    [:material-cloud-download: wLE ISR ExFat USB / MMCE](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF-MM.psu)
+    [:material-cloud-download: wLE ISR ExFat USB / MMCE](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF-MM.psu)
 
-    [:material-cloud-download: wLE ISR ExFat USB / MX4SIO](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF-MX.psu)
+    [:material-cloud-download: wLE ISR ExFat USB / MX4SIO](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF-MX.psu)
 
-    [:material-cloud-download: wLE ISR HDD](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-HDD.psu) Used for [:material-file-document: header injection](https://www.psx-place.com/threads/wlaunchelf-isr_hdd.34075/)
+    [:material-cloud-download: wLE ISR HDD](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-HDD.psu) Used for [:material-file-document: header injection](https://www.psx-place.com/threads/wlaunchelf-isr_hdd.34075/)
 
 
 -   __wLaunch Elf (krHACKen's Fork)__
@@ -77,7 +77,7 @@ hide:
 
     Launch PS1 VCDs via wLE and allows system partitions that start with double underscores to be managed IE __system
 
-    [:material-cloud-download: wLE KHN](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_WLE-KHN.psu)
+    [:material-cloud-download: wLE KHN](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-KHN.psu)
 
 -   __PS2 Link__
 
@@ -87,9 +87,9 @@ hide:
 
     Run apps over network, useful for debugging.
 
-    [:material-cloud-download: PS2 Link](/docs/assets/SAVE-APPLICATION-SYSTEM/DBG_PS2LINK.psu)
+    [:material-cloud-download: PS2 Link](../assets/SAVE-APPLICATION-SYSTEM/DBG_PS2LINK.psu)
 
-    [:material-cloud-download: PS2 Link HighMem Loading](/docs/assets/SAVE-APPLICATION-SYSTEM/DBG_PS2LINK-HILDING.psu)
+    [:material-cloud-download: PS2 Link HighMem Loading](../assets/SAVE-APPLICATION-SYSTEM/DBG_PS2LINK-HILDING.psu)
 
 
 -   __Memory Card Annihilator__
@@ -100,7 +100,7 @@ hide:
 
     Format, Backup and Restore your normal memory cards.
 
-    [:material-cloud-download: Memory Card Annihilator](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_MCA.psu)
+    [:material-cloud-download: Memory Card Annihilator](../assets/SAVE-APPLICATION-SYSTEM/DST_MCA.psu)
 
 
 -   __PowerOff PS2__
@@ -111,7 +111,7 @@ hide:
 
     Turn off the PS2 console.
 
-    [:material-cloud-download: PowerOff](/docs/assets/SAVE-APPLICATION-SYSTEM/POWEROFF.psu)
+    [:material-cloud-download: PowerOff](../assets/SAVE-APPLICATION-SYSTEM/POWEROFF.psu)
 
 -   __Reboot PS2__
 
@@ -121,7 +121,7 @@ hide:
 
     Reboot the PS2.
 
-    [:material-cloud-download: Reboot](/docs/assets/SAVE-APPLICATION-SYSTEM/RESTART.psu)
+    [:material-cloud-download: Reboot](../assets/SAVE-APPLICATION-SYSTEM/RESTART.psu)
 
 
 </div>

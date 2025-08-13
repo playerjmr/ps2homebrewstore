@@ -16,11 +16,11 @@ hide:
 
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD (2241)
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2241](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2241.psu) RECOMMENDED
+    [:material-cloud-download: OPL 1.2.0 Beta 2241](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2241.psu) RECOMMENDED
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2212](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2212.psu)
+    [:material-cloud-download: OPL 1.2.0 Beta 2212](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2212.psu)
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2049](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2049GID.psu)
+    [:material-cloud-download: OPL 1.2.0 Beta 2049](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2049GID.psu)
 
 
 -   __Unofficial OPL__
@@ -33,9 +33,9 @@ hide:
 
     Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.
 
-    [:material-cloud-download: uOPL](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_UOPL.psu)
+    [:material-cloud-download: uOPL](../assets/SAVE-APPLICATION-SYSTEM/APP_UOPL.psu)
 
-    [:material-cloud-download: uOPL Betrayal](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_UOPL-BETRAYAL.psu) 
+    [:material-cloud-download: uOPL Betrayal](../assets/SAVE-APPLICATION-SYSTEM/APP_UOPL-BETRAYAL.psu) 
 
 
 -   __NHDDL__
@@ -48,7 +48,7 @@ hide:
 
     [:material-file-document: Documentation](https://github.com/pcm720/nhddl)
 
-    [:material-cloud-download: NHDDL](/docs/assets/SAVE-APPLICATION-SYSTEM/APP_NHDDL.psu)
+    [:material-cloud-download: NHDDL](../assets/SAVE-APPLICATION-SYSTEM/APP_NHDDL.psu)
 
 
 -   __Neutrino__
@@ -65,7 +65,7 @@ hide:
 
     [:material-file-document: Documentation](https://github.com/rickgaiser/neutrino)
 
-    [:material-cloud-download: Neutrino](/docs/assets/NON-SAS/NEUTRINO.zip)
+    [:material-cloud-download: Neutrino](../assets/NON-SAS/NEUTRINO.zip)
 
 
 -   __XEB+__
@@ -74,7 +74,7 @@ hide:
 
     [![XEB+_Pic](assets/xeb.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
-    Fully Lua Scripted dashboard experience that is extensable. Download and extract to [XEB+ USB folder](/docs/assets/NON-SAS/XEBPLUS.zip).
+    Fully Lua Scripted dashboard experience that is extensable. Download and extract to [XEB+ USB folder](../assets/NON-SAS/XEBPLUS.zip).
 
     This app cannot be packaged as a PSU due to subfolders and licensing.
 
@@ -82,7 +82,7 @@ hide:
 
     [XEB+ Neutrino Loader plugin by Sync On Luma](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin)
 
-    [:material-cloud-download: XEB+ USB folder](/docs/assets/NON-SAS/XEBPLUS.zip)
+    [:material-cloud-download: XEB+ USB folder](../assets/NON-SAS/XEBPLUS.zip)
 
 
 

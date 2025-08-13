@@ -17,7 +17,7 @@ hide:
 
     Speed test tool for internal HDD/SSD
 
-    [:material-cloud-download: HDD Tester](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_HDDTESTER.psu)
+    [:material-cloud-download: HDD Tester](../assets/SAVE-APPLICATION-SYSTEM/DST_HDDTESTER.psu)
 
 
 -   __Mechacon Crash Tester__
@@ -28,7 +28,7 @@ hide:
 
     Test for SCPH-37K to SCPH-70K to inform if a [PICFIX](https://ps2modchiptutorials.com/misc/picfix/) or PICFIXv2 is needed to save lazer upon DSP crash.
 
-    [:material-cloud-download: Mechacon Crash Tester](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_MECHACON-CRASH-TESTER.psu)
+    [:material-cloud-download: Mechacon Crash Tester](../assets/SAVE-APPLICATION-SYSTEM/DST_MECHACON-CRASH-TESTER.psu)
 
 -   __Pad Test__
 
@@ -38,7 +38,7 @@ hide:
 
     Test your controller(s)
 
-    [:material-cloud-download: Pad Test](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_PADTEST.psu)
+    [:material-cloud-download: Pad Test](../assets/SAVE-APPLICATION-SYSTEM/DST_PADTEST.psu)
 
 
 -   __PS2 RDRAM Test__
@@ -49,7 +49,7 @@ hide:
 
     Test a PS2's RDRAM for faults.
 
-    [:material-cloud-download: PS2 RDRAM Test](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_PS2-RDRAMTEST.psu)
+    [:material-cloud-download: PS2 RDRAM Test](../assets/SAVE-APPLICATION-SYSTEM/DST_PS2-RDRAMTEST.psu)
 
 
 -   __PS2 Temps__
@@ -60,7 +60,7 @@ hide:
 
     Show your consoles temperature, SCPH-50K and later.
 
-    [:material-cloud-download: PS2 Temps](/docs/assets/SAVE-APPLICATION-SYSTEM/DST_PS2TEMPS.psu)
+    [:material-cloud-download: PS2 Temps](../assets/SAVE-APPLICATION-SYSTEM/DST_PS2TEMPS.psu)
 
 -   __ROM Version Checker__
 
