@@ -49,6 +49,8 @@ hide:
 
     Applications are the property of of the their respective developers. Source material is linked where possible by clicking the apps picture as well as in title.cfg included within each download folder.
 
+##  Hotkeys
+
 ??? tip "Hotkeys"
 
     Exploit downloads from this site is setup with these hotkeys during the PS2BBL logo for 4 seconds.
