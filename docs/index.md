@@ -53,3 +53,6 @@ hide:
 Any exploit you download from this site is setup with these hotkeys during the PS2BBL logo for 4 seconds.
 
 ![PS2BBL Hotkeys](./exploits/assets/PS2BBL_Hotkeys.png){ width="800" .on-glib }
+///caption
+Config @ mc?:/SYS-CONF/PS2BBL.INI and OSDMENU.CNF
+///
