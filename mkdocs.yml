@@ -22,7 +22,7 @@ theme:
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
-        icon: material/brightness-4
+        icon: material/brightness-5
         name: Switch to light mode
   features:
     - search.suggest
