@@ -40,6 +40,7 @@ TESTING..sorry if you see this part...
   <a href="/emulators/" class="card">:simple-retropie: __Emulators:__ Play Pre-PS2 games</a>
   <a href="/games/" class="card">:material-controller: __Games:__ Homebrew games</a>
   <a href="/diag/" class="card">:material-heart-pulse: __Diagnostics:__ Discover and fix problems</a>
+  
 </div>
 
 
