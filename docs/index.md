@@ -9,22 +9,22 @@ hide:
 ## Where shall I take you today?
 <div class="grid" markdown>
 
-[__:simple-hackaday: Exploits:__ Pre-made AIO VMCs to run homebrew](/exploits/)
+[__:simple-hackaday: Exploits:__ Pre-made AIO VMCs to run homebrew](/exploits/){ .md-button .md-button--primary }
 { .card }
 
-[__:fontawesome-solid-compact-disc: Loaders:__ Play games in ISO format](/loaders/)
+[__:fontawesome-solid-compact-disc: Loaders:__ Play games in ISO format](/loaders/){ .md-button }
 { .card }
 
-[__:material-toolbox: Applications:__ Manage files, play videos etc](/apps/)
+[__:material-toolbox: Applications:__ Manage files, play videos etc](/apps/){ .md-button }
 { .card }
 
-[__:simple-retropie: Emulators:__ Play Pre-PS2 games](/emulators/)
+[__:simple-retropie: Emulators:__ Play Pre-PS2 games](/emulators/){ .md-button }
 { .card }
 
-[__:material-controller: Games:__ Homebrew games](/games/)
+[__:material-controller: Games:__ Homebrew games](/games/){ .md-button }
 { .card }
 
-[__:material-heart-pulse: Diagnostics:__ Discover and fix problems](/diag/)
+[__:material-heart-pulse: Diagnostics:__ Discover and fix problems](/diag/){ .md-button }
 { .card }
 
 
