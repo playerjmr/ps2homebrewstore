@@ -28,6 +28,8 @@ hide:
 { .card }
 
 
+
+TESTING..sorry if you see this part...
 </div>
 
 
