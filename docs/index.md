@@ -32,12 +32,12 @@ hide:
 
 
 <div class="grid">
-  <a href="/exploits/" class="card">__:simple-hackaday: Exploits:__ Pre-made AIO VMCs to run homebrew</a>
-  <a href="/loaders/" class="card">__:fontawesome-solid-compact-disc: Loaders:__ Play games in ISO format</a>
-  <a href="/apps/" class="card">__:material-toolbox: Applications:__ Manage files, play videos etc</a>
-  <a href="/emulators/" class="card">__:simple-retropie: Emulators:__ Play Pre-PS2 games</a>
-  <a href="/games/" class="card">__:material-controller: Games:__ Homebrew games</a>
-  <a href="/diag/" class="card">__:material-heart-pulse: Diagnostics:__ Discover and fix problems</a>
+  <a href="/exploits/" class="card">:simple-hackaday: __Exploits:__ Pre-made AIO VMCs to run homebrew</a>
+  <a href="/loaders/" class="card">:fontawesome-solid-compact-disc: __Loaders:__ Play games in ISO format</a>
+  <a href="/apps/" class="card">:material-toolbox: __Applications:__ Manage files, play videos etc</a>
+  <a href="/emulators/" class="card">:simple-retropie: __Emulators:__ Play Pre-PS2 games</a>
+  <a href="/games/" class="card">:material-controller: __Games:__ Homebrew games</a>
+  <a href="/diag/" class="card">:material-heart-pulse: __Diagnostics:__ Discover and fix problems</a>
 </div>
 
 
