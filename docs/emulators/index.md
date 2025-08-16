@@ -22,7 +22,7 @@ hide:
 
     ---
 
-    [![POPSLoader_Pic](assets/popsloader.jpg)](https://www.psx-place.com/resources/popsloader.1396/)
+    [![POPSLoader_Pic](assets/popsloader.png)](https://www.psx-place.com/resources/popsloader.1396/)
 
     Customizable POPStarter launcher.
 
