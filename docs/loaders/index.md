@@ -67,6 +67,22 @@ hide:
 
     [:material-cloud-download: Neutrino](../assets/NON-SAS/NEUTRINO.zip)
 
+-   __OSDXMB__
+
+    ---
+
+    [![OSDXMB_Pic](assets/osdxmb.png)](https://github.com/HiroTex/OSD-XMB)
+
+    This is a GUI for the PS2 resembling the PS3/PSP XMB Style developed by HiroTex, made on Athena Env by DanielSant0s, and inspired by the XtremeEliteBoot+ dashboard by Howling Wolf & Chelsea. 
+
+    Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, MMCE, MX4SIO
+
+    This app cannot be packaged as a PSU due to subfolders. 
+
+    [:material-file-document: Documentation](https://github.com/HiroTex/OSD-XMB)
+
+    [:material-cloud-download: OSDXMB](../assets/NON-SAS/OSDXMB20.zip)
+
 
 -   __XEB+__
 
