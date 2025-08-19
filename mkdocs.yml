@@ -5,10 +5,10 @@ theme:
   name: material
   custom_dir: overrides
   language: en 
-  icon:
-    logo: material/store
-  favicon: material/store
-  # logo: assets/logo.png
+  # icon:
+  #   logo: material/store
+  favicon: assets/logo.png
+  logo: assets/logo.png
   font:
     text: Oxanium
     code: Roboto Mono
@@ -16,7 +16,7 @@ theme:
     # Palette toggle for light mode
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
         
     # Palette toggle for dark mode
