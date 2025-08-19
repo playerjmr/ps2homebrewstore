@@ -73,7 +73,7 @@ hide:
 
     [:material-cloud-download: Neutrino](../assets/NON-SAS/NEUTRINO.zip)
 
--   __OSDXMB__
+-   __OSD-XMB__
 
     ---
 
@@ -89,7 +89,7 @@ hide:
 
     [:material-file-document: Documentation](https://github.com/HiroTex/OSD-XMB)
 
-    [:material-cloud-download: OSDXMB](../assets/NON-SAS/OSDXMB20.zip) Extract to root of USB.
+    [:material-cloud-download: OSD-XMB](../assets/NON-SAS/OSDXMB20.zip) Extract to root of USB.
 
 
 -   __XEB+__
