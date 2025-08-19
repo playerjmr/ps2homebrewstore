@@ -16,11 +16,11 @@ hide:
 
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD (2241)
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2241](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2241.psu) RECOMMENDED
+    [:material-cloud-download: OPL 1.2.0 Beta 2241](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2241.psu) RECOMMENDED
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2212](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2212.psu)
+    [:material-cloud-download: OPL 1.2.0 Beta 2212](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2212.psu)
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2049](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL120B2049GID.psu)
+    [:material-cloud-download: OPL 1.2.0 Beta 2049](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2049GID.psu)
 
 
 -   __Unofficial OPL__
@@ -33,9 +33,9 @@ hide:
 
     Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.
 
-    [:material-cloud-download: uOPL](../assets/SAVE-APPLICATION-SYSTEM/APP_UOPL.psu)
+    [:material-cloud-download: uOPL](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_UOPL.psu)
 
-    [:material-cloud-download: uOPL Betrayal](../assets/SAVE-APPLICATION-SYSTEM/APP_UOPL-BETRAYAL.psu) 
+    [:material-cloud-download: uOPL Betrayal](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_UOPL-BETRAYAL.psu) 
 
 
 -   __NHDDL__
