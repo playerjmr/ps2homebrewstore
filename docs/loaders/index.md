@@ -16,6 +16,8 @@ hide:
 
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD (2241)
 
+    PS2BBL is already configured to hotkey launch via `R2`
+
     [:material-cloud-download: OPL 1.2.0 Beta 2241](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2241.psu) RECOMMENDED
 
     [:material-cloud-download: OPL 1.2.0 Beta 2212](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2212.psu)
@@ -33,6 +35,8 @@ hide:
 
     Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.
 
+    PS2BBL is already configured to hotkey launch via `R2`
+
     [:material-cloud-download: uOPL](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_UOPL.psu)
 
     [:material-cloud-download: uOPL Betrayal](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_UOPL-BETRAYAL.psu) 
@@ -44,7 +48,9 @@ hide:
 
     [![NHDDL_Pic](assets/nhddl.png)](https://github.com/pcm720/nhddl)
 
-     Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
+    Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
+
+    PS2BBL is already configured to hotkey launch via `R1`
 
     [:material-file-document: Documentation](https://github.com/pcm720/nhddl)
 
@@ -77,11 +83,13 @@ hide:
 
     Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, MMCE, MX4SIO
 
+    PS2BBL is already configured to hotkey launch via `D-PAD UP`
+
     This app cannot be packaged as a PSU due to subfolders. 
 
     [:material-file-document: Documentation](https://github.com/HiroTex/OSD-XMB)
 
-    [:material-cloud-download: OSDXMB](../assets/NON-SAS/OSDXMB20.zip) Extract to `mc?:/`,`mmce:/` or `mass:/` Recommended to place on USB as PS2BBL is already configured to launch from USB via D-PAD UP. It will self extract to a `OSDXMB` folder. Otherwise place at `hdd:__common:/OSDXMB/` and reconfigure `mc?:/SYS_CONF/PS2BBL.INI` and `mc?:/SYS_CONF/OSDMENU.CFG`
+    [:material-cloud-download: OSDXMB](../assets/NON-SAS/OSDXMB20.zip) Extract to root of USB. It will self extract to a `OSDXMB` folder. Otherwise place at `hdd:__common:/OSDXMB/` and reconfigure `mc?:/SYS_CONF/PS2BBL.INI` and `mc?:/SYS_CONF/OSDMENU.CFG`
 
 
 -   __XEB+__
@@ -92,7 +100,9 @@ hide:
 
     Fully Lua Scripted dashboard experience that is extensable. Download and extract to [XEB+ USB folder](../assets/NON-SAS/XEBPLUS.zip).
 
-    This app cannot be packaged as a PSU due to subfolders and licensing. PS2BBL is already configured to launch via D-PAD DOWN.
+    This app cannot be packaged as a PSU due to subfolders and licensing.
+    
+    PS2BBL is already configured to hotkey launch via `D-PAD DOWN`
 
     [:material-cloud-download: XEB+](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
