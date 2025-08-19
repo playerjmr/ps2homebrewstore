@@ -1,8 +1,26 @@
 {
+  "PASS_CHANGE": [
+    "Change Password",
+    "Changer le mot de passe",
+    "Cambiar contraseña",
+    "Passwort ändern",
+    "Modifica la password",
+    "Wachtwoord wijzigen",
+    "Mudar a palavra-passe"
+  ],
+  "PARENTAL_CONTROL": [
+    "Parental Control",
+    "Contrôle parental",
+    "Control paterno",
+    "Kindersicherung",
+    "Filtro contenuti",
+    "Ouderlijk toezicht",
+    "Controlo parental"
+  ],
   "PASS_NEW_MSG": [
     "Enter your new password",
     "Enter your new password",
-    "Ingrese su nueva contrase�a",
+    "Ingrese su nueva contraseña",
     "Enter your new password",
     "Enter your new password",
     "Enter your new password",
@@ -11,7 +29,7 @@
   "PASS_CUR_MSG": [
     "Enter your four-digir password",
     "Enter your four-digir password",
-    "Ingrese su contrase�a de cuatro digitos",
+    "Ingrese su contraseña de cuatro digitos",
     "Enter your four-digir password",
     "Enter your four-digir password",
     "Enter your four-digir password",

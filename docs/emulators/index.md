@@ -16,7 +16,7 @@ hide:
 
     Replacement for the Sony PS1DRV
 
-    [:material-cloud-download: DKWDRV](../assets/SAVE-APPLICATION-SYSTEM/PS1_DKWDRV.psu)
+    [:material-cloud-download: DKWDRV 1.7.6](../assets/SAVE-APPLICATION-SYSTEM/PS1_DKWDRV176.psu)
 
 -   __POPSLoader__
 

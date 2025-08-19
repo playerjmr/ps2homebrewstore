@@ -9,7 +9,7 @@
 #
 # Source: https://github.com/HiroTex/OSD-XMB
 SET "TITLE" "[APP] OSDXMB"
-SET "VERSION" "1.91"
+SET "VERSION" "2.0"
 SET "AUTHOR" "HiroTex"
 SET "DESC" "A user interface resembling PS3/PSP inspired by XMB+."
 SET "ELF" ""
