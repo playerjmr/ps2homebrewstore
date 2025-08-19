@@ -89,7 +89,7 @@ hide:
 
     [:material-file-document: Documentation](https://github.com/HiroTex/OSD-XMB)
 
-    [:material-cloud-download: OSDXMB](../assets/NON-SAS/OSDXMB20.zip) Extract to root of USB. It will self extract to a `OSDXMB` folder. Otherwise place at `hdd:__common:/OSDXMB/` and reconfigure `mc?:/SYS_CONF/PS2BBL.INI` and `mc?:/SYS_CONF/OSDMENU.CFG`
+    [:material-cloud-download: OSDXMB](../assets/NON-SAS/OSDXMB20.zip) Extract to root of USB.
 
 
 -   __XEB+__
