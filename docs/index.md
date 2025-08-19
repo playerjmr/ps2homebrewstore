@@ -29,6 +29,9 @@ hide:
 
 </div>
 
+!!! info "Source Material"
+
+    Applications are the property of of the their respective developers. Source material is linked where possible by clicking the apps picture as well as in title.cfg included within each download folder.
 
 ## Help
 <div class="grid" markdown>
@@ -44,13 +47,9 @@ hide:
 </div>
 
 
-!!! info "Source Material"
-
-    Applications are the property of of the their respective developers. Source material is linked where possible by clicking the apps picture as well as in title.cfg included within each download folder.
-
 ##  Hotkeys
 
-??? tip "Hotkeys"
+???+ tip "Hotkeys"
 
     During the PS2BBL logo, you have 4 seconds to activate run these options. On some like R1, it will go down the list till one is found, else exit to OSDSYS.
 
