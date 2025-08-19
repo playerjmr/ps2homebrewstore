@@ -16,14 +16,15 @@ hide:
 
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD (2241)
 
-    PS2BBL is already configured to hotkey launch via `R2`
-
     [:material-cloud-download: OPL 1.2.0 Beta 2241](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2241.psu) RECOMMENDED
 
     [:material-cloud-download: OPL 1.2.0 Beta 2212](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2212.psu)
 
     [:material-cloud-download: OPL 1.2.0 Beta 2049](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2049GID.psu)
 
+    !!! tip "PS2BBL hotkey"
+
+        `R2` when the PS2BBL logo appears
 
 -   __Unofficial OPL__
 
@@ -35,12 +36,13 @@ hide:
 
     Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.
 
-    PS2BBL is already configured to hotkey launch via `R2`
-
     [:material-cloud-download: uOPL](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_UOPL.psu)
 
     [:material-cloud-download: uOPL Betrayal](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_UOPL-BETRAYAL.psu) 
 
+    !!! tip "PS2BBL hotkey"
+
+        `R2` when the PS2BBL logo appears
 
 -   __NHDDL__
 
@@ -50,11 +52,15 @@ hide:
 
     Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
 
-    PS2BBL is already configured to hotkey launch via `R1`
+    PS2BBL hotkey pre-configured: `R1`
 
     [:material-file-document: Documentation](https://github.com/pcm720/nhddl)
 
     [:material-cloud-download: NHDDL](../assets/SAVE-APPLICATION-SYSTEM/APP_NHDDL.psu)
+
+    !!! tip "PS2BBL hotkey"
+
+        `R1` when the PS2BBL logo appears
 
 
 -   __Neutrino__
@@ -83,13 +89,15 @@ hide:
 
     Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, MMCE, MX4SIO
 
-    PS2BBL is already configured to hotkey launch via `D-PAD UP`
-
     This app cannot be packaged as a PSU due to subfolders. 
 
     [:material-file-document: Documentation](https://github.com/HiroTex/OSD-XMB)
 
     [:material-cloud-download: OSD-XMB](../assets/NON-SAS/OSDXMB20.zip) Extract to root of USB.
+
+    !!! tip "PS2BBL hotkey"
+
+        `D-PAD UP` when the PS2BBL logo appears.
 
 
 -   __XEB+__
@@ -101,8 +109,6 @@ hide:
     Fully Lua Scripted dashboard experience that is extensable. Download and extract to [XEB+ USB folder](../assets/NON-SAS/XEBPLUS.zip).
 
     This app cannot be packaged as a PSU due to subfolders and licensing.
-    
-    PS2BBL is already configured to hotkey launch via `D-PAD DOWN`
 
     [:material-cloud-download: XEB+](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
@@ -110,8 +116,10 @@ hide:
 
     [XEB+ Neutrino Loader plugin by Sync On Luma](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin)
 
+    !!! tip "PS2BBL hotkey"
     
+        `D-PAD DOWN` when the PS2BBL logo appears.
 
-
+    
 
 </div>
