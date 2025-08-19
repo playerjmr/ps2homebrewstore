@@ -6,7 +6,7 @@ hide:
 
 
 
-## Where shall I take you today?
+# Where shall I take you today?
 <div class="grid" markdown>
 
 [__:simple-hackaday: Exploits:__ Pre-made AIO VMCs to run homebrew](/exploits/)
