@@ -106,7 +106,7 @@ hide:
 
     [![XEB+_Pic](assets/xeb.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
-    Fully Lua Scripted dashboard experience that is extensable. Download and extract to [XEB+ USB folder](../assets/NON-SAS/XEBPLUS.zip).
+    Fully Lua Scripted dashboard experience that is extensable.
 
     This app cannot be packaged as a PSU due to subfolders and licensing.
 
