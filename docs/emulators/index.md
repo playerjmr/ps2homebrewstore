@@ -36,7 +36,9 @@ hide:
 
     A port of PicoDrive for the PS2
 
-    [:material-cloud-download: PicoDrive 2.05](../assets/SAVE-APPLICATION-SYSTEM/EMU_PICODRIVE205.psu)
+    [:material-cloud-download: PicoDrive 2.05](../assets/SAVE-APPLICATION-SYSTEM/EMU_PICODRIVE/EMU_PICODRIVE205/)
+
+    [:material-cloud-download: PicoDrive 1.51B](../assets/SAVE-APPLICATION-SYSTEM/EMU_PICODRIVE/EMU_PICODRIVE151B/)
 
 -   __Xbox 2 Playstation Emulator__
 
@@ -46,9 +48,8 @@ hide:
 
     Original Xbox Emulator for the PS2.
 
-    [:material-cloud-download: XB2PS2](../assets/SAVE-APPLICATION-SYSTEM/EMU_X2P.psu)
+    [:material-cloud-download: XB2PS2](../assets/SAVE-APPLICATION-SYSTEM/EMU_X2PMC.psu)
 
-    [:material-cloud-download: XB2PS2 Lite](../assets/SAVE-APPLICATION-SYSTEM/EMU_X2PMC.psu)
 
 
 </div>
