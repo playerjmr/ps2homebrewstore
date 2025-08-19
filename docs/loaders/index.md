@@ -61,7 +61,7 @@ hide:
 
     Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO
 
-    This app cannot be packaged as a PSU due to subfolders. 
+    This app cannot be packaged as a PSU due to subfolders. Extract to `mc?:/` or `mmce:/` It will self extract to a `NEUTRINO` folder. 
 
     [:material-file-document: Documentation](https://github.com/rickgaiser/neutrino)
 
@@ -81,7 +81,7 @@ hide:
 
     [:material-file-document: Documentation](https://github.com/HiroTex/OSD-XMB)
 
-    [:material-cloud-download: OSDXMB](../assets/NON-SAS/OSDXMB20.zip)
+    [:material-cloud-download: OSDXMB](../assets/NON-SAS/OSDXMB20.zip) Extract to `mc?:/`,`mmce:/` or `mass:/` Recommended to place on USB as PS2BBL is already configured to launch from USB via D-PAD UP. It will self extract to a `OSDXMB` folder. Otherwise place at `hdd:__common:/OSDXMB/` and reconfigure `mc?:/SYS_CONF/PS2BBL.INI` and `mc?:/SYS_CONF/OSDMENU.CFG`
 
 
 -   __XEB+__
@@ -92,13 +92,15 @@ hide:
 
     Fully Lua Scripted dashboard experience that is extensable. Download and extract to [XEB+ USB folder](../assets/NON-SAS/XEBPLUS.zip).
 
-    This app cannot be packaged as a PSU due to subfolders and licensing.
+    This app cannot be packaged as a PSU due to subfolders and licensing. PS2BBL is already configured to launch via D-PAD DOWN.
 
     [:material-cloud-download: XEB+](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
+    [:material-cloud-download: XEB+ USB folder](../assets/NON-SAS/XEBPLUS.zip) Place above contents in this folder and place at root of USB.
+
     [XEB+ Neutrino Loader plugin by Sync On Luma](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin)
 
-    [:material-cloud-download: XEB+ USB folder](../assets/NON-SAS/XEBPLUS.zip)
+    
 
 
 
