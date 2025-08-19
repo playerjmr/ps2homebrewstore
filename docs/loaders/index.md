@@ -79,7 +79,7 @@ hide:
 
     [![OSDXMB_Pic](assets/osdxmb.png)](https://github.com/HiroTex/OSD-XMB)
 
-    This is a GUI for the PS2 resembling the PS3/PSP XMB Style developed by HiroTex, made on Athena Env by DanielSant0s, and inspired by the XtremeEliteBoot+ dashboard by Howling Wolf & Chelsea. 
+    GUI resembling the PS3/PSP XMB Style.
 
     Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, MMCE, MX4SIO
 
