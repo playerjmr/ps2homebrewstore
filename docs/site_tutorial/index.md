@@ -25,12 +25,12 @@ glightbox: true
 
 ![wle_8](assets/wle_8.png){ width="800" data-gallery="tutorial"}
 
-## Verifying and understanding wLE icon colors
+## Step 4: Verifying and understanding wLE icon colors
 ![wle_9](assets/wle_9.png){ width="800" data-gallery="tutorial"}
 
 ![wle_10](assets/wle_10.png){ width="800" data-gallery="tutorial"}
 
-## Launching from Browser
+## BONUS: Launching from Browser
 ![mcbrowser_1](assets/mcbrowser_1.png){ width="800" data-gallery="tutorial"}
 
 ![mcbrowser_2](assets/mcbrowser_2.png){ width="800" data-gallery="tutorial"}
