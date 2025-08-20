@@ -11,12 +11,12 @@ glightbox: true
 ![wle_2](assets/wle_2.png){ width="800" data-gallery="tutorial"}
 
 
-## Step 2: Navigate to USB and find the APP
+## Step 2: Navigate to USB and find the APP.psu
 ![wle_3](assets/wle_3.png){ width="800" data-gallery="tutorial"}
 
 ![wle_4](assets/wle_4.png){ width="800" data-gallery="tutorial"}
 
-## Step 3: Installing the APP
+## Step 3: Installing the APP.psu
 ![wle_5](assets/wle_5.png){ width="800" data-gallery="tutorial"}
 
 ![wle_6](assets/wle_6.png){ width="800" data-gallery="tutorial"}
