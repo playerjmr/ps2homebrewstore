@@ -30,7 +30,7 @@ glightbox: true
 
 ![wle_10](assets/wle_10.png){ width="800" data-gallery="tutorial"}
 
-## BONUS: Launching from Browser
+## BONUS: Launching from Browser!
 ![mcbrowser_1](assets/mcbrowser_1.png){ width="800" data-gallery="tutorial"}
 
 ![mcbrowser_2](assets/mcbrowser_2.png){ width="800" data-gallery="tutorial"}
