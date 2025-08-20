@@ -5,8 +5,8 @@ theme:
   name: material
   custom_dir: overrides
   language: en 
-   icon:
-     logo: material/store
+  icon:
+    logo: material/store
   favicon: assets/logo.png
   # logo: assets/logo.png
   font:
