@@ -4,8 +4,6 @@ hide:
   - toc
 ---
 
-![logo](assets/logo.png)
-
 # Where shall I take you today?
 <div class="grid" markdown>
 
