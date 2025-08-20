@@ -37,7 +37,7 @@ hide:
 [__:material-help-circle: Icon Meanings:__ What does it mean?](https://ps2wiki.github.io/documentation/homebrew/PS2-App-System/SAS/indicators-and-warnings/indicators-and-warnings)
 { .card }
 
-[__:fontawesome-brands-readme: Tutorial:__ How to use this sites content](/site_tutorial/site_tutorial.md)
+[__:fontawesome-brands-readme: Tutorial:__ How to use this sites content](/site_tutorial/)
 { .card }
 
 > [__:material-hand-wave: Thanks:__ Pay your respects](/thanks/)
