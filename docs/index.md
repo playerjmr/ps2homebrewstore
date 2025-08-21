@@ -25,6 +25,9 @@ hide:
 [__:material-heart-pulse: Diagnostics:__ Discover and fix problems](/diag/)
 { .card }
 
+[__:simple-builtbybit: UMCS:__ Default Setup Files](/umcs/)
+{ .card }
+
 </div>
 
 !!! info "Source Material"
