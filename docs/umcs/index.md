@@ -47,9 +47,9 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     ---
 
-    [:material-cloud-download: SYS-CONF](../assets/SAVE-APPLICATION-SYSTEM/SYS-CONF.psu)
-
     ![apps_pic](assets/sys-conf.png)
+
+    [:material-cloud-download: SYS-CONF](../assets/SAVE-APPLICATION-SYSTEM/SYS-CONF.psu)
 
     - `mc?:SYS-CONF/` Configuration files for the `BOOT` folder and FMCB
 
