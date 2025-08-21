@@ -25,7 +25,7 @@ glightbox: true
 
         Deleting this folder will remove essential exploits, configs or files potentially causing your PS2 no longer be homebrew capable with this memory card until reinstalled.
 
--   __Mini Lock __
+-   __Mini Lock__
 
     ---
 
@@ -61,7 +61,7 @@ glightbox: true
         Configuration files, typcially ending in `.ini` or `.cfg`. Commonly used by PS2BBL, FMCB, OSDMenu, OPL etc.
 
 
--   __Mini Wrench __
+-   __Mini Wrench__
 
     ---
 
@@ -73,8 +73,10 @@ glightbox: true
         Apps that allow ease of configuringing `.ini` and `.cfg` files, such as FMCB Configurator
         
         Variants:
-            - Green: copy
-            - Red: delete
+
+        - Green: Copy
+        
+        - Red: Delete
 
 
 </div>
@@ -102,9 +104,9 @@ glightbox: true
 
     !!! info "Application/Folder Copy"
 
-        Appears when coppying the folder.
+        Appears when copying the folder.
 
--   __Mini Memory Card: Copy__
+-   __Mini Memory Card: Delete__
 
     ---
 
