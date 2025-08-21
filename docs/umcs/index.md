@@ -55,4 +55,4 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
 </div>
 
-[^1]: Modchips usually require the BOOT folder to be in Memory Card Slot 1 (`mc0:/BOOT/BOOT.ELF`)such as Matrix Infinity, DMS3/4, Ghost 2 and Modbo/Mars Pro
+[^1]: Modchips usually require the BOOT folder to be in Memory Card Slot 1 (`mc0:/BOOT/BOOT.ELF`) such as Matrix Infinity, DMS3/4, Ghost 2 and Modbo/Mars Pro
