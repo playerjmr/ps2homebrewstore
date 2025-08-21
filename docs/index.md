@@ -37,7 +37,7 @@ hide:
 ## Help
 <div class="grid" markdown>
 
-[__:material-help-circle: Icon Meanings:__ What does it mean?](icon_meanings.md)
+[__:material-help-circle: Icon Meanings:__ What does it mean?](/site_tutorial/icon_meanings)
 { .card }
 
 [__:fontawesome-brands-readme: Tutorial:__ How to use this sites content](/site_tutorial/)
