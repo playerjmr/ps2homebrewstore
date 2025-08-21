@@ -19,9 +19,9 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     ---
 
-    [:material-cloud-download: APPS](../assets/SAVE-APPLICATION-SYSTEM/APPS.psu)
-
     ![apps_pic](assets/apps.png)
+
+    [:material-cloud-download: APPS](../assets/SAVE-APPLICATION-SYSTEM/APPS.psu)
 
     - `mc?:/APPS/` used for OpenTuna, Fortuna, Funtuna and possibly more apps.
 
