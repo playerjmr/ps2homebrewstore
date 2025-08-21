@@ -34,7 +34,7 @@ hide:
 ## Help
 <div class="grid" markdown>
 
-[__:material-help-circle: Icon Meanings:__ What does it mean?](https://ps2wiki.github.io/documentation/homebrew/PS2-App-System/SAS/indicators-and-warnings/indicators-and-warnings)
+[__:material-help-circle: Icon Meanings:__ What does it mean?](/site_tutorial/icon_meanings.md)
 { .card }
 
 [__:fontawesome-brands-readme: Tutorial:__ How to use this sites content](/site_tutorial/)
