@@ -6,7 +6,7 @@ hide:
 
 # Universal Memory Card Structure
 
-Abbreviated UMCS, this aims to provide a very robust structure that works for all exploits and hopefully all modchips that support memory card boot via `mc1:/BOOT.BOOT.ELF`
+Abbreviated UMCS, this aims to provide a very robust structure that works for all exploits and hopefully all modchips that support memory card boot via `mc?:/BOOT.BOOT.ELF`[^1]
 
 This is the core of SAS (Save Application Strucure) so that there is minimal configuration end users need to do to run memory card based exploits.
 
@@ -54,3 +54,5 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
     - `mc?:SYS-CONF/` Configuration files for the `BOOT` folder and FMCB
 
 </div>
+
+[^1]: Modchips usually require the BOOT folder to be in Memory Card Slot 1 such as Matrix Infinity, DMS3/4, Ghost 2 and Modbo/Mars Pro
