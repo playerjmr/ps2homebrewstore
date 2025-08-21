@@ -33,7 +33,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: BOOT](../assets/SAVE-APPLICATION-SYSTEM/BOOT.psu)
 
-    -   `mc?:/BOOT/` Where exploits look to boot from. 
+    - `mc?:/BOOT/` Where exploits look to boot from. 
 
         - `BOOT.ELF` PS2BBL hotkeys and autoboot
 
