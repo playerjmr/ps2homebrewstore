@@ -6,6 +6,9 @@ glightbox: true
 # Tutorial: How to use this sites content
 
 ## Step 1: Open wLaunchELF ISR exFAT
+
+[:material-cloud-download: wLE ISR eXFAT](https://israpps.github.io/projects/wlaunchelf-isr)
+
 ![wle_1](assets/wle_1.png){ width="800" data-gallery="tutorial"}
 
 ![wle_2](assets/wle_2.png){ width="800" data-gallery="tutorial"}
