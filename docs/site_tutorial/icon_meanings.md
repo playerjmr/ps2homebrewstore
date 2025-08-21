@@ -19,7 +19,7 @@ glightbox: true
 
     ---
 
-    ![warning-icon_pic](assets/icon_meanings/warning.png)
+    ![warning-icon_pic](assets/icon_meanings/warning.png){ width="450" }
 
     !!! info "Warning"
 
@@ -29,13 +29,13 @@ glightbox: true
 
     ---
 
-    ![ps2bbl_icn](assets/icon_meanings/ps2bbl.png)
+    ![ps2bbl_icn](assets/icon_meanings/ps2bbl.png){ width="450" }
 
     !!! info "Warning"
 
         Deleting this folder will remove essential exploits, configs or files potentially causing your PS2 no longer be homebrew capable with this memory card until reinstalled.
 
-    ![boot-copy_pic](assets/icon_meanings/boot-copy.png)
+    ![boot-copy_pic](assets/icon_meanings/boot-copy.png){ width="450" }
 
     !!! info "Unlocked"
 
@@ -54,7 +54,7 @@ glightbox: true
 
     ---
 
-    ![sys-conf_pic](assets/icon_meanings/sys-conf.png)
+    ![sys-conf_pic](assets/icon_meanings/sys-conf.png){ width="450" }
 
     !!! info "Config files"
 
@@ -65,7 +65,7 @@ glightbox: true
 
     ---
 
-    ![sys-conf_pic](assets/icon_meanings/sys-conf.png)
+    ![sys-conf_pic](assets/icon_meanings/sys-conf.png){ width="450" }
 
 
     !!! info "System/App configurators"
@@ -90,7 +90,7 @@ glightbox: true
 
     ---
 
-    ![opl-mini-app_pic](assets/icon_meanings/opl-mini-app.png)
+    ![opl-mini-app_pic](assets/icon_meanings/opl-mini-app.png){ width="450" }
 
     !!! info "Application"
 
@@ -100,7 +100,7 @@ glightbox: true
 
     ---
 
-    ![opl-copy_pic](assets/icon_meanings/opl-copy.png)
+    ![opl-copy_pic](assets/icon_meanings/opl-copy.png){ width="450" }
 
     !!! info "Application/Folder Copy"
 
@@ -110,7 +110,7 @@ glightbox: true
 
     ---
 
-    ![opl-del_pic](assets/icon_meanings/opl-del.png)
+    ![opl-del_pic](assets/icon_meanings/opl-del.png){ width="450" }
 
     !!! info "Application/Folder Delete"
 
@@ -127,7 +127,7 @@ glightbox: true
 
     ---
 
-    ![rte_pic](assets/icon_meanings/rte.png)
+    ![rte_pic](assets/icon_meanings/rte.png){ width="450" }
 
     !!! info "Run Time Application"
 
@@ -137,7 +137,7 @@ glightbox: true
 
     ---
 
-    ![gears_pic](assets/icon_meanings/mini-cmdprompt.png)
+    ![gears_pic](assets/icon_meanings/mini-cmdprompt.png){ width="450" }
 
     !!! info "Mini Command Prompt"
 
