@@ -78,11 +78,7 @@ glightbox: true
 
         Apps that allow ease of configuringing `.ini` and `.cfg` files, such as FMCB Configurator
         
-        Variants:
-
-        - Green: Copy
-        
-        - Red: Delete
+        Variants: `Green - Copy` `Red - Delete`
 
 
 </div>
