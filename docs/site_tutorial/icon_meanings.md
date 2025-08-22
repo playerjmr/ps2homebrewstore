@@ -10,7 +10,7 @@ glightbox: true
 
 !!! danger "Deletion of System Folders"
 
-    Deleting System Folders such `BOOT`, `SYS-CONF`, and any exploit in `B?EXEC-SYSTEM`, `OPENTUNA`, `FUNTUNA` or `FORTUNA` can and will prevent your exploited memory card for booting! If you have an MMCE device, this is easily recoverable by grabbing another download [here](../exploits/index.md). If you have a normal Sony memory card, you will want another as backup or another exploited system to build your exploit again. So long as you have an exploit you can grab new installers [here as well](../exploits/index.md). You have been warned.
+    Deleting System Folders such `BOOT`, `SYS-CONF`, and any exploit in `B?EXEC-SYSTEM`, `OPENTUNA`, `FUNTUNA` or `FORTUNA` can and will prevent your exploited memory card from booting! If you have an MMCE device, this is easily recoverable by grabbing another download [here](../exploits/index.md). If you have a normal Sony memory card, you will want another as backup or another exploited system to build your exploit again. So long as you have an exploit you can grab new installers [here as well](../exploits/index.md). You have been warned.
 
 
 <div class="grid cards" markdown>
@@ -39,7 +39,7 @@ glightbox: true
 -   __Mini Lock (unlocked)__
 
     ---
-    
+
     ![boot-copy_pic](assets/icon_meanings/boot-copy.png){ width="450" }
 
     !!! info "Unlocked"
