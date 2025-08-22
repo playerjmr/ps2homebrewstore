@@ -23,7 +23,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: APPS](../assets/SAVE-APPLICATION-SYSTEM/APPS.psu)
 
-    - `mc?:/APPS/` used for OpenTuna, Fortuna, Funtuna and possibly more apps.
+    - `mc?:/APPS/` used for OpenTuna, Funtuna, Funtuna Fork and possibly more apps. Preferably not used as these all boot `mc?:/BOOT/BOOT.ELF`
 
 -   __BOOT__
 
@@ -35,13 +35,13 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     - `mc?:/BOOT/` Where exploits look to boot from. 
 
-        - `BOOT.ELF` PS2BBL hotkeys and autoboot
+        - `BOOT.ELF` PS2BBL hotkeys and autoboot. Used to standardize both for all exploit types.
 
-        - `BOOT2.ELF` wLE ISR exFAT file browser / ELF launcher
+        - `BOOT2.ELF` wLE ISR exFAT file browser / ELF launcher (Triangle during PS2BBL logo)
 
-        - `osdmenu.elf` OSDMenu hacked OSDSYS
+        - `osdmenu.elf` OSDMenu hacked OSDSYS (Autoboot if no key is pressed)
 
-        - `ESR.ELF` ESR for running patched backup
+        - `ESR.ELF` ESR for running patched backup (in OSDMenu)
 
 -   __SYS-CONF__
 
