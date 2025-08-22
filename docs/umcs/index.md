@@ -10,8 +10,11 @@ Abbreviated UMCS, this aims to provide a very robust structure that works for al
 
 This is the core of SAS (Save Application Strucure) so that there is minimal configuration end users need to do to run memory card based exploits.
 
-Should you ever mess up your config, here are backups to restore. Follow the site [tutorial](../site_tutorial/index.md) to restore these files, otherwise if you do not have entry back in try `R1+Start` to boot `mass:/RESCUE.ELF` Hint: rename [wLE ISR exFAT](https://israpps.github.io/projects/wlaunchelf-isr) to `RESCUE.ELF` and place at root of USB stick.
+Should you ever mess up your config, here are backups to restore. Follow the site [tutorial](../site_tutorial/index.md) to restore these files, otherwise if your PS2 still shows the PS2BBL boot logo, try `R1+Start` to boot `mass:/RESCUE.ELF`
 
+!!! tip "RESCUE.ELF"
+
+    Download and Rename [wLE ISR exFAT](https://israpps.github.io/projects/wlaunchelf-isr) to `RESCUE.ELF` and place at root of USB stick.
 
 <div class="grid cards" markdown>
 
