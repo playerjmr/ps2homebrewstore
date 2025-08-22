@@ -3,6 +3,7 @@ hide:
   - navigation
 glightbox: true
 ---
+
 # Icon Indicators and Warnings
 
 
@@ -19,28 +20,28 @@ glightbox: true
 
     ---
 
-    ![warning-icon_pic](assets/icon_meanings/warning.png){ width="450" }
+    ![warning-icon_pic](assets/icon_meanings/warning.png){ width="350" .on-glb }
 
     !!! info "Warning"
 
         Deleting this folder will remove essential exploits, configs or files potentially causing your PS2 no longer be homebrew capable with this memory card until reinstalled.
 
--   __Mini Lock (locked)__
+-   __Lock (locked)__
 
     ---
 
-    ![ps2bbl_icn](assets/icon_meanings/ps2bbl.png){ width="450" }
+    ![ps2bbl_icn](assets/icon_meanings/mini-lock-locked.png){ width="350" .on-glb }
 
     !!! info "Warning"
 
         Deleting this folder will remove essential exploits, configs or files potentially causing your PS2 no longer be homebrew capable with this memory card until reinstalled.
 
 
--   __Mini Lock (unlocked)__
+-   __Lock (unlocked)__
 
     ---
 
-    ![boot-copy_pic](assets/icon_meanings/boot-copy.png){ width="450" }
+    ![boot-copy_pic](assets/icon_meanings/mini-lock-unlocked.png){ width="350" .on-glb }
 
     !!! info "Unlocked"
 
@@ -55,67 +56,63 @@ glightbox: true
 
 <div class="grid cards" markdown>
 
--   __Gears / Mini Gears__
+-   __Gears__
 
     ---
 
-    ![sys-conf_pic](assets/icon_meanings/sys-conf.png){ width="450" }
+    ![sys-conf_pic](assets/icon_meanings/gears.png){ width="350" .on-glb }
 
     !!! info "Config files"
 
         Configuration files, typcially ending in `.ini` or `.cfg`. Commonly used by PS2BBL, FMCB, OSDMenu, OPL etc.
 
 
--   __Mini Wrench__
+-   __Wrench__
 
     ---
 
-    ![sys-conf_pic](assets/icon_meanings/sys-conf.png){ width="450" }
+    ![sys-conf_pic](assets/icon_meanings/mini-wrench.png){ width="350" .on-glb }
 
 
     !!! info "System/App configurators"
 
         Apps that allow ease of configuringing `.ini` and `.cfg` files, such as FMCB Configurator
         
-        Variants:
-
-        - Green: Copy
-        
-        - Red: Delete
+        Variants: `Green - Copy` `Red - Delete`
 
 
 </div>
 
 
-## Mini Memory Card
+## Memory Card
 
 <div class="grid cards" markdown>
 
--   __Mini Memory Card__
+-   __Memory Card__
 
     ---
 
-    ![opl-mini-app_pic](assets/icon_meanings/opl-mini-app.png){ width="450" }
+    ![opl-mini-app_pic](assets/icon_meanings/mini-mc.png){ width="350" .on-glb }
 
     !!! info "Application"
 
         SAS compliant folder that contains a PS2 ELF. OSDMenu can launch these.
 
--   __Mini Memory Card: Copy__
+-   __Memory Card: Copy__
 
     ---
 
-    ![opl-copy_pic](assets/icon_meanings/opl-copy.png){ width="450" }
+    ![opl-copy_pic](assets/icon_meanings/mini-mc-copy.png){ width="350" .on-glb }
 
     !!! info "Application/Folder Copy"
 
         Appears when copying the folder.
 
--   __Mini Memory Card: Delete__
+-   __Memory Card: Delete__
 
     ---
 
-    ![opl-del_pic](assets/icon_meanings/opl-del.png){ width="450" }
+    ![opl-del_pic](assets/icon_meanings/mini-mc-del.png){ width="350" .on-glb }
 
     !!! info "Application/Folder Delete"
 
@@ -128,25 +125,25 @@ glightbox: true
 
 <div class="grid cards" markdown>
 
--   __Mini-Run Time Environment (RTE)__
+-   __Run Time Environment (RTE)__
 
     ---
 
-    ![rte_pic](assets/icon_meanings/rte.png){ width="450" }
+    ![rte_pic](assets/icon_meanings/rte.png){ width="350" .on-glb }
 
     !!! info "Run Time Application"
 
         Lua/Javascript application that has assets external to the main ELF.
 
--   __Mini Command Prompt__
+-   __Command Prompt__
 
     ---
 
-    ![gears_pic](assets/icon_meanings/mini-cmdprompt.png){ width="450" }
+    ![gears_pic](assets/icon_meanings/debug.png){ width="350" .on-glb }
 
     !!! info "Mini Command Prompt"
 
-        Debugger application
+        Debugging application
 
 
 
