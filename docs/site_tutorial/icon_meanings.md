@@ -26,7 +26,7 @@ glightbox: true
 
         Deleting this folder will remove essential exploits, configs or files potentially causing your PS2 no longer be homebrew capable with this memory card until reinstalled.
 
--   __Mini Lock (locked)__
+-   __Lock (locked)__
 
     ---
 
@@ -37,7 +37,7 @@ glightbox: true
         Deleting this folder will remove essential exploits, configs or files potentially causing your PS2 no longer be homebrew capable with this memory card until reinstalled.
 
 
--   __Mini Lock (unlocked)__
+-   __Lock (unlocked)__
 
     ---
 
