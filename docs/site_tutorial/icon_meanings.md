@@ -20,7 +20,7 @@ glightbox: true
 
     ---
 
-    ![warning-icon_pic](assets/icon_meanings/warning.png){ width="350" }
+    ![warning-icon_pic](assets/icon_meanings/warning.png){ width="350" .on-glb }
 
     !!! info "Warning"
 
@@ -30,7 +30,7 @@ glightbox: true
 
     ---
 
-    ![ps2bbl_icn](assets/icon_meanings/mini-lock-locked.png){ width="350" }
+    ![ps2bbl_icn](assets/icon_meanings/mini-lock-locked.png){ width="350" .on-glb }
 
     !!! info "Warning"
 
@@ -41,7 +41,7 @@ glightbox: true
 
     ---
 
-    ![boot-copy_pic](assets/icon_meanings/mini-lock-unlocked.png){ width="350" }
+    ![boot-copy_pic](assets/icon_meanings/mini-lock-unlocked.png){ width="350" .on-glb }
 
     !!! info "Unlocked"
 
@@ -60,7 +60,7 @@ glightbox: true
 
     ---
 
-    ![sys-conf_pic](assets/icon_meanings/gears.png){ width="350" }
+    ![sys-conf_pic](assets/icon_meanings/gears.png){ width="350" .on-glb }
 
     !!! info "Config files"
 
@@ -71,7 +71,7 @@ glightbox: true
 
     ---
 
-    ![sys-conf_pic](assets/icon_meanings/mini-wrench.png){ width="350" }
+    ![sys-conf_pic](assets/icon_meanings/mini-wrench.png){ width="350" .on-glb }
 
 
     !!! info "System/App configurators"
@@ -92,7 +92,7 @@ glightbox: true
 
     ---
 
-    ![opl-mini-app_pic](assets/icon_meanings/mini-mc.png){ width="350" }
+    ![opl-mini-app_pic](assets/icon_meanings/mini-mc.png){ width="350" .on-glb }
 
     !!! info "Application"
 
@@ -102,7 +102,7 @@ glightbox: true
 
     ---
 
-    ![opl-copy_pic](assets/icon_meanings/mini-mc-copy.png){ width="350" }
+    ![opl-copy_pic](assets/icon_meanings/mini-mc-copy.png){ width="350" .on-glb }
 
     !!! info "Application/Folder Copy"
 
@@ -112,7 +112,7 @@ glightbox: true
 
     ---
 
-    ![opl-del_pic](assets/icon_meanings/mini-mc-del.png){ width="350" }
+    ![opl-del_pic](assets/icon_meanings/mini-mc-del.png){ width="350" .on-glb }
 
     !!! info "Application/Folder Delete"
 
@@ -129,7 +129,7 @@ glightbox: true
 
     ---
 
-    ![rte_pic](assets/icon_meanings/rte.png){ width="350" }
+    ![rte_pic](assets/icon_meanings/rte.png){ width="350" .on-glb }
 
     !!! info "Run Time Application"
 
@@ -139,7 +139,7 @@ glightbox: true
 
     ---
 
-    ![gears_pic](assets/icon_meanings/debug.png){ width="350" }
+    ![gears_pic](assets/icon_meanings/debug.png){ width="350" .on-glb }
 
     !!! info "Mini Command Prompt"
 
