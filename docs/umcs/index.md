@@ -6,7 +6,7 @@ hide:
 
 # Universal Memory Card Structure
 
-Abbreviated UMCS, this aims to provide a very robust structure that works for all exploits and hopefully all modchips that support memory card boot via `mc?:/BOOT.BOOT.ELF`[^1]
+Abbreviated UMCS, this aims to provide a very robust structure that works for all exploits and hopefully all modchips that support memory card boot via `mc?:/BOOT/BOOT.ELF`[^1]
 
 This is the core of SAS (Save Application Strucure) so that there is minimal configuration end users need to do to run memory card based exploits.
 
