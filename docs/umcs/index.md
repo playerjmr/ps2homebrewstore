@@ -58,4 +58,13 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
 </div>
 
+???+ tip "Hotkeys"
+
+    During the PS2BBL logo, you have 4 seconds to activate run these options. On some like R1, it will go down the list till one is found, else exit to OSDSYS.
+
+    ![PS2BBL Hotkeys](./exploits/assets/PS2BBL_Hotkeys.png){ width="800" .on-glb }
+    ///caption
+    Config @ mc?:/SYS-CONF/PS2BBL.INI and OSDMENU.CNF
+    ///
+
 [^1]: Modchips usually require the BOOT folder to be in Memory Card Slot 1 (`mc0:/BOOT/BOOT.ELF`) such as Matrix Infinity, DMS3/4, Ghost 2 and Modbo/Mars Pro
