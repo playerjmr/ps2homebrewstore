@@ -90,12 +90,12 @@ graph LR
      A:::Ash
     classDef Ash stroke-width:1px, stroke-dasharray:none, stroke:#999999, fill:#EEEEEE, color:#000000
     style A stroke:#00C853,fill:#00C853,color:none
-    style B color:#000000,fill:#FFCDD2
-    style n1 color:#000000,fill:#FFCDD2
-    style n5 fill:#C8E6C9
-    style n6 fill:#C8E6C9
-    style n7 fill:#FFCDD2
-    style n10 fill:#FFF9C4
+    style B color:#D50000,fill:#FFCDD2
+    style n1 color:#D50000,fill:#FFCDD2
+    style n5 fill:#C8E6C9,color:#00C853
+    style n6 fill:#C8E6C9,color:#00C853
+    style n7 fill:#FFCDD2,color:#D50000
+    style n10 fill:#FFF9C4,color:#000000
     linkStyle 0 stroke:#00C853,fill:none
     linkStyle 1 stroke:#00C853,fill:none
     linkStyle 2 stroke:#00C853,fill:none
