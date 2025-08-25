@@ -95,7 +95,7 @@ graph LR
     style n5 fill:transparent,color:#00C853
     style n6 fill:transparent,color:#00C853
     style n7 fill:transparent,color:#D50000
-    style n10 fill:#FFF9C4,color:#000000
+    style n10 fill:transparent,color:#000000
     linkStyle 0 stroke:#00C853,fill:none
     linkStyle 1 stroke:#00C853,fill:none
     linkStyle 2 stroke:#00C853,fill:none
