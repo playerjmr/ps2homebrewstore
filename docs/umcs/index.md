@@ -74,7 +74,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 ```mermaid
 graph LR
     A(["PS2 Power On/Reset"]) L_A_B_0@-- "BOOTROM 1.00-2.20" --> B["OSDSYS UPDATE<br>B?EXEC-SYSTEM<br>(PS2BBL/ProtoPwn)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
-    A L_A_n1_0@-- "BOOTROM 2.30,2.50" --> n1["OPENTUNA/DEV 1 CHIPS<br>mc?:/BOOT/BOOT.ELF<br>(PS2BBL)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
+    A L_A_n1_0@-- "BOOTROM 2.30,2.50</br>and DEV 1 Modchips" --> n1["OPENTUNA/DEV 1 CHIPS<br>mc?:/BOOT/BOOT.ELF<br>(PS2BBL)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
     n5@{ label: "<pre style=\"font-family:\"><code style=\"font-family:\">mc?:/SYS-CONF/PS2BBL.INI</code></pre>" } -- Config Exists --> n6["AUTOLAUNCH or Hotkeys<br>mc?:/SYS-CONF/PS2BBL.INI"]
     B -- "Fall back to SYS-CONF" --> n5
     n1 -- "Fall back to SYS-CONF" --> n5
