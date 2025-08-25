@@ -75,13 +75,13 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 graph LR
     A(["PS2 Power On/Reset"]) L_A_B_0@-- "BOOTROM 1.00-2.20" --> B@{ label: "OSDSYS UPDATE<br>B?EXEC-SYSTEM<br>(PS2BBL/ProtoPwn)<br><pre style=\"--tw-scale-x:\"><code style=\"--tw-scale-x:\">./CONFIG.INI</code></pre>" }
     B -- "<pre style=font-family:><code style=font-family:>NO</code></pre>" --> C["mx4sio:/PS2BBL/CONFIG.INI"]
-    A L_A_n1_0@-- "BOOTROM 2.30,2.50" --> n1["OPENTUNA/DEV 1 CHIPS<br>BOOT/BOOT.ELF<br>(PS2BBL)<br>./CONFIG.INI"]
+    A L_A_n1_0@-- "BOOTROM 2.30,2.50" --> n1["OPENTUNA/DEV 1 CHIPS<br>mc?:/BOOT/BOOT.ELF<br>(PS2BBL)<br>./CONFIG.INI"]
     n1 -- YES --> n2["AUTOLAUNCH<br>BOOT/CONFIG.INI<br>"]
     C -- NO --> n3@{ label: "<pre style=\"font-family:\"><code style=\"font-family:\">hdd0:/__sysconf/PS2BBL/CONFIG.INI</code></pre>" }
     n3 -- NO --> n4@{ label: "<pre style=\"font-family:\"><code style=\"font-family:\">mass:/PS2BBL/CONFIG.INI</code></pre>" }
     n4 -- NO --> n5@{ label: "<pre style=\"font-family:\"><code style=\"font-family:\">mc?:/SYS-CONF/PS2BBL.INI</code></pre>" }
     n5 -- YES --> n6["AUTOLAUNCH<br>mc?:/SYS-CONF/PS2BBL.INI"]
-    n2 -- "APP Calls BOOT/BOOT.ELF" --> n7@{ label: "BOOT/BOOT.ELF<br style=\"--tw-scale-x:\">(PS2BBL)<br style=\"--tw-scale-x:\">./CONFIG.INI" }
+    n2 -- "APP Calls BOOT/BOOT.ELF" --> n7@{ label: "mc?:/BOOT/BOOT.ELF<br style=\"--tw-scale-x:\">(PS2BBL)<br style=\"--tw-scale-x:\">./CONFIG.INI" }
     n6 -- "APP Calls BOOT/BOOT.ELF" --> n7
     n7 -- YES --> n8["AUTOLAUNCH<br>PS2BBL<br>./CONFIG.INI"]
     B@{ shape: rect}
