@@ -105,7 +105,6 @@ graph LR
      n3:::Rose
      n4:::Rose
      n5:::Ash
-     n5:::Aqua
      n5:::Pine
      n6:::Ash
      n6:::Pine
@@ -118,6 +117,10 @@ graph LR
     classDef Pine stroke-width:1px, stroke-dasharray:none, stroke:#254336, fill:#27654A, color:#FFFFFF
     classDef Aqua stroke-width:1px, stroke-dasharray:none, stroke:#46EDC8, fill:#DEFFF8, color:#378E7A
     style A stroke:#00C853
+    style n1 color:#000000
+    style n2 color:#000000
+    style n7 color:#000000
+    style n8 color:#000000
     linkStyle 0 stroke:#2962FF,fill:none
     linkStyle 1 stroke:#D50000,fill:none
     linkStyle 2 stroke:#2962FF,fill:none
@@ -129,7 +132,6 @@ graph LR
     linkStyle 10 stroke:#00C853,fill:none
     L_A_B_0@{ animation: slow } 
     L_A_n1_0@{ animation: slow }
-
 ```
 
 
