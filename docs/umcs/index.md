@@ -116,7 +116,7 @@ graph LR
     classDef Ash stroke-width:1px, stroke-dasharray:none, stroke:#999999, fill:#EEEEEE, color:#000000
     classDef Pine stroke-width:1px, stroke-dasharray:none, stroke:#254336, fill:#27654A, color:#FFFFFF
     classDef Aqua stroke-width:1px, stroke-dasharray:none, stroke:#46EDC8, fill:#DEFFF8, color:#378E7A
-    style A stroke:#00C853
+    style A stroke:#00C853,fill:#00C853,color:none
     style n1 color:#000000
     style n2 color:#000000
     style n7 color:#000000
