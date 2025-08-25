@@ -88,29 +88,21 @@ graph LR
     n7@{ shape: rect}
     n10@{ shape: subproc}
      A:::Ash
-     B:::Rose
-     n1:::Ash
-     n1:::Aqua
-     n1:::Rose
-     n5:::Ash
-     n5:::Pine
-     n6:::Ash
-     n6:::Pine
-     n7:::Rose
     classDef Ash stroke-width:1px, stroke-dasharray:none, stroke:#999999, fill:#EEEEEE, color:#000000
-    classDef Pine stroke-width:1px, stroke-dasharray:none, stroke:#254336, fill:#27654A, color:#FFFFFF
-    classDef Aqua stroke-width:1px, stroke-dasharray:none, stroke:#46EDC8, fill:#DEFFF8, color:#378E7A
-    classDef Rose stroke-width:1px, stroke-dasharray:none, stroke:#FF5978, fill:#FFDFE5, color:#8E2236
     style A stroke:#00C853,fill:#00C853,color:none
-    style B color:#000000
-    style n1 color:#000000
-    style n10 fill:#FFD600
+    style B color:#000000,fill:#FFCDD2
+    style n1 color:#000000,fill:#FFCDD2
+    style n5 fill:#C8E6C9
+    style n6 fill:#C8E6C9
+    style n7 fill:#FFCDD2
+    style n10 fill:#FFF9C4
     linkStyle 0 stroke:#00C853,fill:none
     linkStyle 1 stroke:#00C853,fill:none
     linkStyle 2 stroke:#00C853,fill:none
     linkStyle 7 stroke:#FFD600,fill:none
     L_A_B_0@{ animation: slow } 
     L_A_n1_0@{ animation: slow }
+
 ```
 
 
