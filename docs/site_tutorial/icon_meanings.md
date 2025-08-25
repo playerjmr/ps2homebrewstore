@@ -22,7 +22,7 @@ glightbox: true
 
     ![warning-icon_pic](assets/icon_meanings/warning.png){ width="350" .on-glb }
 
-    !!! info "Warning"
+    !!! warning "Warning"
 
         Deleting this folder will remove essential exploits, configs or files potentially causing your PS2 no longer be homebrew capable with this memory card until reinstalled.
 
@@ -32,9 +32,9 @@ glightbox: true
 
     ![ps2bbl_icn](assets/icon_meanings/mini-lock-locked.png){ width="350" .on-glb }
 
-    !!! info "Warning"
+    !!! info "Locked"
 
-        Deleting this folder will remove essential exploits, configs or files potentially causing your PS2 no longer be homebrew capable with this memory card until reinstalled.
+        Mini lock appears when viewing the app/folder in Memory Card Browser, indicating system critical files.
 
 
 -   __Lock (unlocked)__
