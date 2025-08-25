@@ -74,7 +74,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 ```mermaid
 graph LR
     A(["PS2 Power On/Reset"]) L_A_B_0@-- "BOOTROM 1.00-2.20" --> B@{ label: "OSDSYS UPDATE<br>B?EXEC-SYSTEM<br>(PS2BBL/ProtoPwn)<br><pre style=\"--tw-scale-x:\"><code style=\"--tw-scale-x:\">./CONFIG.INI</code></pre>" }
-    B -- "<pre style=font-family:><code style=font-family:>NO</code></pre>" --> C@{ label: "<span style=\"background-color:\">mx4sio:/PS2BBL/CONFIG.INI</span>" }
+    B -- "<pre style=font-family:><code style=font-family:>NO</code></pre>" --> C["mx4sio:/PS2BBL/CONFIG.INI"]
     A L_A_n1_0@-- "BOOTROM 2.30,2.50" --> n1["OPENTUNA/DEV 1 CHIPS<br>BOOT/BOOT.ELF<br>(PS2BBL)<br>./CONFIG.INI"]
     n1 -- YES --> n2["AUTOLAUNCH<br>BOOT/CONFIG.INI<br>"]
     C -- NO --> n3@{ label: "<pre style=\"font-family:\"><code style=\"font-family:\">hdd0:/__sysconf/PS2BBL/CONFIG.INI</code></pre>" }
@@ -87,13 +87,13 @@ graph LR
     B@{ shape: rect}
     C@{ shape: rect}
     n1@{ shape: rect}
-    n2@{ shape: tri}
+    n2@{ shape: diam}
     n3@{ shape: proc}
     n4@{ shape: proc}
     n5@{ shape: proc}
-    n6@{ shape: tri}
-    n7@{ shape: decision}
-    n8@{ shape: tri}
+    n6@{ shape: diam}
+    n7@{ shape: rect}
+    n8@{ shape: diam}
      A:::Ash
      B:::Rose
      C:::Rose
@@ -117,13 +117,17 @@ graph LR
     classDef Pine stroke-width:1px, stroke-dasharray:none, stroke:#254336, fill:#27654A, color:#FFFFFF
     classDef Aqua stroke-width:1px, stroke-dasharray:none, stroke:#46EDC8, fill:#DEFFF8, color:#378E7A
     style A stroke:#00C853,fill:#00C853,color:none
+    style B color:#000000
+    style C color:#000000
     style n1 color:#000000
     style n2 color:#000000
+    style n3 color:#000000,stroke:#D50000
+    style n4 stroke:#D50000,color:#000000
     style n7 color:#000000
     style n8 color:#000000
-    linkStyle 0 stroke:#2962FF,fill:none
+    linkStyle 0 stroke:#00C853,fill:none
     linkStyle 1 stroke:#D50000,fill:none
-    linkStyle 2 stroke:#2962FF,fill:none
+    linkStyle 2 stroke:#00C853,fill:none
     linkStyle 3 stroke:#00C853,fill:none
     linkStyle 4 stroke:#D50000,fill:none
     linkStyle 5 stroke:#D50000,fill:none
