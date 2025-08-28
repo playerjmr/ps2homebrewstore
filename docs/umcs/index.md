@@ -74,18 +74,16 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 ```mermaid
 graph LR
     A(["PS2 Power On/Reset"]) L_A_B_0@-- "BOOTROM 1.00-2.20" --> B["OSDSYS UPDATE<br>B?EXEC-SYSTEM<br>(PS2BBL/ProtoPwn)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
-    A L_A_n1_0@-- "BOOTROM 2.30,2.50</br>and DEV 1 Modchips" --> n1["OPENTUNA/DEV 1 CHIPS<br>mc?:/BOOT/BOOT.ELF<br>(PS2BBL)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
+    A L_A_n1_0@-- "BOOTROM 2.30,2.50<br>and DEV 1 Modchips" --> n1["OPENTUNA/DEV 1 CHIPS<br>mc?:/BOOT/BOOT.ELF<br>(PS2BBL)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
     n5@{ label: "<pre style=\"font-family:\"><code style=\"font-family:\">mc?:/SYS-CONF/PS2BBL.INI</code></pre>" } -- Config Exists --> n6["AUTOLAUNCH or Hotkeys<br>mc?:/SYS-CONF/PS2BBL.INI"]
-    B -- "Fall back to SYS-CONF" --> n5
-    n1 -- "Fall back to SYS-CONF" --> n5
-    n6 -- "User Exiits/Launches App that calls BOOT/BOOT.ELF<br>IE GSM/ IGR?" --> n7["BOOT/CONFIG.INI <br>DOES NOT EXIST"]
-    n7 -- "Fall back to SYS-CONF" --> n5
+    B L_B_n5_0@-- "Fall back to SYS-CONF" --> n5
+    n1 L_n1_n5_0@-- "Fall back to SYS-CONF" --> n5
     n6 --o n10@{ label: "PS2BBL.INI AUTOLAUNCH<br style=\"--tw-scale-x:\"><br style=\"--tw-scale-x:\">1: SYS_OSDMENU<br style=\"--tw-scale-x:\"><br style=\"--tw-scale-x:\">2: SYS_FMCBD-1966<br style=\"--tw-scale-x:\"><br style=\"--tw-scale-x:\">3: SYS_FMCBD-1965<br style=\"--tw-scale-x:\"><br style=\"--tw-scale-x:\">4: SYS_FMCBD-1955<br style=\"--tw-scale-x:\"><br style=\"--tw-scale-x:\">5: BOOT/BOOT2.ELF" }
+    n6 L_n6_n1_0@-- "User Exits/Launches App<br>that calls mc?:BOOT/BOOT.ELF<br>IE GSM/ IGR?" --> n1
     B@{ shape: rect}
     n1@{ shape: rect}
     n5@{ shape: proc}
     n6@{ shape: diam}
-    n7@{ shape: rect}
     n10@{ shape: subproc}
      A:::Ash
     classDef Ash stroke-width:1px, stroke-dasharray:none, stroke:#999999, fill:#EEEEEE, color:#000000
@@ -94,14 +92,17 @@ graph LR
     style n1 color:#D50000,fill:transparent
     style n5 fill:transparent,color:#00C853
     style n6 fill:transparent,color:#00C853
-    style n7 fill:transparent,color:#D50000
     style n10 fill:transparent,color:#000000
     linkStyle 0 stroke:#00C853,fill:none
     linkStyle 1 stroke:#00C853,fill:none
     linkStyle 2 stroke:#00C853,fill:none
-    linkStyle 7 stroke:#FFD600,fill:none
+    linkStyle 5 stroke:#FFD600,fill:none
     L_A_B_0@{ animation: slow } 
-    L_A_n1_0@{ animation: slow }
+    L_A_n1_0@{ animation: slow } 
+    L_B_n5_0@{ animation: slow } 
+    L_n1_n5_0@{ animation: slow } 
+    L_n6_n1_0@{ animation: slow }
+    L_n5_n6_0@{ animation: slow }
 
 ```
 
