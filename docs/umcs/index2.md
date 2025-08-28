@@ -76,6 +76,8 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
 - `mc?:SYS-CONF/PS2BBL.INI`
 
+    - PS2BBL signed exploit and ProtoPwn land here
+
     - Pros
 
         - Only 1 config to edit, less confusing to users to "follow the path"
@@ -129,7 +131,11 @@ graph LR
 
 - `mc?:SYS-CONF/PS2BBL.INI`
 
+    - PS2BBL signed exploit and ProtoPwn UMCS branch land here
+
 - `mc?:/BOOT/CONFIG.INI`
+
+    - ProtoPwn main branch lands here
 
     - This config calls `mc?:/APP_WLE-ISR-EXFAT` first for OpenTuna/Modchip Dev1 (if modchip doesnt support OSDSYS updates)
 
@@ -204,7 +210,11 @@ graph LR
 
 - `mc?:SYS-CONF/PS2BBL.INI`
 
+    - PS2BBL signed exploit and ProtoPwn UMCS branch land here
+
 - `mc?:/BOOT/CONFIG.INI`
+
+    - ProtoPwn main branch lands here
 
     - This config calls `mc?:/APP_WLE-ISR-EXFAT` first for OpenTuna/Modchip Dev1 (if modchip doesnt support OSDSYS updates)
 
@@ -219,7 +229,7 @@ graph LR
             - OpenTuna/Modchip Dev1 treated differently. 
 
             - OpenTuna/Modchips that support hacked OSDSYS,  users will be confused why they do not get hacked OSDSYS
-            
+
             - Need to edit `mc?:/BOOT/CONFIG.INI` to choose initial landing app or drop down to different hacked OSDSYS
 
 
