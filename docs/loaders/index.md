@@ -8,11 +8,11 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __OPL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="50" align=right }
+-   __OPL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="100" align=right }
 
     ---
 
-    [![OPL-Latest_Pic](assets/opl2025-Copy.png)](https://github.com/rickgaiser/Open-PS2-Loader/releases)
+    [![OPL-Latest_Pic](assets/opl2025.png)](https://github.com/rickgaiser/Open-PS2-Loader/releases)
 
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD (2241)
 
@@ -26,11 +26,11 @@ hide:
 
         `R2` when the PS2BBL logo appears
 
--   __Unofficial OPL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="50" align=right }
+-   __Unofficial OPL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="100" align=right }
 
     ---
 
-    [![uOPL_Pic](assets/uopl-Copy.png)](https://github.com/NathanNeurotic/uOPL)
+    [![uOPL_Pic](assets/uopl.png)](https://github.com/NathanNeurotic/uOPL)
 
     KrahJohnlitos last ditch attempt to make OPL great again! 
 
@@ -44,11 +44,11 @@ hide:
 
         `R2` when the PS2BBL logo appears
 
--   __NHDDL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="50" align=right }
+-   __NHDDL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="100" align=right }
 
     ---
 
-    [![NHDDL_Pic](assets/nhddl-Copy.png)](https://github.com/pcm720/nhddl)
+    [![NHDDL_Pic](assets/nhddl.png)](https://github.com/pcm720/nhddl)
 
     Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
 
@@ -63,11 +63,11 @@ hide:
         `R1` when the PS2BBL logo appears
 
 
--   __Neutrino__![nonsas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="50" align=right }
+-   __Neutrino__![nonsas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="100" align=right }
 
     ---
 
-    [![Neutrino_Pic](assets/neutrino-Copy.png)](https://github.com/rickgaiser/neutrino)
+    [![Neutrino_Pic](assets/neutrino.png)](https://github.com/rickgaiser/neutrino)
 
     Neutrino is a small, fast and modular PS2 device emulator. A frontend such as NHDDL, PS2BBN DEP, OSD-XMB, XEB+ or PS2 Link is needed. 
 
@@ -79,11 +79,11 @@ hide:
 
     [:material-cloud-download: Neutrino](../assets/NON-SAS/NEUTRINO.zip)
 
--   __OSD-XMB__![nonsas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="50" align=right }
+-   __OSD-XMB__![nonsas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="100" align=right }
 
     ---
 
-    [![OSDXMB_Pic](assets/osdxmb-Copy.png)](https://github.com/HiroTex/OSD-XMB)
+    [![OSDXMB_Pic](assets/osdxmb.png)](https://github.com/HiroTex/OSD-XMB)
 
     GUI resembling the PS3/PSP XMB Style.
 
@@ -100,11 +100,11 @@ hide:
         `D-PAD UP` when the PS2BBL logo appears.
 
 
--   __XEB+__![nonsas-ext_pic](../assets/badges/NOTSASCOMPLIANTEXTLINK.png){ width="50" align=right }
+-   __XEB+__![nonsas-ext_pic](../assets/badges/NOTSASCOMPLIANTEXTLINK.png){ width="100" align=right }
 
     ---
 
-    [![XEB+_Pic](assets/xeb-Copy.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
+    [![XEB+_Pic](assets/xeb.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
     Fully Lua Scripted dashboard experience that is extensable.
 
