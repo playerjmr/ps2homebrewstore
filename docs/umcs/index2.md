@@ -10,25 +10,8 @@ hide:
 ## When is PS2BBL's config called?
 
 ### Option 1
-1 config
 
-- `mc?:SYS-CONF/PS2BBL.INI`
-
-    - PS2BBL signed exploit and ProtoPwn land here
-
-    - Pros
-
-        - Only 1 config to edit, less confusing to users to "follow the path"
-
-        - Every exploit/modchip treated the same
-
-        - Simply "delete" down the list to land on hacked OSDSYS/wLE ISR exFAT
-
-    - Cons
-
-        - Apps such as GSM standalone that dont work with hacked ODSSYS or expect uLE, user will need to press triangle hotkey to get to wLE ISR exFAT @ `mc?:/BOOT/BOOT2.ELF`
-
-        - Mars Pro (DMS4 clone), and other incompatible modchips will need to edit `mc?:SYS-CONF/PS2BBL.INI` as it does not support hacked OSDSYS
+1 Config:
 
 ```mermaid
 ---
@@ -66,34 +49,29 @@ graph LR
 
 ```
 
-### Option 2
-2 configs:
 
 - `mc?:SYS-CONF/PS2BBL.INI`
 
-    - PS2BBL signed exploit and ProtoPwn UMCS branch land here
+    - PS2BBL signed exploit and ProtoPwn land here
 
-- `mc?:/BOOT/CONFIG.INI`
+    - Pros
 
-    - ProtoPwn main branch lands here
+        - Only 1 config to edit, less confusing to users to "follow the path"
 
-    - This config calls `mc?:/APP_WLE-ISR-EXFAT` first for OpenTuna/Modchip Dev1 (if modchip doesnt support OSDSYS updates)
+        - Every exploit/modchip treated the same
 
-        - Pros: 
+        - Simply "delete" down the list to land on hacked OSDSYS/wLE ISR exFAT
 
-            - Apps that don't play well with hacked OSDSYS like GSM standalone
+    - Cons
 
-            - Mars Pro (and potentially other bad modchips) get a working starting app
-            
-            - Just like dropping users to other hacked OSDSYS (OSDMenu/FMCBD-XXXX) simply use MC browser to delete `mc?:/APP_WLE-ISR-EXFAT` which is already `mc?:/BOOT/BOOT2.ELF`
+        - Apps such as GSM standalone that dont work with hacked ODSSYS or expect uLE, user will need to press triangle hotkey to get to wLE ISR exFAT @ `mc?:/BOOT/BOOT2.ELF`
 
-        - Cons: 
-
-            - OpenTuna/Modchip Dev1 treated differently. 
-
-            - OpenTuna users will be confused why they do not get hacked OSDSYS
+        - Mars Pro (DMS4 clone), and other incompatible modchips will need to edit `mc?:SYS-CONF/PS2BBL.INI` as it does not support hacked OSDSYS
 
 
+### Option 2
+
+2 configs:
 
 ```mermaid
 ---
@@ -144,8 +122,6 @@ graph LR
     L_n5_n1_0@{ animation: slow }
 ```
 
-### Option 3
-2 configs:
 
 - `mc?:SYS-CONF/PS2BBL.INI`
 
@@ -162,15 +138,20 @@ graph LR
             - Apps that don't play well with hacked OSDSYS like GSM standalone
 
             - Mars Pro (and potentially other bad modchips) get a working starting app
+            
+            - Just like dropping users to other hacked OSDSYS (OSDMenu/FMCBD-XXXX) simply use MC browser to delete `mc?:/APP_WLE-ISR-EXFAT` which is already `mc?:/BOOT/BOOT2.ELF`
 
         - Cons: 
 
             - OpenTuna/Modchip Dev1 treated differently. 
 
-            - OpenTuna/Modchips that support hacked OSDSYS,  users will be confused why they do not get hacked OSDSYS
+            - OpenTuna users will be confused why they do not get hacked OSDSYS
 
-            - Need to edit `mc?:/BOOT/CONFIG.INI` to choose initial landing app or drop down to different hacked OSDSYS
 
+
+### Option 3
+
+2 configs:
 
 ```mermaid
 ---
@@ -220,6 +201,31 @@ graph LR
     L_n4_n1_0@{ animation: slow } 
     L_n5_n1_0@{ animation: slow }
 ```
+
+- `mc?:SYS-CONF/PS2BBL.INI`
+
+    - PS2BBL signed exploit and ProtoPwn UMCS branch land here
+
+- `mc?:/BOOT/CONFIG.INI`
+
+    - ProtoPwn main branch lands here
+
+    - This config calls `mc?:/APP_WLE-ISR-EXFAT` first for OpenTuna/Modchip Dev1 (if modchip doesnt support OSDSYS updates)
+
+        - Pros: 
+
+            - Apps that don't play well with hacked OSDSYS like GSM standalone
+
+            - Mars Pro (and potentially other bad modchips) get a working starting app
+
+        - Cons: 
+
+            - OpenTuna/Modchip Dev1 treated differently. 
+
+            - OpenTuna/Modchips that support hacked OSDSYS,  users will be confused why they do not get hacked OSDSYS
+
+            - Need to edit `mc?:/BOOT/CONFIG.INI` to choose initial landing app or drop down to different hacked OSDSYS
+
 
 
 [^1]: Modchips usually require the BOOT folder to be in Memory Card Slot 1 (`mc0:/BOOT/BOOT.ELF`) such as Matrix Infinity, DMS3/4, Ghost 2 and Modbo/Mars Pro
