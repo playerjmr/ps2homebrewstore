@@ -26,7 +26,9 @@ hide:
 
     - Cons
 
-        - Apps such as GSM standalone that dont work with hacked ODSSYS or expect uLE, user will need to press triangle to get to wLE ISR exFAT @ `mc?:/BOOT/BOOT2.ELF`
+        - Apps such as GSM standalone that dont work with hacked ODSSYS or expect uLE, user will need to press triangle hotkey to get to wLE ISR exFAT @ `mc?:/BOOT/BOOT2.ELF`
+
+        - Mars Pro (DMS4 clone), and other incompatible modchips will need to edit `mc?:SYS-CONF/PS2BBL.INI` as it does not support hacked OSDSYS
 
 ```mermaid
 ---
@@ -91,7 +93,6 @@ graph LR
 
             - OpenTuna users will be confused why they do not get hacked OSDSYS
 
-            - Need to edit
 
 
 ```mermaid
