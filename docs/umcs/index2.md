@@ -72,13 +72,20 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 ## When is PS2BBL's config called?
 
 ### Option 1
-Only 1 config
+1 config
+
 - `mc?:SYS-CONF/PS2BBL.INI`
+
     - Pros
+
         - Only 1 config to edit, less confusing to users to "follow the path"
+
         - Every exploit/modchip treated the same
+
         - Simply "delete" down the list to land on hacked OSDSYS/wLE ISR exFAT
+
     - Cons
+
         - Apps such as GSM standalone that dont work with hacked ODSSYS or expect uLE, user will need to press triangle to get to wLE ISR exFAT @ `mc?:/BOOT/BOOT2.ELF`
 
 ```mermaid
@@ -118,17 +125,28 @@ graph LR
 ```
 
 ### Option 2
-2 configs
+2 configs:
+
 - `mc?:SYS-CONF/PS2BBL.INI`
+
 - `mc?:/BOOT/CONFIG.INI`
+
     - This config calls `mc?:/APP_WLE-ISR-EXFAT` first for OpenTuna/Modchip Dev1 (if modchip doesnt support OSDSYS updates)
+
         - Pros: 
+
             - Apps that don't play well with hacked OSDSYS like GSM standalone
+
             - Mars Pro (and potentially other bad modchips) get a working starting app
+            
             - Just like dropping users to other hacked OSDSYS (OSDMenu/FMCBD-XXXX) simply use MC browser to delete `mc?:/APP_WLE-ISR-EXFAT` which is already `mc?:/BOOT/BOOT2.ELF`
+
         - Cons: 
+
             - OpenTuna/Modchip Dev1 treated differently. 
+
             - OpenTuna users will be confused why they do not get hacked OSDSYS
+
             - Need to edit
 
 
@@ -182,16 +200,26 @@ graph LR
 ```
 
 ### Option 3
-2 configs
+2 configs:
+
 - `mc?:SYS-CONF/PS2BBL.INI`
+
 - `mc?:/BOOT/CONFIG.INI`
+
     - This config calls `mc?:/APP_WLE-ISR-EXFAT` first for OpenTuna/Modchip Dev1 (if modchip doesnt support OSDSYS updates)
+
         - Pros: 
+
             - Apps that don't play well with hacked OSDSYS like GSM standalone
+
             - Mars Pro (and potentially other bad modchips) get a working starting app
+
         - Cons: 
+
             - OpenTuna/Modchip Dev1 treated differently. 
+
             - OpenTuna/Modchips that support hacked OSDSYS,  users will be confused why they do not get hacked OSDSYS
+            
             - Need to edit `mc?:/BOOT/CONFIG.INI` to choose initial landing app or drop down to different hacked OSDSYS
 
 
