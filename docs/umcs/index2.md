@@ -52,7 +52,7 @@ graph LR
 
 - `mc?:SYS-CONF/PS2BBL.INI`
 
-    - PS2BBL signed exploit and ProtoPwn land here
+    - PS2BBL signed exploit, ProtoPwn , OpenTuna and Dev1 modchips land here
 
     - Pros
 
