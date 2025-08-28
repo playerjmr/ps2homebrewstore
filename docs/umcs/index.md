@@ -18,7 +18,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
 <div class="grid cards" markdown>
 
--   __APPS__
+-   __APPS__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
 
     ---
 
@@ -28,7 +28,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     - `mc?:/APPS/` used for OpenTuna, Funtuna, Funtuna Fork and possibly more apps. Preferably not used as these all boot `mc?:/BOOT/BOOT.ELF`
 
--   __BOOT__
+-   __BOOT__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
 
     ---
 
@@ -46,7 +46,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
         - `ESR.ELF` ESR for running patched backup (in OSDMenu)
 
--   __SYS-CONF__
+-   __SYS-CONF__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
 
     ---
 

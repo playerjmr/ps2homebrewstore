@@ -8,7 +8,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __Apollo Save Tool__
+-   __Apollo Save Tool__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
 
     ---
 
@@ -19,7 +19,7 @@ hide:
     [:material-cloud-download: Apollo](../assets/SAVE-APPLICATION-SYSTEM/APP_APOLLO.psu)
 
 
--   __Argon__
+-   __Argon__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
 
     ---
 
@@ -30,7 +30,7 @@ hide:
     [:material-cloud-download: Argon](../assets/SAVE-APPLICATION-SYSTEM/APP_ARGON.psu)
 
 
--   __Graphics Synthesizer Mode (GSM)__
+-   __Graphics Synthesizer Mode (GSM)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
 
     ---
 
@@ -41,7 +41,7 @@ hide:
     [:material-cloud-download: GSM](../assets/SAVE-APPLICATION-SYSTEM/APP_GSM.psu)
 
 
--   __Simple Media System (SMS)__
+-   __Simple Media System (SMS)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
 
     ---
 
@@ -52,7 +52,7 @@ hide:
     [:material-cloud-download: SMS](../assets/SAVE-APPLICATION-SYSTEM/APP_SMS.psu)
 
 
--   __wLaunch ELF (El Isra's Fork)__
+-   __wLaunch ELF (El Isra's Fork)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
 
     ---
 
@@ -69,7 +69,7 @@ hide:
     [:material-cloud-download: wLE ISR HDD](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-HDD.psu) Used for [:material-file-document: header injection](https://www.psx-place.com/threads/wlaunchelf-isr_hdd.34075/)
 
 
--   __wLaunch Elf (krHACKen's Fork)__
+-   __wLaunch Elf (krHACKen's Fork)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
 
     ---
 
@@ -79,7 +79,8 @@ hide:
 
     [:material-cloud-download: wLE KHN](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-KHN.psu)
 
--   __PS2 Link__
+
+-   __PS2 Link__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
 
     ---
 
@@ -92,7 +93,7 @@ hide:
     [:material-cloud-download: PS2 Link HighMem Loading](../assets/SAVE-APPLICATION-SYSTEM/DBG_PS2LINK-HILDING.psu)
 
 
--   __Memory Card Annihilator__
+-   __Memory Card Annihilator__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
 
     ---
 
@@ -103,7 +104,7 @@ hide:
     [:material-cloud-download: Memory Card Annihilator](../assets/SAVE-APPLICATION-SYSTEM/DST_MCA.psu)
 
 
--   __PowerOff PS2__
+-   __PowerOff PS2__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
 
     ---
 
@@ -113,7 +114,7 @@ hide:
 
     [:material-cloud-download: PowerOff](../assets/SAVE-APPLICATION-SYSTEM/POWEROFF.psu)
 
--   __Reboot PS2__
+-   __Reboot PS2__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
 
     ---
 
