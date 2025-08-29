@@ -155,8 +155,7 @@ hide:
 
     [![FMCBD](assets/osdmenu.png)](https://israpps.github.io/FreeMcBoot-Installer/)
 
-    The Hacked OSDSYS that everyone knows, but is non-extensible and not open-source (except for 1.8C)
-
+    The Hacked OSDSYS that everyone knows, but is non-extensible and not open-source.
     Supports FAT32/exFAT USB, MemCard, CDROM.
 
     [:material-cloud-download: FMCBD 1.966](../assets/SAVE-APPLICATION-SYSTEM/SYS_FMCBD-1966.psu)
