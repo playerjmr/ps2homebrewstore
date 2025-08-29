@@ -146,30 +146,4 @@ glightbox: true
         Debugging application
 
 
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

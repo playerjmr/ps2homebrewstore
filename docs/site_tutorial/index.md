@@ -49,7 +49,50 @@ __SAS Applications include:__
 
 ![wle_10](assets/wle_10.png){ width="800" data-gallery="tutorial"}
 
-## BONUS: Launching from Browser!
+## BONUS: Launching from Browser! (with OSDMenu)
 ![mcbrowser_1](assets/mcbrowser_1.png){ width="800" data-gallery="tutorial"}
 
 ![mcbrowser_2](assets/mcbrowser_2.png){ width="800" data-gallery="tutorial"}
+
+
+
+
+## Badges next to each app on website
+
+<div class="grid cards" markdown>
+
+-   ![SASPSU_PIC](../assets/badges/SASPSU.png){ width="75" } ![UMCSPSU_PIC](../assets/badges/UMCSPSU.png){ width="75" }
+
+    ---
+
+    App follows SAS/UMCS guidelines
+
+
+-   ![SASZIP_PIC](../assets/badges/SASZIP.png){ width="75" } ![UMCSZIP_PIC](../assets/badges/UMCSZIP.png){ width="75" }
+
+    ---
+
+    App follows SAS/UMCS guidelines and must be "Unzipped", then PSU Pasted to root of MemCard
+
+-   ![SAS7z_PIC](../assets/badges/SAS7Z.png){ width="75" } ![SAS7ZIP_PIC](../assets/badges/SAS7ZIP.png){ width="75" } ![UMCS7z_PIC](../assets/badges/UMCS7Z.png){ width="75" } ![UMCS7ZIP_PIC](../assets/badges/UMCS7ZIP.png){ width="75" }
+
+    ---
+
+    App follows SAS/UMCS guidelines and must be "Un7zipped", then PSU Pasted to root of MemCard
+
+-   ![SASRAR_PIC](../assets/badges/SASRAR.png){ width="75" } ![UMCSRAR_PIC](../assets/badges/UMCSRAR.png){ width="75" }
+
+    ---
+
+    App follows SAS guidelines and must be "UnRARed", then PSU Pasted to root of MemCard
+
+-   ![SASEXT_PIC](../assets/badges/SASEXTLINK.png){ width="75" } ![UMCSEXT_PIC](../assets/badges/UMCSEXTLINK.png){ width="75" }
+
+    ---
+
+    App follows SAS/UMCS guidelines and must be downloaded from source, then PSU Pasted to root of MemCard
+    
+
+</div>
+
+  
