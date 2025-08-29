@@ -6,6 +6,8 @@ hide:
 
 # Applications
 
+## Common Homebrew Apps
+
 <div class="grid cards" markdown>
 
 -   __Apollo Save Tool__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
@@ -123,6 +125,56 @@ hide:
     Reboot the PS2.
 
     [:material-cloud-download: Reboot](../assets/SAVE-APPLICATION-SYSTEM/RESTART.psu)
+
+
+</div>
+
+
+## System Apps
+
+<div class="grid cards" markdown>
+
+-   __OSDMenu__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+
+    ---
+
+    [![OSDMenu_Pic](assets/osdmenu.png)](https://github.com/pcm720/OSDMenu)
+
+    Hacked OSDSYS like FMCB, however can launch apps from memcard browser as well.
+
+    Supports FAT32/exFAT USB, APA/exFAT HDD, MMCE, MX4SIO, MemCard, i.Link, UDPBD, CDROM. 
+    
+    Edit `mc?:/SYS-CONF/OSDMENU.CFG` as needed. OSDMenu does not check paths, so everything in config file will be listed.
+
+    [:material-cloud-download: OSDMenu](../assets/SAVE-APPLICATION-SYSTEM/SYS_OSDMENU.psu)
+
+
+-   __FreeMCBoot Decrypted__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+
+    ---
+
+    [![FMCBD](assets/osdmenu.png)](https://israpps.github.io/FreeMcBoot-Installer/)
+
+    The Hacked OSDSYS that everyone knows, but is non-extensible and not open-source (except for 1.8C)
+
+    Supports FAT32/exFAT USB, MemCard, CDROM.
+
+    [:material-cloud-download: FMCBD 1.966](../assets/SAVE-APPLICATION-SYSTEM/SYS_FMCBD-1966.psu)
+
+    [:material-cloud-download: FMCBD 1.965](../assets/SAVE-APPLICATION-SYSTEM/SYS_FMCBD-1965.psu)
+
+    [:material-cloud-download: FMCBD 1.953](../assets/SAVE-APPLICATION-SYSTEM/SYS_FMCBD-1953.psu)
+
+
+-   __FreeMCBoot Configurator__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+
+    ---
+
+    ![FMCBC_Pic](assets/fmcb-cfg.png)
+
+    GUI to modify the FreeMCBoot config file.
+
+    [:material-cloud-download: FMCB Configurator](../assets/SAVE-APPLICATION-SYSTEM/SYS_FMCB-CFG.psu)
 
 
 </div>
