@@ -57,7 +57,7 @@ __SAS Applications include:__
 
 
 
-## Badges next to each app on website
+## Badges: visual indicator per/app on website
 
 <div class="grid cards" markdown>
 
@@ -91,7 +91,7 @@ __SAS Applications include:__
     ---
 
     App follows SAS/UMCS guidelines and must be downloaded from source, then PSU Pasted to root of MemCard
-    
+
 
 </div>
 
