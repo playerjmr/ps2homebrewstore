@@ -65,7 +65,7 @@ __SAS Applications include:__
 
     ---
 
-    App follows [SAS](#what-is-sas)/[UMCS](https://ps2homebrewstore.com/umcs/) guidelines
+    App follows [SAS](#what-is-sas)/[UMCS](https://ps2homebrewstore.com/umcs/) guidelines and will be PSU Pasted to root of MemCard
 
 
 -   ![SASZIP_PIC](../assets/badges/SASZIP.png){ width="75" } ![UMCSZIP_PIC](../assets/badges/UMCSZIP.png){ width="75" }
