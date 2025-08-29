@@ -57,7 +57,7 @@ __SAS Applications include:__
 
 
 
-## Badges next to downloads
+## Badges: indicators next to downloads
 
 <div class="grid cards" markdown>
 
