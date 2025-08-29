@@ -65,34 +65,41 @@ __SAS Applications include:__
 
     ---
 
-    App follows SAS/UMCS guidelines
+    App follows [SAS](#what-is-sas)/[UMCS](https://ps2homebrewstore.com/umcs/) guidelines
 
 
 -   ![SASZIP_PIC](../assets/badges/SASZIP.png){ width="75" } ![UMCSZIP_PIC](../assets/badges/UMCSZIP.png){ width="75" }
 
     ---
 
-    App follows SAS/UMCS guidelines and must be "Unzipped", then PSU Pasted to root of MemCard
+    App follows [SAS](#what-is-sas)/[UMCS](https://ps2homebrewstore.com/umcs/) guidelines and must be "Unzipped", then PSU Pasted to root of MemCard
 
 -   ![SAS7z_PIC](../assets/badges/SAS7Z.png){ width="75" } ![SAS7ZIP_PIC](../assets/badges/SAS7ZIP.png){ width="75" } ![UMCS7z_PIC](../assets/badges/UMCS7Z.png){ width="75" } ![UMCS7ZIP_PIC](../assets/badges/UMCS7ZIP.png){ width="75" }
 
     ---
 
-    App follows SAS/UMCS guidelines and must be "Un7zipped", then PSU Pasted to root of MemCard
+    App follows [SAS](#what-is-sas)/[UMCS](https://ps2homebrewstore.com/umcs/) guidelines and must be "Un7zipped", then PSU Pasted to root of MemCard
 
 -   ![SASRAR_PIC](../assets/badges/SASRAR.png){ width="75" } ![UMCSRAR_PIC](../assets/badges/UMCSRAR.png){ width="75" }
 
     ---
 
-    App follows SAS guidelines and must be "UnRARed", then PSU Pasted to root of MemCard
+    App follows [SAS](#what-is-sas)/[UMCS](https://ps2homebrewstore.com/umcs/) guidelines and must be "UnRARed", then PSU Pasted to root of MemCard
 
 -   ![SASEXT_PIC](../assets/badges/SASEXTLINK.png){ width="75" } ![UMCSEXT_PIC](../assets/badges/UMCSEXTLINK.png){ width="75" }
 
     ---
 
-    App follows SAS/UMCS guidelines and must be downloaded from source, then PSU Pasted to root of MemCard
+    App follows [SAS](#what-is-sas)/[UMCS](https://ps2homebrewstore.com/umcs/) guidelines and must be downloaded from source, then PSU Pasted to root of MemCard
+
+-   ![NONSASPSU_PIC](../assets/badges/NOTSASCOMPLIANTPSU.png){ width="75" } ![NONSASZIP_PIC](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="75" } ![NONSASRAR_PIC](../assets/badges/NOTSASCOMPLIANTRAR.png){ width="75" } ![NONSASEXT_PIC](../assets/badges/NOTSASCOMPLIANTEXTLINK.png){ width="75" } 
+
+    ---
+
+    App __DOES NOT__ follow [SAS](#what-is-sas)/[UMCS](https://ps2homebrewstore.com/umcs/) guidelines!
+
+    Badge still shows type of download file.
 
 
 </div>
 
-  
