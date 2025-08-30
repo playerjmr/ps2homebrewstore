@@ -21,7 +21,7 @@ config:
   look: classic
 ---
 graph LR
-    A(["PS2 Power On/Reset"]) L_A_B_0@-- "BOOTROM 1.00-2.20" --> B["OSDSYS UPDATE<br>B?EXEC-SYSTEM<br>(PS2BBL/ProtoPwn)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
+    A(["PS2 Power On/Reset"]) L_A_B_0@-- "BOOTROM 1.00-2.20" --> B["OSDSYS UPDATE<br>B?EXEC-SYSTEM<br>(PS2BBL/ProtoPwn UMCS)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
     A L_A_n1_0@-- "BOOTROM 2.30,2.50<br>and DEV 1 Modchips" --> n1["OPENTUNA/DEV 1 CHIPS<br>mc?:/BOOT/BOOT.ELF<br>(PS2BBL)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
     B L_B_n5_0@-- "Fall back to SYS-CONF" --> n5@{ label: "<pre style=\"font-family:\"><code style=\"font-family:\">mc?:/SYS-CONF/PS2BBL.INI</code></pre>" }
     n1 L_n1_n5_0@-- "Fall back to SYS-CONF" --> n5
@@ -52,7 +52,7 @@ graph LR
 
 - `mc?:SYS-CONF/PS2BBL.INI`
 
-    - PS2BBL signed exploit, ProtoPwn , OpenTuna and Dev1 modchips land here
+    - PS2BBL signed exploit, ProtoPwn UMCS, OpenTuna and Dev1 modchips land here
 
     - Pros
 
@@ -81,7 +81,7 @@ config:
   look: classic
 ---
 graph LR
-    A(["PS2 Power On/Reset"]) L_A_B_0@-- "BOOTROM 1.00-2.20" --> B["OSDSYS UPDATE<br>B?EXEC-SYSTEM<br>(PS2BBL/ProtoPwn)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
+    A(["PS2 Power On/Reset"]) L_A_B_0@-- "BOOTROM 1.00-2.20" --> B["OSDSYS UPDATE<br>B?EXEC-SYSTEM<br>(PS2BBL/ProtoPwn UMCS)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
     A L_A_n1_0@-- "BOOTROM 2.30,2.50<br>and DEV 1 Modchips" --> n1["OPENTUNA/DEV 1 CHIPS<br>mc?:/BOOT/BOOT.ELF<br>(PS2BBL)<br>./CONFIG.INI <br>EXISTS!"]
     B L_B_n2_0@-- "Falls back to SYS-CONF" --> n2["mc?/SYS-CONF/PS2BBL.INI"]
     n1 L_n1_n3_0@-- Falls back to BOOT --> n3["mc?:/BOOT/CONFIG.INI"]
@@ -161,7 +161,7 @@ config:
   look: classic
 ---
 graph LR
-    A(["PS2 Power On/Reset"]) L_A_B_0@-- "BOOTROM 1.00-2.20" --> B["OSDSYS UPDATE<br>B?EXEC-SYSTEM<br>(PS2BBL/ProtoPwn)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
+    A(["PS2 Power On/Reset"]) L_A_B_0@-- "BOOTROM 1.00-2.20" --> B["OSDSYS UPDATE<br>B?EXEC-SYSTEM<br>(PS2BBL/ProtoPwn UMCS)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
     A L_A_n1_0@-- "BOOTROM 2.30,2.50<br>and DEV 1 Modchips" --> n1["OPENTUNA/DEV 1 CHIPS<br>mc?:/BOOT/BOOT.ELF<br>(PS2BBL)<br>./CONFIG.INI <br>EXISTS!"]
     B L_B_n2_0@-- "Falls back to SYS-CONF" --> n2["mc?/SYS-CONF/PS2BBL.INI"]
     n1 L_n1_n3_0@-- Falls back to BOOT --> n3["mc?:/BOOT/CONFIG.INI"]
