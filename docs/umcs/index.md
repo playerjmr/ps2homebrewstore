@@ -26,7 +26,9 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: APPS](../assets/SAVE-APPLICATION-SYSTEM/APPS.psu)
 
-    - `mc?:/APPS/` used for OpenTuna, Funtuna, Funtuna Fork and possibly more apps. A great place to put apps that do not have icons and define in your hacked OSDSYS config file!
+    - `mc?:/APPS/` used for OpenTuna, Funtuna, Funtuna Fork and possibly more apps. 
+    
+    - A great place to put apps that do not have icons and define in your hacked OSDSYS config file!
 
 -   __BOOT__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
 
