@@ -110,9 +110,9 @@ graph LR
 
 ```
 
-!!! tip "Landing on your hacked OSDSYS of choice:"
+!!! info "Landing on your hacked OSDSYS of choice:"
 
-    PS2BBL.INI and PSXBBL.INI have already been setup so that minimal config changes are needed. To land on your hacked OSDSYS of choice, install the OSDMenu/ FMCB Version XXXX as needed. If multiple are installed, you can delete in order from first to last to land on the desired app.
+    PS2BBL.INI and PSXBBL.INI have already been setup so that minimal config changes are needed if at all. To land on your hacked OSDSYS of choice, install the OSDMenu/ FMCB Version XXXX as needed. If multiple are installed, you can delete in order from first to last to land on the desired app. This is especially useful for modchip users as they may not play well or at all with some or all of the OSDSYS such as I believe Mars Pro. In that case, just delete all of the SYS_OSDMENU and SYS_FMCB-XXXX folders.
 
 
 !!! tip "Hotkeys"
