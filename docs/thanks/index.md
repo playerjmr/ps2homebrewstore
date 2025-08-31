@@ -16,25 +16,28 @@ hide:
 
     The inspiration for this fork, and the source of team who created such SAS/UMCS structure to make updating and supporting apps easy.
 
-    __Developers__
-
-    - __korax__ - Apps Archive
+    - __korax__ - [Apps Archive](https://ps2wiki.github.io), Save Icons
 
     - __nuno6573__ - SAS mapped XEB+ plugins, wLE/uLE, FMCB/FHDB & other integrations
 
-    - __HiroTex__- SAS integrations in OSDXMB
+    - __pcm720__ - OSDMenu & HOSDMenu launches SAS apps from OSDSYS/HOSDSYS
 
-    - __pcm720__ - SAS compliant APP PSUs Launcher for OSDSYS in OSDMenu & HOSDMenu
-
-    __psu Team__
-
-    - __Ripto__ - .psu Packer & title.cfg Creator
+    - __Ripto__ - .psu Packer, title.cfg, icon textures
 
     - __korax__ - Save Icons
 
     - __SpaceCoyote__ - Save Icons
 
     - __Yornn__ - Save Icons
+
+    - __Berion__ - Icon Textures
+
+    - __HiroTex__ - SAS integrations in OSDXMB
+
+    - __Boon Tobias__ - SAS integrations in RETROLauncher
+
+    - __Cosmic Scale__ - SAS integrations in PSBBN DEP
+
 
 
 -   __PS2 Modchip Tutorials__
