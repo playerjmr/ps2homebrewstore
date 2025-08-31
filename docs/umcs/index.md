@@ -46,7 +46,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
         - `ESR.ELF` ESR for running patched backup (in OSDMenu)
 
-     !!! info "Pair the BOOT folder with your exploit"
+    !!! info "Pair the BOOT folder with your exploit"
 
         For consistency, use the correct BOOT download for the device you are using, same for the exploit you are using. MMCE downloads have MMCE drivers already. For [exploits that need installs](../exploits/), use the same device driver installer.
 
