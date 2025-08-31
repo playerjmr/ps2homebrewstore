@@ -48,7 +48,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     !!! info "Pair the BOOT folder with your exploit"
 
-        For consistency, use the correct BOOT download for the device you are using, same for the exploit you are using. MMCE downloads have MMCE drivers already. For [exploits that need installs](../exploits/), use the same device driver installer.
+        For consistency, use the correct BOOT, BOOT MMCE or BOOT MX4SIO download for the device you are using, same for the exploit you are using. MMCE downloads have MMCE drivers already. For [exploits that need installs](../exploits/), use the same device driver installer.
 
 -   __SYS-CONF__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
 
