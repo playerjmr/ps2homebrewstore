@@ -32,7 +32,7 @@ hide:
     [:material-cloud-download: Argon](../assets/SAVE-APPLICATION-SYSTEM/APP_ARGON.psu)
 
 
--   __Graphics Synthesizer Mode (GSM)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __Graphics Synthesizer Mode__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
 
     ---
 

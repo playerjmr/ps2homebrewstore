@@ -36,15 +36,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     ![apps_pic](assets/boot.png)
 
-    [:material-cloud-download: BOOT](../assets/SAVE-APPLICATION-SYSTEM/BOOT.psu)
-
-    [:material-cloud-download: BOOT MMCE](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu)
-
-    [:material-cloud-download: BOOT MX4SIO](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu)
-
-    !!! info "Pair the BOOT folder with your exploit"
-
-        For consistency, use the correct BOOT download for the device you are using, same for the exploit you are using. MMCE downloads have MMCE drivers already. For [exploits that need installs](../exploits/), use the same device driver installer.
+    [:material-cloud-download: BOOT](../assets/SAVE-APPLICATION-SYSTEM/BOOT.psu), [:material-cloud-download: BOOT MMCE](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu) or [:material-cloud-download: BOOT MX4SIO](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu)
 
     - `mc?:/BOOT/` Where exploits look to boot from. 
 
@@ -53,6 +45,10 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
         - `BOOT2.ELF` wLE ISR exFAT file browser / ELF launcher (Triangle during PS2BBL logo)
 
         - `ESR.ELF` ESR for running patched backup (in OSDMenu)
+
+    !!! info "Pair the BOOT folder with your exploit"
+
+        For consistency, use the correct BOOT, BOOT MMCE or BOOT MX4SIO download for the device you are using, same for the exploit you are using. MMCE downloads have MMCE drivers already. For [exploits that need installs](../exploits/), use the same device driver installer.
 
 -   __SYS-CONF__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
 
@@ -114,7 +110,7 @@ graph LR
 
 !!! info "Landing on your hacked OSDSYS of choice:"
 
-    PS2BBL.INI and PSXBBL.INI have already been setup so that minimal config changes are needed if at all. To land on your hacked OSDSYS of choice, install the OSDMenu/ FMCB Version XXXX as needed. If multiple are installed, you can delete in order from first to last to land on the desired app. This is especially useful for modchip users as they may not play well or at all with some or all of the OSDSYS such as I believe Mars Pro. In that case, just delete all of the SYS_OSDMENU and SYS_FMCB-XXXX folders. Modchip users may need to disable chip to do so.
+    PS2BBL.INI and PSXBBL.INI have already been setup so that minimal config changes are needed if at all. To land on your hacked OSDSYS of choice, install the OSDMenu/ FMCB Version XXXX as needed. If multiple are installed (such as the MMCE AIO downloads), you can delete in order from first to last to land on the desired app. This is especially useful for modchip users as they may not play well or at all with some or all of the OSDSYS such as I believe Mars Pro. In that case, just delete all of the SYS_OSDMENU and SYS_FMCB-XXXX folders. Modchip users may need to disable chip to do so.
 
 
 !!! tip "Hotkeys"
