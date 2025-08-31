@@ -36,15 +36,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     ![apps_pic](assets/boot.png)
 
-    [:material-cloud-download: BOOT](../assets/SAVE-APPLICATION-SYSTEM/BOOT.psu)
-
-    [:material-cloud-download: BOOT MMCE](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu)
-
-    [:material-cloud-download: BOOT MX4SIO](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu)
-
-    !!! info "Pair the BOOT folder with your exploit"
-
-        For consistency, use the correct BOOT download for the device you are using, same for the exploit you are using. MMCE downloads have MMCE drivers already. For [exploits that need installs](../exploits/), use the same device driver installer.
+    [:material-cloud-download: BOOT](../assets/SAVE-APPLICATION-SYSTEM/BOOT.psu), [:material-cloud-download: BOOT MMCE](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu), [:material-cloud-download: BOOT MX4SIO](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu)
 
     - `mc?:/BOOT/` Where exploits look to boot from. 
 
@@ -53,6 +45,10 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
         - `BOOT2.ELF` wLE ISR exFAT file browser / ELF launcher (Triangle during PS2BBL logo)
 
         - `ESR.ELF` ESR for running patched backup (in OSDMenu)
+
+     !!! info "Pair the BOOT folder with your exploit"
+
+        For consistency, use the correct BOOT download for the device you are using, same for the exploit you are using. MMCE downloads have MMCE drivers already. For [exploits that need installs](../exploits/), use the same device driver installer.
 
 -   __SYS-CONF__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
 
