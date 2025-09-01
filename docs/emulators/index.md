@@ -9,7 +9,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="85" align=right }
 
     __DKWDRV__
 
@@ -22,7 +22,7 @@ hide:
     [:material-cloud-download: DKWDRV 1.7.6](../assets/SAVE-APPLICATION-SYSTEM/PS1_DKWDRV176.psu)
 
 
--   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="85" align=right }
 
     __POPSLoader__
 
@@ -35,7 +35,7 @@ hide:
     [:material-cloud-download: POPSLoader](../assets/SAVE-APPLICATION-SYSTEM/PS1_POPSLOADER.psu)
 
 
--   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="85" align=right }
 
     __PicoDrive__
 
@@ -50,7 +50,7 @@ hide:
     [:material-cloud-download: PicoDrive 1.51B](../assets/SAVE-APPLICATION-SYSTEM/EMU_PICODRIVE/EMU_PICODRIVE151B/)
 
 
--   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="85" align=right }
 
     __Xbox 2 Playstation Emulator__
     
