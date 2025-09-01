@@ -9,7 +9,7 @@ hide:
 <div class="grid" markdown>
 
 [:simple-hackaday: __Exploits:__ SoftMod your PS2 the easy way!](exploits)
-{ .card .md-button }
+{ .card .md-primary-button }
 
 [:fontawesome-solid-compact-disc: __Loaders:__ Play games in ISO format](loaders)
 { .card .md-button }
