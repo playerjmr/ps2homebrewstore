@@ -13,15 +13,16 @@ theme:
     text: Oxanium
     code: Roboto Mono
   palette: 
-    accent: green
     # Palette toggle for light mode
     - scheme: default
+      accent: green
       toggle:
         icon: material/brightness-5
         name: Switch to dark mode
         
     # Palette toggle for dark mode
     - scheme: slate
+      accent: green
       toggle:
         icon: material/brightness-3
         name: Switch to light mode
