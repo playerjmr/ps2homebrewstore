@@ -19,7 +19,9 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
 <div class="grid cards" markdown>
 
--   __APPS__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
+-   ![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="90" align=right }
+
+    __APPS__
 
     ---
 
@@ -31,7 +33,9 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
     
     - A great place to put apps that do not have icons and define in your hacked OSDSYS config file!
 
--   __BOOT__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
+-   ![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="90" align=right }
+
+    __BOOT__
 
     ---
 
@@ -51,7 +55,9 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
         For consistency, use the correct BOOT, BOOT MMCE or BOOT MX4SIO download for the device you are using, same for the exploit you are using. MMCE downloads have MMCE drivers already. For [exploits that need installs](../exploits/), use the same device driver installer.
 
--   __SYS-CONF__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
+-   ![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="90" align=right }
+
+    __SYS-CONF__
 
     ---
 
@@ -77,7 +83,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 ---
 config:
   theme: mc
-  layout: elk
+  layout: elk.forced
   look: classic
 ---
 graph LR
@@ -85,7 +91,7 @@ graph LR
     A L_A_n1_0@-- "BOOTROM 2.30,2.50<br>and DEV 1 Modchips" --> n1["OPENTUNA/DEV 1 CHIPS<br>mc?:/BOOT/BOOT.ELF<br>(PS2BBL)<br>./CONFIG.INI <br>DOES NOT EXIST!"]
     B L_B_n5_0@-- "Fall back to SYS-CONF" --> n5@{ label: "<pre style=\"font-family:\"><code style=\"font-family:\">mc?:/SYS-CONF/PS2BBL.INI</code></pre>" }
     n1 L_n1_n5_0@-- "Fall back to SYS-CONF" --> n5
-    n5 --> n6["AutoLaunch or Hotkeys"]
+    n5 --> n6["AutoLaunch<br>or<br>Hotkeys"]
     n6 --> n7@{ label: "<span style=\"color:\">PS2BBL.INI AUTOLAUNCH</span><br style=\"color:\"><br style=\"color:\"><span style=\"color:\">1: SYS_OSDMENU</span><br style=\"color:\"><br style=\"color:\"><span style=\"color:\">2: SYS_FMCBD-1966</span><br style=\"color:\"><br style=\"color:\"><span style=\"color:\">3: SYS_FMCBD-1965</span><br style=\"color:\"><br style=\"color:\"><span style=\"color:\">4: SYS_FMCBD-1955</span><br style=\"color:\"><br style=\"color:\"><span style=\"color:\">5: BOOT/BOOT2.ELF</span>" }
     B@{ shape: rect}
     n1@{ shape: rect}

@@ -10,7 +10,9 @@ hide:
 <div class="grid cards" markdown>
 
 
--   __HDD Tester__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+
+    __HDD Tester__
 
     ---
 
@@ -21,7 +23,9 @@ hide:
     [:material-cloud-download: HDD Tester](../assets/SAVE-APPLICATION-SYSTEM/DST_HDDTESTER.psu)
 
 
--   __Mechacon Crash Tester__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+
+    __Mechacon Crash Tester__
 
     ---
 
@@ -32,7 +36,9 @@ hide:
     [:material-cloud-download: Mechacon Crash Tester](../assets/SAVE-APPLICATION-SYSTEM/DST_MECHACON-CRASH-TESTER.psu)
 
 
--   __Pad Test__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+
+    __Pad Test__
 
     ---
 
@@ -43,7 +49,9 @@ hide:
     [:material-cloud-download: Pad Test](../assets/SAVE-APPLICATION-SYSTEM/DST_PADTEST.psu)
 
 
--   __PS2 RDRAM Test__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+
+    __PS2 RDRAM Test__
 
     ---
 
@@ -54,7 +62,9 @@ hide:
     [:material-cloud-download: PS2 RDRAM Test](../assets/SAVE-APPLICATION-SYSTEM/DST_PS2-RDRAMTEST.psu)
 
 
--   __PS2 Temps__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+
+    __PS2 Temps__
 
     ---
 
@@ -65,7 +75,9 @@ hide:
     [:material-cloud-download: PS2 Temps](../assets/SAVE-APPLICATION-SYSTEM/DST_PS2TEMPS.psu)
 
 
--   __ROM Version Checker__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+
+    __ROM Version Checker__
 
     ---
 

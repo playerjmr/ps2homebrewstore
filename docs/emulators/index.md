@@ -9,7 +9,9 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __DKWDRV__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+
+    __DKWDRV__
 
     ---
 
@@ -20,7 +22,9 @@ hide:
     [:material-cloud-download: DKWDRV 1.7.6](../assets/SAVE-APPLICATION-SYSTEM/PS1_DKWDRV176.psu)
 
 
--   __POPSLoader__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+
+    __POPSLoader__
 
     ---
 
@@ -31,7 +35,9 @@ hide:
     [:material-cloud-download: POPSLoader](../assets/SAVE-APPLICATION-SYSTEM/PS1_POPSLOADER.psu)
 
 
--   __PicoDrive__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
+
+    __PicoDrive__
 
     ---
 
@@ -44,8 +50,10 @@ hide:
     [:material-cloud-download: PicoDrive 1.51B](../assets/SAVE-APPLICATION-SYSTEM/EMU_PICODRIVE/EMU_PICODRIVE151B/)
 
 
--   __Xbox 2 Playstation Emulator__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
 
+    __Xbox 2 Playstation Emulator__
+    
     ---
 
     [![X2P_Pic](assets/x2p.jpg)](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa)
