@@ -9,25 +9,25 @@ hide:
 <div class="grid" markdown>
 
 [:simple-hackaday: __Exploits:__ SoftMod your PS2 the easy way!](exploits)
-{ .card .md-primary-button }
+{ .card }
 
 [:fontawesome-solid-compact-disc: __Loaders:__ Play games in ISO format](loaders)
-{ .card .md-button }
+{ .card }
 
 [:material-toolbox: __Applications:__ Manage files, play videos etc](apps)
-{ .card .md-button }
+{ .card }
 
 [:simple-retropie: __Emulators:__ Play Pre-PS2 games](emulators)
-{ .card .md-button }
+{ .card }
 
 [:material-controller: __Games:__ Homebrew games](games)
-{ .card .md-button }
+{ .card }
 
 [:material-heart-pulse: __Diagnostics:__ Discover and fix problems](diag)
-{ .card .md-button }
+{ .card }
 
 [:simple-builtbybit: __UMCS:__ Default Setup Files](umcs)
-{ .card .md-button }
+{ .card }
 
   [exploits]: ./exploits/
   [loaders]: ./loaders/
