@@ -9,7 +9,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __Hermes__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __Hermes__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 

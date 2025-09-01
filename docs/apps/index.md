@@ -11,7 +11,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __Apollo Save Tool__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __Apollo Save Tool__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -22,7 +22,7 @@ hide:
     [:material-cloud-download: Apollo](../assets/SAVE-APPLICATION-SYSTEM/APP_APOLLO.psu)
 
 
--   __Argon__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __Argon__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -33,7 +33,7 @@ hide:
     [:material-cloud-download: Argon](../assets/SAVE-APPLICATION-SYSTEM/APP_ARGON.psu)
 
 
--   __Graphics Synthesizer Mode__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __Graphics Synthesizer Mode__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -44,7 +44,7 @@ hide:
     [:material-cloud-download: GSM](../assets/SAVE-APPLICATION-SYSTEM/APP_GSM.psu)
 
 
--   __Simple Media System (SMS)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __Simple Media System (SMS)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -55,7 +55,7 @@ hide:
     [:material-cloud-download: SMS](../assets/SAVE-APPLICATION-SYSTEM/APP_SMS.psu)
 
 
--   __wLaunch ELF (El Isra's Fork)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __wLaunch ELF (El Isra's Fork)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -72,7 +72,7 @@ hide:
     [:material-cloud-download: wLE ISR HDD](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-HDD.psu) Used for [:material-file-document: header injection](https://www.psx-place.com/threads/wlaunchelf-isr_hdd.34075/)
 
 
--   __wLaunch Elf (krHACKen's Fork)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __wLaunch Elf (krHACKen's Fork)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -83,7 +83,7 @@ hide:
     [:material-cloud-download: wLE KHN](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-KHN.psu)
 
 
--   __PS2 Link__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __PS2 Link__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -96,7 +96,7 @@ hide:
     [:material-cloud-download: PS2 Link HighMem Loading](../assets/SAVE-APPLICATION-SYSTEM/DBG_PS2LINK-HILDING.psu)
 
 
--   __Memory Card Annihilator__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __Memory Card Annihilator__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -107,7 +107,7 @@ hide:
     [:material-cloud-download: Memory Card Annihilator](../assets/SAVE-APPLICATION-SYSTEM/DST_MCA.psu)
 
 
--   __PowerOff PS2__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __PowerOff PS2__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -117,7 +117,7 @@ hide:
 
     [:material-cloud-download: PowerOff](../assets/SAVE-APPLICATION-SYSTEM/POWEROFF.psu)
 
--   __Reboot PS2__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __Reboot PS2__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -135,7 +135,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __OSDMenu__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __OSDMenu__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -150,7 +150,7 @@ hide:
     [:material-cloud-download: OSDMenu](../assets/SAVE-APPLICATION-SYSTEM/SYS_OSDMENU.psu)
 
 
--   __FreeMCBoot Decrypted__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __FreeMCBoot Decrypted__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -168,7 +168,7 @@ hide:
     [:material-cloud-download: FMCBD 1.953](../assets/SAVE-APPLICATION-SYSTEM/SYS_FMCBD-1953.psu)
 
 
--   __FreeMCBoot Configurator__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" align=right }
+-   __FreeMCBoot Configurator__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
