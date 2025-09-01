@@ -4,32 +4,38 @@ hide:
   - toc
 ---
 
-[:simple-hackaday: __test:__ SoftMod your PS2 the easy way!](/exploits/)
-{ .card .md-button }
 
 # Where shall I take you today?
 <div class="grid" markdown>
 
-[:simple-hackaday: __Exploits:__ SoftMod your PS2 the easy way!](/exploits/)
+[:simple-hackaday: __Exploits:__ SoftMod your PS2 the easy way!](exploits)
 { .card .md-button }
 
-[:fontawesome-solid-compact-disc: __Loaders:__ Play games in ISO format](/loaders/)
+[:fontawesome-solid-compact-disc: __Loaders:__ Play games in ISO format](loaders)
 { .card .md-button }
 
-[:material-toolbox: __Applications:__ Manage files, play videos etc](/apps/)
+[:material-toolbox: __Applications:__ Manage files, play videos etc](apps)
 { .card .md-button }
 
-[:simple-retropie: __Emulators:__ Play Pre-PS2 games](/emulators/)
+[:simple-retropie: __Emulators:__ Play Pre-PS2 games](emulators)
 { .card .md-button }
 
-[:material-controller: __Games:__ Homebrew games](/games/)
+[:material-controller: __Games:__ Homebrew games](games)
 { .card .md-button }
 
-[:material-heart-pulse: __Diagnostics:__ Discover and fix problems](/diag/)
+[:material-heart-pulse: __Diagnostics:__ Discover and fix problems](diag)
 { .card .md-button }
 
-[:simple-builtbybit: __UMCS:__ Default Setup Files](/umcs/)
+[:simple-builtbybit: __UMCS:__ Default Setup Files](umcs)
 { .card .md-button }
+
+  [exploits]: ./exploits/
+  [loaders]: ./loaders/
+  [apps]: ./apps/
+  [emulators]: ./emulators/
+  [games]: ./games/
+  [diag]: ./diag/
+  [umcs]: ./umcs/
 
 </div>
 
