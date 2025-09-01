@@ -13,6 +13,8 @@ theme:
     text: Oxanium
     code: Roboto Mono
   palette: 
+    primary: indigo
+    accent: green
     # Palette toggle for light mode
     - scheme: default
       toggle:
