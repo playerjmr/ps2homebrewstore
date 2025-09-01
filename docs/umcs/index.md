@@ -19,9 +19,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
 <div class="grid cards" markdown>
 
--   ![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="90" align=right }
-
-    __APPS__
+-   __APPS__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
 
     ---
 
@@ -33,9 +31,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
     
     - A great place to put apps that do not have icons and define in your hacked OSDSYS config file!
 
--   ![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="90" align=right }
-
-    __BOOT__
+-   __BOOT__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
 
     ---
 
@@ -55,9 +51,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
         For consistency, use the correct BOOT, BOOT MMCE or BOOT MX4SIO download for the device you are using, same for the exploit you are using. MMCE downloads have MMCE drivers already. For [exploits that need installs](../exploits/), use the same device driver installer.
 
--   ![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="90" align=right }
-
-    __SYS-CONF__
+-   __SYS-CONF__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" align=right }
 
     ---
 
