@@ -7,7 +7,7 @@
 .grid.cards ul li p {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .grid.cards ul li p img {
