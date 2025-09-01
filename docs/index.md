@@ -6,7 +6,7 @@ hide:
 ---
 
 # Where shall I take you today?
-<div class="grid" markdown>
+<div class="grid buttons" markdown>
 
 [:simple-hackaday: __Exploits:__ SoftMod your PS2 the easy way!](exploits){ .md-button .md-button--stretch }
 
@@ -37,7 +37,7 @@ hide:
     Applications are the property of of the their respective developers. Source material is linked where possible by clicking the apps picture as well as in title.cfg included within each download folder.
 
 ## Help
-<div class="grid" markdown>
+<div class="grid buttons" markdown>
 
 [__:material-help-circle: Icon Meanings:__ What does it mean?](/site_tutorial/icon_meanings){ .md-button .md-button--stretch }
 
