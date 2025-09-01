@@ -9,7 +9,7 @@ hide:
 
 <div class="grid cards" markdown> We need more homebrew games!
 
--   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="85" align=right }
+-   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="90" align=right }
 
     __Hermes__
 
