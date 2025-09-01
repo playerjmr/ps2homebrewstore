@@ -1,4 +1,5 @@
 ---
+icon: material/toolbox
 hide:
   - navigation
   - toc

@@ -1,4 +1,5 @@
 ---
+icon: material/controller
 hide:
   - navigation
   - toc

@@ -1,4 +1,5 @@
 ---
+icon: material/hand-wave
 hide:
   - navigation
   - toc

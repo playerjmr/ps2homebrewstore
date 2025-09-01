@@ -1,4 +1,5 @@
 ---
+icon: simple/retropie
 hide:
   - navigation
   - toc

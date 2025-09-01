@@ -1,4 +1,5 @@
 ---
+icon: material/store
 hide:
   - navigation
   - toc

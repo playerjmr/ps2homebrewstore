@@ -1,4 +1,6 @@
 ---
+icon: fontawesome/solid/compact-disc
+
 hide:
   - navigation
   - toc
