@@ -17,7 +17,7 @@ theme:
     - scheme: default
       accent: teal
       toggle:
-        icon: material/brightness-6
+        icon: material/brightness-7
         name: Switch to dark mode
         
     # Palette toggle for dark mode
