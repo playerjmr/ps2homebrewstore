@@ -4,6 +4,9 @@ hide:
   - toc
 ---
 
+[:simple-hackaday: __test:__ SoftMod your PS2 the easy way!](/exploits/)
+{ .card .md-button }
+
 # Where shall I take you today?
 <div class="grid" markdown>
 
