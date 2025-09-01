@@ -4,30 +4,24 @@ hide:
   - toc
 ---
 
-
 # Where shall I take you today?
 <div class="grid" markdown>
 
-[:simple-hackaday: __Exploits:__ SoftMod your PS2 the easy way!](exploits)
-{ .card }
+[:simple-hackaday: __Exploits:__ SoftMod your PS2 the easy way!](exploits){ .md-button .md-button--stretch }
 
-[:fontawesome-solid-compact-disc: __Loaders:__ Play games in ISO format](loaders)
-{ .card }
+[:fontawesome-solid-compact-disc: __Loaders:__ Play games in ISO format](loaders){ .md-button .md-button--stretch }
 
-[:material-toolbox: __Applications:__ Manage files, play videos etc](apps)
-{ .card }
+[:material-toolbox: __Applications:__ Manage files, play videos etc](apps){ .md-button .md-button--stretch }
 
-[:simple-retropie: __Emulators:__ Play Pre-PS2 games](emulators)
-{ .card }
+[:simple-retropie: __Emulators:__ Play Pre-PS2 games](emulators){ .md-button .md-button--stretch }
 
-[:material-controller: __Games:__ Homebrew games](games)
-{ .card }
+[:material-controller: __Games:__ Homebrew games](games){ .md-button .md-button--stretch }
 
-[:material-heart-pulse: __Diagnostics:__ Discover and fix problems](diag)
-{ .card }
+[:material-heart-pulse: __Diagnostics:__ Discover and fix problems](diag){ .md-button .md-button--stretch }
 
-[:simple-builtbybit: __UMCS:__ Default Setup Files](umcs)
-{ .card }
+[:simple-builtbybit: __UMCS:__ Default Setup Files](umcs){ .md-button .md-button--stretch }
+
+</div>
 
   [exploits]: ./exploits/
   [loaders]: ./loaders/
@@ -37,8 +31,6 @@ hide:
   [diag]: ./diag/
   [umcs]: ./umcs/
 
-</div>
-
 !!! info "Source Material"
 
     Applications are the property of of the their respective developers. Source material is linked where possible by clicking the apps picture as well as in title.cfg included within each download folder.
@@ -46,13 +38,13 @@ hide:
 ## Help
 <div class="grid" markdown>
 
-[__:material-help-circle: Icon Meanings:__ What does it mean?](/site_tutorial/icon_meanings)
-{ .card }
+[__:material-help-circle: Icon Meanings:__ What does it mean?](/site_tutorial/icon_meanings){ .md-button .md-button--stretch }
 
-[__:fontawesome-brands-readme: Tutorial:__ How to use this sites content](/site_tutorial/)
-{ .card }
 
-> [__:material-hand-wave: Thanks:__ Pay your respects](/thanks/)
+[__:fontawesome-brands-readme: Tutorial:__ How to use this sites content](/site_tutorial/){ .md-button .md-button--stretch }
+
+
+[__:material-hand-wave: Thanks:__ Pay your respects](/thanks/){ .md-button .md-button--primary .md-button--stretch }
 
 </div>
 
