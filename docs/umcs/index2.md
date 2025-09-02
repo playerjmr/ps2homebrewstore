@@ -210,7 +210,7 @@ graph LR
 
     - ProtoPwn main branch lands here
 
-    - This config calls `mc?:/APP_WLE-ISR-EXFAT` first for OpenTuna/Modchip Dev1 (if modchip doesnt support OSDSYS updates)
+    - This config calls `mc?:/BOOT/BOOT2.ELF` first for OpenTuna/Modchip Dev1 (if modchip doesnt support OSDSYS updates)
 
         - Pros: 
 
