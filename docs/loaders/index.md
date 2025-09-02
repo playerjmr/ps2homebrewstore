@@ -10,9 +10,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="85" align=right }
-
-    __OPL__
+-   __OPL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -31,9 +29,7 @@ hide:
         `R2` when the PS2BBL logo appears
 
 
--   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="85" align=right }
-
-    __Unofficial OPL__
+-   __Unofficial OPL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -52,9 +48,7 @@ hide:
         `R2` when the PS2BBL logo appears
 
 
--   ![sas-psu_pic](../assets/badges/SASPSU.png){ width="85" align=right }
-
-    __NHDDL__
+-   __NHDDL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
@@ -73,9 +67,7 @@ hide:
         `R1` when the PS2BBL logo appears
 
 
--   ![nonsas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="85" align=right }
-
-    __Neutrino__
+-   __Neutrino__![nonsas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="75" }
 
     ---
 
@@ -92,9 +84,7 @@ hide:
     [:material-cloud-download: Neutrino](../assets/NON-SAS/NEUTRINO.zip)
 
 
--   ![nonsas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="85" align=right }
-
-    __OSD-XMB__
+-   __OSD-XMB__![nonsas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="75" }
 
     ---
 
@@ -115,9 +105,7 @@ hide:
         `D-PAD UP` when the PS2BBL logo appears.
 
 
--   ![nonsas-ext_pic](../assets/badges/NOTSASCOMPLIANTEXTLINK.png){ width="85" align=right }
-
-    __XEB+__
+-   __XEB+__![nonsas-ext_pic](../assets/badges/NOTSASCOMPLIANTEXTLINK.png){ width="75" }
 
     ---
 

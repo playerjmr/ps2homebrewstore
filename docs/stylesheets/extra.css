@@ -4,3 +4,20 @@
 
 .md-typeset .md-button--stretch { width: 100%; }
 
+.grid.cards ul li p:first-child {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.grid.cards ul li p:first-child img {
+  margin: 0;
+}
+
+.grid.buttons p {
+  display: flex;
+}
+
+.grid.buttons .md-button span {
+  margin-right: .5em;
+}
