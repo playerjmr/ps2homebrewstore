@@ -27,7 +27,9 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: APPS](../assets/SAVE-APPLICATION-SYSTEM/APPS.psu)
 
-    - `mc?:/APPS/` used for OpenTuna, Funtuna, Funtuna Fork and possibly more apps. 
+    - `mc?:/APPS/` 
+    
+        Used for OpenTuna, Funtuna, Funtuna Fork and possibly more apps. 
     
     - A great place to put apps that do not have icons and define in your hacked OSDSYS config file!
 
@@ -39,13 +41,21 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: BOOT](../assets/SAVE-APPLICATION-SYSTEM/BOOT.psu), [:material-cloud-download: BOOT MMCE](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu) or [:material-cloud-download: BOOT MX4SIO](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu)
 
-    - `mc?:/BOOT/` Where exploits look to boot from. 
+    - `mc?:/BOOT/`
+        
+        Where exploits look to boot from. 
 
-        - `BOOT.ELF` PS2BBL hotkeys and autoboot. Used to standardize both for all exploit types. May have additional MMCE or MX4SIO drivers.
+    - `BOOT.ELF`
+    
+        PS2BBL hotkeys and autoboot. Used to standardize both for all exploit types. May have additional MMCE or MX4SIO drivers.
 
-        - `BOOT2.ELF` wLE ISR exFAT file browser / ELF launcher (Triangle during PS2BBL logo)
+    - `BOOT2.ELF`
+    
+        wLE ISR exFAT file browser / ELF launcher (Triangle during PS2BBL logo)
 
-        - `ESR.ELF` ESR for running patched backup (in OSDMenu)
+    - `ESR.ELF`
+        
+        ESR for running patched backup (in OSDMenu)
 
     !!! info "Pair the BOOT folder with your exploit"
 
@@ -59,15 +69,29 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: SYS-CONF](../assets/SAVE-APPLICATION-SYSTEM/SYS-CONF.psu)
 
-    - `mc?:SYS-CONF/` Configuration files for the `BOOT` folder and FMCB
+    - `mc?:SYS-CONF/` 
+    
+        Configuration files for the `BOOT` folder and FMCB
 
-        - `PS2BBL.INI / PSXBBL.INI` PS2BBL's config file. Supports 9 paths.
+    - `PS2BBL.INI / PSXBBL.INI`
+    
+        PS2BBL's config file. Supports 9 paths.
 
-        - `LAUNCHELF.CNF` wLE ISRs config file
+    - `LAUNCHELF.CNF`
+    
+        wLE ISRs config file
 
-        - `OSDMENU.CNF` OSDMenu's config file
+    - `OSDMENU.CNF`
+    
+        OSDMenu's config file
 
-        - `FREEMCB.CNF` FreeMCBoot's config file
+    - `FREEMCB.CNF`
+    
+        FreeMCBoot's config file
+
+    - `IPCONFIG.DAT`
+
+        IP Address, Subnet and Gateway for network functionality. Shared betweeen many apps.
 
 </div>
 
