@@ -7,7 +7,7 @@ hide:
 
 # Games
 
-<div class="grid cards" markdown>
+<div class="grid cards" markdown> Please contribute some SAS games!
 
 -   __Hermes__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
