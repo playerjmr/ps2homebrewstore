@@ -8,17 +8,17 @@ hide:
 # Where shall I take you today?
 <div class="grid buttons" markdown>
 
-[:simple-hackaday: __Exploits:__ SoftMod your PS2 the easy way!](exploits){ .md-button .md-button--stretch }
+[:simple-hackaday: __Exploits:__ SoftMod your PS2!](exploits){ .md-button .md-button--stretch }
 
 [:fontawesome-solid-compact-disc: __Loaders:__ Play games in ISO format](loaders){ .md-button .md-button--stretch }
 
-[:material-toolbox: __Applications:__ Manage files, play videos etc](apps){ .md-button .md-button--stretch }
+[:material-toolbox: __Applications:__ Non-loader apps](apps){ .md-button .md-button--stretch }
 
 [:simple-retropie: __Emulators:__ Play Pre-PS2 games](emulators){ .md-button .md-button--stretch }
 
 [:material-controller: __Games:__ Homebrew games](games){ .md-button .md-button--stretch }
 
-[:material-heart-pulse: __Diagnostics:__ Discover and fix problems](diag){ .md-button .md-button--stretch }
+[:material-heart-pulse: __Diagnostics:__ Discover problems](diag){ .md-button .md-button--stretch }
 
 [:simple-builtbybit: __UMCS:__ Default Setup Files](umcs){ .md-button .md-button--stretch }
 
@@ -42,7 +42,7 @@ hide:
 [__:material-help-circle: Icon Meanings:__ What does it mean?](/site_tutorial/icon_meanings){ .md-button .md-button--stretch }
 
 
-[__:fontawesome-brands-readme: Tutorial:__ How to use this sites content](/site_tutorial/){ .md-button .md-button--stretch }
+[__:fontawesome-brands-readme: Tutorial:__ How to use this site](/site_tutorial/){ .md-button .md-button--stretch }
 
 
 [__:material-hand-wave: Thanks:__ Pay your respects](/thanks/){ .md-button .md-button--primary .md-button--stretch }
