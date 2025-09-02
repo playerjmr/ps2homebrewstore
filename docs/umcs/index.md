@@ -9,6 +9,7 @@ hide:
 
 Abbreviated UMCS, this aims to provide a very robust structure that works for all exploits and hopefully all modchips that support memory card boot via `mc?:/BOOT/BOOT.ELF`[^1]
 
+
 This is the core of SAS (Save Application Strucure) so that there is minimal configuration end users need to do to run memory card based exploits.
 
 Should you ever mess up your config, here are backups to restore. Follow the site [tutorial](../site_tutorial/index.md) to restore these files, otherwise if your PS2 still shows the PS2BBL boot logo, try `R1+Start` to boot `mass:/RESCUE.ELF`
@@ -27,10 +28,10 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: APPS](../assets/SAVE-APPLICATION-SYSTEM/APPS.psu)
 
-    - `mc?:/APPS/`
-    
+    - `mc?:/APPS/`  
         Used by OpenTuna, Funtuna, Funtuna Fork and possibly more apps as hotkeys. Hoping to code out OpenTunas hotkeys and bad hardpaths.
     
+
     - A great place to put apps that do not have icons and define in your hacked OSDSYS config file!
 
 -   __BOOT__![umcs-psu_pic](../assets/badges/UMCSPSU.png){ width="75" }
@@ -41,20 +42,19 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: BOOT](../assets/SAVE-APPLICATION-SYSTEM/BOOT.psu), [:material-cloud-download: BOOT MMCE](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu) or [:material-cloud-download: BOOT MX4SIO](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu)
 
-    - `mc?:/BOOT/`
-    
+    - `mc?:/BOOT/`  
         Where exploits look to boot from. 
 
-    - `mc:/BOOT/BOOT.ELF`
-    
+
+    - `mc:/BOOT/BOOT.ELF`  
         PS2BBL hotkeys and autoboot. Used to standardize both for all exploit types. May have additional MMCE or MX4SIO drivers.
 
-    - `mc:/BOOT/BOOT2.ELF`
-    
+
+    - `mc:/BOOT/BOOT2.ELF`  
         wLE ISR exFAT file browser / ELF launcher (Triangle during PS2BBL logo)
 
-    - `mc:/BOOT/ESR.ELF`
-    
+
+    - `mc:/BOOT/ESR.ELF`  
         ESR for running patched backup (in OSDMenu)
 
     !!! info "Pair the BOOT folder with your exploit"
@@ -69,28 +69,27 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: SYS-CONF](../assets/SAVE-APPLICATION-SYSTEM/SYS-CONF.psu)
 
-    - `mc?:/SYS-CONF/`
-    
-        Configuration files for the `BOOT` folder and FMCB
+    - `mc?:/SYS-CONF/`  
+        Configuration files for the `BOOT` folder other apps that look here.
 
-    - `mc:/SYS-CONF/PS2BBL.INI / PSXBBL.INI`
-    
+
+    - `mc:/SYS-CONF/PS2BBL.INI / PSXBBL.INI`  
         PS2BBL's config file. Supports 9 paths.
 
-    - `mc:/SYS-CONF/LAUNCHELF.CNF`
-    
+
+    - `mc:/SYS-CONF/LAUNCHELF.CNF`  
         wLE ISRs config file
 
-    - `mc:/SYS-CONF/OSDMENU.CNF`
-    
+
+    - `mc:/SYS-CONF/OSDMENU.CNF`  
         OSDMenu's config file
 
-    - `mc:/SYS-CONF/FREEMCB.CNF`
-    
+
+    - `mc:/SYS-CONF/FREEMCB.CNF`  
         FreeMCBoot's config file
 
-    - `mc:/SYS-CONF/IPCONFIG.DAT`
-    
+
+    - `mc:/SYS-CONF/IPCONFIG.DAT`  
         Network config shared between many homebrew apps.
 
 </div>
