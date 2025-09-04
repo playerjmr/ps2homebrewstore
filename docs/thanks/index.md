@@ -5,41 +5,30 @@ hide:
   - toc
 ---
 
-# Thanks!
+## SAS/UMCS Team
 
 <div class="grid cards" markdown>
 
--   __PS2 Wiki__
+- __korax__
+- __nuno6573__
+- __pcm720__
+- __Ripto__
+- __SpaceCoyote__
+- __Yornn__
+- __Berion__
+- __HiroTex__
+- __Boon Tobias__
+- __Cosmic Scale__
+- __bucanero__
+- _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }](discord)
 
-    ---
-
-    [![PS2-Wiki_Pic](assets/ps2wiki.png){ height="75" align=middle }](https://ps2wiki.github.io)
-
-    The inspiration for this fork, and the source of team who created such SAS/UMCS structure to make updating and supporting apps easy.
-
-    - __korax__ - [Apps Archive](https://ps2wiki.github.io), Save Icons
-
-    - __nuno6573__ - SAS mapped XEB+ plugins, wLE/uLE, FMCB/FHDB & other integrations
-
-    - __pcm720__ - OSDMenu & HOSDMenu launches SAS apps from OSDSYS/HOSDSYS
-
-    - __Ripto__ - .psu Packer, title.cfg, icon textures
-
-    - __korax__ - Save Icons
-
-    - __SpaceCoyote__ - Save Icons
-
-    - __Yornn__ - Save Icons
-
-    - __Berion__ - Icon Textures
-
-    - __HiroTex__ - SAS integrations in OSDXMB
-
-    - __Boon Tobias__ - SAS integrations in RETROLauncher
-
-    - __Cosmic Scale__ - SAS integrations in PSBBN DEP
+</div>
 
 
+
+## Links
+
+<div class="grid cards" markdown>
 
 -   __PS2 Modchip Tutorials__
 
@@ -54,7 +43,7 @@ hide:
 
     ---
 
-    [![PS2-Space_Pic](assets/ps2space.png){ height="75" align=middle }](https://discord.com/invite/JNEeD77R?utm_source=Discord%20Widget&utm_medium=Connect)
+    [![PS2-Space_Pic](assets/ps2space.png){ height="75" align=middle }](discord)
 
     Discord server full of great people willing to help!
 
@@ -83,9 +72,9 @@ hide:
     ps2homebrew is a collection of free tools for the Sony PlayStation 2® videogame system and similar hardware.
 
 
-
 </div>
 
+[discord]: https://discord.com/invite/JNEeD77R?utm_source=Discord%20Widget&utm_medium=Connec
 
 ## No Thanks to:
 
