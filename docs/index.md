@@ -24,13 +24,6 @@ hide:
 
 </div>
 
-  [exploits]: ./exploits/
-  [loaders]: ./loaders/
-  [apps]: ./apps/
-  [emulators]: ./emulators/
-  [games]: ./games/
-  [diag]: ./diag/
-  [umcs]: ./umcs/
 
 !!! info "Source Material"
 
