@@ -33,43 +33,56 @@ hide:
 
     ---
 
-    [![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png){ width="200" }](ps2modchiptutorials)
-
-
-    Another site that tries to follow such structure, but directed more to the lucky modchip master race.
+    [![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png){ width="200" }](ps2modchiptutorials){ .md-button .md-button--stretch }
+    ///caption
+    Another site that tries to follow such structure, but directed more to the lucky modchip master race. Hint, the web designer here uses the same MMCE downloads!
+    ///
 
 -   __PS2 Space Discord Server__
 
     ---
 
-    [![PS2-Space_Pic](assets/ps2space.png){ width="275" }](discord)
-
+    [![PS2-Space_Pic](assets/ps2space.png){ width="275" }](discord){ .md-button .md-button--stretch }
+    ///caption
     Discord server full of great people willing to help!
+    ///
+
+
+-   __PSX Place Forums__
+
+    ---
+
+    [![PSX-Place_Pic](https://www.psx-place.com/styles/nerva/xenforo/logo.png){ width="600"}](psx-place){ .md-button .md-button--stretch }
+    ///caption
+    Forums dedicated to all things Playstation, specializing in homebrew.
+    ///
 
 -   __Console Mods__
 
     ---
 
-    [![Console-Mods_Pic](assets/consolemods.png){ width="365" }](consolemods)
-
+    [![Console-Mods_Pic](assets/consolemods.png){ width="365" }](consolemods){ .md-button .md-button--stretch }
+    ///caption
     Wiki full of console information
+    ///
 
 -   __PS2 Dev Wiki__
 
     ---
 
-    [![PS2-Dev-Wiki_Pic](assets/ps2devwiki.png){ width="220" }](ps2devwiki)
-
+    [![PS2-Dev-Wiki_Pic](assets/ps2devwiki.png){ width="220" }](ps2devwiki){ .md-button .md-button--stretch }
+    ///caption
     Wiki full of PS2 Specific information
+    ///
 
 -   __PS2 Homebrew Github__
 
     ---
 
-    [![PS2-Homebrew-Github_Pic](assets/ps2homebrew-github.png){ width="350" }](ps2homebrew_github)
-
+    [![PS2-Homebrew-Github_Pic](assets/ps2homebrew-github.png){ width="350" }](ps2homebrew_github){ .md-button .md-button--stretch }
+    ///caption
     ps2homebrew is a collection of free tools for the Sony PlayStation 2® videogame system and similar hardware.
-
+    ///
 
 </div>
 
@@ -87,3 +100,4 @@ hide:
 [consolemods]: https://consolemods.org
 [ps2devwiki]: https://www.ps2devwiki.com
 [ps2homebrew_github]: https://github.com/ps2homebrew
+[psx-place]: https://www.psx-place.com/forums/#playstation-2-ps2.6
