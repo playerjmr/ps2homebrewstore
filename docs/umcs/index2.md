@@ -4,7 +4,9 @@ hide:
   - toc
 ---
 
+[mmcedownloads test][1]
 
+[1]: https://2cc09d4c1171534194a27c7cd76c3a74.r2.cloudflarestorage.com/ps2store-downloads/MMCE-ALL.7z
 
 
 ## When is PS2BBL's config called?
