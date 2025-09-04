@@ -35,7 +35,7 @@ hide:
 
     [![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png){ width="200" }](ps2modchiptutorials){ .md-button .md-button--stretch }
     ///caption
-    Another site that tries to follow such structure, but directed more to the lucky modchip master race. Hint, the web designer here uses the same MMCE downloads!
+    Another site that tries to follow such structure, but directed more to the lucky modchip master race. Hint, the web designer here collaborated on same MMCE downloads!
     ///
 
 -   __PS2 Space Discord Server__
