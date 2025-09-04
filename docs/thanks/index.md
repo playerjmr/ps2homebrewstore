@@ -34,7 +34,7 @@ hide:
 
     ---
 
-    [![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png){ height="50" align=middle }](https://ps2modchiptutorials.com)
+    [![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png){ width="200" }](ps2modchiptutorials)
 
 
     Another site that tries to follow such structure, but directed more to the lucky modchip master race.
@@ -43,7 +43,7 @@ hide:
 
     ---
 
-    [![PS2-Space_Pic](assets/ps2space.png){ height="75" align=middle }](discord)
+    [![PS2-Space_Pic](assets/ps2space.png){ width="275" }](discord)
 
     Discord server full of great people willing to help!
 
@@ -51,7 +51,7 @@ hide:
 
     ---
 
-    [![Console-Mods_Pic](assets/consolemods.png){ height="75" align=middle }](https://consolemods.org)
+    [![Console-Mods_Pic](assets/consolemods.png){ width="365" }](consolemods)
 
     Wiki full of console information
 
@@ -59,7 +59,7 @@ hide:
 
     ---
 
-    [![PS2-Dev-Wiki_Pic](assets/ps2devwiki.png){ height="75" align=middle }](https://www.ps2devwiki.com)
+    [![PS2-Dev-Wiki_Pic](assets/ps2devwiki.png){ width="220" }](ps2devwiki)
 
     Wiki full of PS2 Specific information
 
@@ -67,17 +67,24 @@ hide:
 
     ---
 
-    [![PS2-Homebrew-Github_Pic](assets/ps2homebrew-github.png){ height="75" align=middle }](https://github.com/ps2homebrew)
+    [![PS2-Homebrew-Github_Pic](assets/ps2homebrew-github.png){ width="350" }](ps2homebrew_github)
 
     ps2homebrew is a collection of free tools for the Sony PlayStation 2® videogame system and similar hardware.
 
 
 </div>
 
-[discord]: https://discord.com/invite/JNEeD77R?utm_source=Discord%20Widget&utm_medium=Connec
 
 ## No Thanks to:
 
 !!! danger "No Thanks to:"
 
     TnA Plastic of r/PS2Homebrew, psx-place.com and PS2 Scene Discord.
+
+
+
+[discord]: https://discord.com/invite/JNEeD77R?utm_source=Discord%20Widget&utm_medium=Connect
+[ps2modchiptutorials]: https://ps2modchiptutorials.com
+[consolemods]: https://consolemods.org
+[ps2devwiki]: https://www.ps2devwiki.com
+[ps2homebrew_github]: https://github.com/ps2homebrew
