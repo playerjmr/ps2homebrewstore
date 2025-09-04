@@ -9,13 +9,13 @@ hide:
 
 <div class="grid cards" markdown>
 
-- __korax__
-- __nuno6573__
-- __pcm720__
 - __Ripto__
+- __korax__
+- __Berion__
 - __SpaceCoyote__
 - __Yornn__
-- __Berion__
+- __nuno6573__
+- __pcm720__
 - __HiroTex__
 - __Boon Tobias__
 - __Cosmic Scale__
@@ -23,7 +23,6 @@ hide:
 - _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }](discord)
 
 </div>
-
 
 
 ## Links
