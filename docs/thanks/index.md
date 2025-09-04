@@ -9,18 +9,21 @@ hide:
 
 <div class="grid cards" markdown>
 
-- __Ripto__
-- __korax__
-- __Berion__
-- __SpaceCoyote__
-- __Yornn__
-- __nuno6573__
-- __pcm720__
-- __HiroTex__
-- __Boon Tobias__
-- __Cosmic Scale__
-- __bucanero__
-- _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }](discord)
+- Ripto
+- korax
+- Berion
+- SpaceCoyote
+- Yornn
+- KrahJohlito
+- nuno6573
+- pcm720
+- HiroTex
+- Boon Tobias
+- Cosmic Scale
+- bucanero
+- 
+- _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][discord]
+- 
 
 </div>
 
@@ -33,7 +36,7 @@ hide:
 
     ---
 
-    [![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png){ width="200" }][ps2modchiptutorials]{ .md-button .md-button--stretch }
+    [![PS2-Modchip-Tutorials_Pic](https://ps2modchiptutorials.com/assets/website_logo1.png){ width="200" }][ps2modchiptutorials]{:target="_blank"}
     ///caption
     Another site that tries to follow such structure, but directed more to the lucky modchip master race. Hint, the web designer here collaborated on same MMCE downloads!
     ///
@@ -42,7 +45,7 @@ hide:
 
     ---
 
-    [![PS2-Space_Pic](assets/ps2space.png){ width="275" }][discord]{ .md-button .md-button--stretch }
+    [![PS2-Space_Pic](assets/ps2space.png){ width="275" }][discord]{:target="_blank"}
     ///caption
     Discord server full of great people willing to help!
     ///
@@ -52,7 +55,7 @@ hide:
 
     ---
 
-    [![PSX-Place_Pic](https://www.psx-place.com/styles/nerva/xenforo/logo.png){ width="600"}][psx-place]{ .md-button .md-button--stretch }
+    [![PSX-Place_Pic](https://www.psx-place.com/styles/nerva/xenforo/logo.png){ width="600"}][psx-place]{:target="_blank"}
     ///caption
     Forums dedicated to all things Playstation, specializing in homebrew.
     ///
@@ -61,7 +64,7 @@ hide:
 
     ---
 
-    [![Console-Mods_Pic](assets/consolemods.png){ width="365" }][consolemods]{ .md-button .md-button--stretch }
+    [![Console-Mods_Pic](assets/consolemods.png){ width="365" }][consolemods]{:target="_blank"}
     ///caption
     Wiki full of console information
     ///
@@ -70,7 +73,7 @@ hide:
 
     ---
 
-    [![PS2-Dev-Wiki_Pic](assets/ps2devwiki.png){ width="220" }][ps2devwiki]{ .md-button .md-button--stretch }
+    [![PS2-Dev-Wiki_Pic](assets/ps2devwiki.png){ width="220" }][ps2devwiki]{:target="_blank"}
     ///caption
     Wiki full of PS2 Specific information
     ///
@@ -79,7 +82,7 @@ hide:
 
     ---
 
-    [![PS2-Homebrew-Github_Pic](assets/ps2homebrew-github.png){ width="350" }][ps2homebrew_github]{ .md-button .md-button--stretch }
+    [![PS2-Homebrew-Github_Pic](assets/ps2homebrew-github.png){ width="350" }][ps2homebrew_github]{:target="_blank"}
     ///caption
     ps2homebrew is a collection of free tools for the Sony PlayStation 2® videogame system and similar hardware.
     ///
@@ -94,9 +97,9 @@ hide:
     TnA Plastic of r/PS2Homebrew, psx-place.com and PS2 Scene Discord.
 
 
-[discord]: https://discord.com/invite/JNEeD77R?utm_source=Discord%20Widget&utm_medium=Connect
-[ps2modchiptutorials]: https://ps2modchiptutorials.com
-[consolemods]: https://consolemods.org
-[ps2devwiki]: https://www.ps2devwiki.com
-[ps2homebrew_github]: https://github.com/ps2homebrew
-[psx-place]: https://www.psx-place.com/forums/#playstation-2-ps2.6
+[discord]: https://discord.com/invite/3SNDdRmu?utm_source=Discord%20Widget&utm_medium=Connect "PS2 Space Discord"
+[ps2modchiptutorials]: https://ps2modchiptutorials.com "PS2 Modchip Tutorials"
+[consolemods]: https://consolemods.org "Console Mods"
+[ps2devwiki]: https://www.ps2devwiki.com "PS2 Dev Wiki"
+[ps2homebrew_github]: https://github.com/ps2homebrew "PS2 Homebrew Github"
+[psx-place]: https://www.psx-place.com/forums/#playstation-2-ps2.6 "PSX-Place Forums"
