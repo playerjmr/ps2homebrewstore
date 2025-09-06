@@ -9,23 +9,37 @@ hide:
 
 <div class="grid cards" markdown>
 
-- Ripto
-- korax
-- Berion
-- SpaceCoyote
-- Yornn
-- KrahJohlito
-- nuno6573
-- pcm720
-- HiroTex
-- Boon Tobias
-- Cosmic Scale
-- bucanero
+- [Ripto][ripto]
+- [korax][korax]
+- [Berion][berion]
+- [SpaceCoyote][spacecoyote]
+- [Yornn][yornn]
+- [KrahJohlito]
+- [nuno6573][nuno]
+- [pcm720][pcm720]
+- [HiroTex][hirotex]
+- [Boon Tobias][boon]
+- [Cosmic Scale][cosmic]
+- [bucanero][bucanero]
+- [techwritescode][techwritescode]
 - 
 - _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][discord]
-- 
 
 </div>
+
+[ripto]: https://github.com/NathanNeurotic
+[yornn]: https://github.com/mcoirault
+[korax]: https://github.com/koraxial
+[berion]: https://www.psx-place.com/members/berion.1431/
+[krahjohlito]: https://github.com/KrahJohlito
+[pcm720]: https://github.com/pcm720
+[hirotex]: https://github.com/HiroTex
+[boon]: https://github.com/Spaghetticode-Boon-Tobias
+[cosmic]: https://github.com/CosmicScale
+[bucanero]: https://github.com/bucanero
+[techwritescode]: https://github.com/techwritescode
+[spacecoyote]: https://www.psx-place.com/members/spacecoyote.86651/
+[nuno]: https://www.psx-place.com/members/nuno6573.77367/
 
 
 ## Links
