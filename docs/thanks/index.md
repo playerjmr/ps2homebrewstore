@@ -111,7 +111,7 @@ hide:
     TnA Plastic of r/PS2Homebrew, psx-place.com and PS2 Scene Discord.
 
 
-[discord]: https://discord.com/invite/3SNDdRmu?utm_source=Discord%20Widget&utm_medium=Connect "PS2 Space Discord"
+[discord]: https://discord.gg/r3frDccRby "PS2 Space Discord"
 [ps2modchiptutorials]: https://ps2modchiptutorials.com "PS2 Modchip Tutorials"
 [consolemods]: https://consolemods.org "Console Mods"
 [ps2devwiki]: https://www.ps2devwiki.com "PS2 Dev Wiki"
