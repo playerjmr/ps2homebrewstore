@@ -80,7 +80,7 @@ hide:
 
     ---
 
-    [![Console-Mods_Pic](assets/consolemods.png){ width="365" }][consolemods]{:target="_blank"}
+    [![Console-Mods_Pic](assets/consolemods.png){ width="360" }][consolemods]{:target="_blank"}
     ///caption
     Wiki full of console information
     ///
