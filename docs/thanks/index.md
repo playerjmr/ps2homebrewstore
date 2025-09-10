@@ -23,7 +23,7 @@ hide:
 - [bucanero][bucanero]
 - [techwritescode][techwritescode]
 - 
-- _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][discord]
+- _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][discord] and [:fontawesome-brands-github:{ .pulse }][github]
 
 </div>
 
@@ -40,6 +40,8 @@ hide:
 [techwritescode]: https://github.com/techwritescode
 [spacecoyote]: https://www.psx-place.com/members/spacecoyote.86651/
 [nuno]: https://www.psx-place.com/members/nuno6573.77367/
+[github]: https://github.com/saildot4k/ps2homebrewstore "PS2 Homebrew Store Github"
+[discord]: https://discord.gg/r3frDccRby "PS2 Space Discord"
 
 
 ## Links
@@ -111,7 +113,6 @@ hide:
     TnA Plastic of r/PS2Homebrew, psx-place.com and PS2 Scene Discord.
 
 
-[discord]: https://discord.gg/r3frDccRby "PS2 Space Discord"
 [ps2modchiptutorials]: https://ps2modchiptutorials.com "PS2 Modchip Tutorials"
 [consolemods]: https://consolemods.org "Console Mods"
 [ps2devwiki]: https://www.ps2devwiki.com "PS2 Dev Wiki"

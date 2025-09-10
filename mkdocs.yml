@@ -113,6 +113,9 @@ extra:
     - icon: fontawesome/brands/discord
       name: PS2 Space on Discord
       link: https://discord.gg/r3frDccRby
+    - icon: fontawesome/brands/github
+      name: PS2 Homebrew Store on GitHub
+      link: https://github.com/saildot4k/ps2homebrewstore
 
 # Page tree
 nav:
