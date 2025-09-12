@@ -10,6 +10,8 @@ hide:
 <div class="grid cards" markdown>
 
 
+
+
 -   __HDD Tester__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
@@ -41,6 +43,19 @@ hide:
     Test your controller(s)
 
     [:material-cloud-download: Pad Test](../assets/SAVE-APPLICATION-SYSTEM/DST_PADTEST.psu)
+
+
+-   __Controller Test__![non-sas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="75" }
+
+    ---
+
+    ![Controller-Test_Pic](assets/controller-tester.png)
+
+    Nice gui to test your controller
+
+    [:material-cloud-download: Pad Test](https://downloads.ps2homebrewstore.com/NON-SAS/DST_CONTROLLER.zip)  
+    Extract zip to `mass:/APPS/`  
+    Unable to run from MemCard
 
 
 -   __PS2 RDRAM Test__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }

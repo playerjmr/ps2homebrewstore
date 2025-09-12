@@ -33,6 +33,25 @@ hide:
     [:material-cloud-download: Argon](../assets/SAVE-APPLICATION-SYSTEM/APP_ARGON.psu)
 
 
+
+-   __Cheat Device__![not-sas_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="75" }
+
+    ---
+    
+    [![cheat-device_Pic](assets/cheat-device.png)](https://github.com/israpps/CheatDevicePS2)
+
+    Cheat Device is a game enhancer for PlayStation 2 games similar to Action Replay, GameShark, and CodeBreaker. It supports booting retail, disc based games as well as ELF files such as OpenPS2Loader or ESR.
+
+    [:material-cloud-download: Cheat Device PS2BBL Forwarder](https://downloads.ps2homebrewstore.com/SAS/APP_CHEATDEVICE-PS2BBL.psu)  
+    PSU Paste to MemCard root
+
+    [:material-cloud-download: Cheat Device USB](https://downloads.ps2homebrewstore.com/NON-SAS/APP_CHEATDEVICE-USB.psu)  
+    Extract zip to `usb:/APPS/`
+
+    [:material-cloud-download: Cheat Device MMCE](https://downloads.ps2homebrewstore.com/NON-SAS/APP_CHEATDEVICE-MMCE.psu)  
+    Extract zip to `mmce?:/APPS/`
+
+
 -   __Graphics Synthesizer Mode__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
@@ -42,6 +61,17 @@ hide:
     Hooks into software to output different video modes. Caution: does break apps/games.
 
     [:material-cloud-download: GSM](../assets/SAVE-APPLICATION-SYSTEM/APP_GSM.psu)
+
+
+-   __Kernel Loader__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+
+    ---
+
+    [![kernel-loader_Pic](assets/kernel-loader.png)](https://kernelloader.sourceforge.net/linux.html)
+
+    Kernelloader is a bootloader for PS2 Linux and other PS2 operating systems.
+
+    [:material-cloud-download: Kernel Loader](https://downloads.ps2homebrewstore.com/SAS/RTE_KERNELLDR3/psu)
 
 
 -   __Simple Media System (SMS)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }

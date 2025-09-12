@@ -69,7 +69,8 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     ![apps_pic](assets/sys-conf.png)
 
-    [:material-cloud-download: SYS-CONF](../assets/SAVE-APPLICATION-SYSTEM/SYS-CONF.psu)
+    [:material-cloud-download: SYS-CONF NO-HDD](https://downloads.ps2store.com/SAS/SYS-CONF-NO-HDD.psu) or [:material-cloud-download: SYS-CONF HDD](https://downloads.ps2store.com/SAS/SYS-CONF-HDD.psu)  
+    Uncomment out HDD drivers if you wish to boot apps via PS2BBL from APA HDD.
 
     - `mc?:/SYS-CONF/`  
         Configuration files for the `BOOT` folder other apps that look here.

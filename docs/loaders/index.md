@@ -10,23 +10,49 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __OPL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+-   __OPL 1.2.0 Betas__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
     ---
 
     [![OPL-Latest_Pic](assets/opl2025.png)](https://github.com/rickgaiser/Open-PS2-Loader/releases)
 
-    Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD (2241)
+    Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD.  
+    These extract to `APP_OPL`
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2241](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2241.psu) RECOMMENDED
+    [:material-cloud-download: OPL 1.2.0 Beta 2241](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2241.psu) RECOMMENDED  
+    MMCE, SMB, APA, Fat32, ExFat, NBD
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2212](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2212.psu)
+    [:material-cloud-download: OPL 1.2.0 Beta 2212](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2212.psu)  
+    SMB, APA, Fat32, ExFat, NBD
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2049](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2049GID.psu)
+    [:material-cloud-download: OPL 1.2.0 Beta 2049](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2049GID.psu)  
+    SMB, APA, Fat32, ExFat, NBD
 
     !!! tip "PS2BBL hotkey"
 
         `R2` when the PS2BBL logo appears
+
+
+-   __OPL Previous Stable Builds__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+
+    ---
+
+    [![OPL-Latest_Pic](assets/opl2025.png)](https://github.com/rickgaiser/Open-PS2-Loader/releases)
+
+    Open PS2 Loader Older Builds. Compatibility ranges with all OPL but provided for games that break on newer versions and vice versa.  
+    These extract to `APP_OPL`
+
+    [:material-cloud-download: OPL 1.1.0 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-110.psu), [:material-cloud-download: OPL 1.0.0 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-100.psu)
+
+    [:material-cloud-download: OPL 1.0.0 RC1 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-100RC1.psu), [:material-cloud-download: OPL 0.9.3 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-093.psu) 
+    
+    [:material-cloud-download: OPL 0.9.2 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-092.psu), [:material-cloud-download: OPL 0.9.1 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-091.psu)
+    
+    [:material-cloud-download: OPL 0.9.0 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-090.psu), [:material-cloud-download: OPL 0.8.0 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-080.psu)
+    
+    [:material-cloud-download: OPL 0.7.0 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-070.psu), [:material-cloud-download: OPL 0.6.0 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-060.psu)
+    
+    [:material-cloud-download: OPL 0.5.0 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-050.psu)
 
 
 -   __Unofficial OPL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
@@ -37,7 +63,8 @@ hide:
 
     KrahJohnlitos last ditch attempt to make OPL great again! 
 
-    Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.
+    Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.  
+    These extract to `APP_OPL`
 
     [:material-cloud-download: uOPL](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_UOPL.psu)
 
@@ -84,7 +111,7 @@ hide:
     [:material-cloud-download: Neutrino](../assets/NON-SAS/NEUTRINO.zip)
 
 
--   __OSD-XMB__![nonsas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="75" }
+-   __OSD-XMB__![nonsas-ext_pic](../assets/badges/NOTSASCOMPLIANTEXTLINK.png){ width="75" }
 
     ---
 
@@ -96,13 +123,23 @@ hide:
 
     This app cannot be packaged as a PSU due to subfolders. 
 
-    [:material-file-document: Documentation](https://github.com/HiroTex/OSD-XMB)
-
-    [:material-cloud-download: OSD-XMB](../assets/NON-SAS/OSDXMB20.zip) Extract to root of USB.
+    [:material-cloud-download: OSD-XMB](https://github.com/HiroTex/OSD-XMB)
 
     !!! tip "PS2BBL hotkey"
 
         `D-PAD UP` when the PS2BBL logo appears.
+
+
+-   __PSBBN DEP__![nonsas-ext_pic](../assets/badges/NOTSASCOMPLIANTEXTLINK.png){ width="75" }
+
+    ---
+
+    [![PSBBN_Pic](assets/psbbn-dep.png)](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)
+
+    Playstation BroadBand Network Definitive English Patch brings PSBBN to the modern PS2 age, with ease of install, SAS Support and ISO loading.
+
+    [:material-cloud-download: PSBBN-DEP](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)
+
 
 
 -   __XEB+__![nonsas-ext_pic](../assets/badges/NOTSASCOMPLIANTEXTLINK.png){ width="75" }
