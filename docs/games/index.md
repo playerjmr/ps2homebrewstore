@@ -25,7 +25,7 @@ hide:
 
     [![3D](assets/3d-pinball.png){ width="450" }](https://github.com/headshot2017/3dpinball-ps2)
 
-    A game by Retroguru. Note: may or may not work.
+    3D Pinball from Windows XP. Note: may or may not work.
 
     [:material-cloud-download: 3D Pinball Player](https://downloads.ps2homebrewstore.com/SAS/GME_3DPINBALL-PLAYER.psu)  
     PSU Paste to `mc?:/`
