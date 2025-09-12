@@ -233,7 +233,7 @@ hide:
 
     [![Enceladus_Pic](assets/enceladus.png)](https://github.com/DanielSant0s/Enceladus)
 
-    Make your own PS2 Homebrew with a Javascript interpreter
+    Make your own PS2 Homebrew with a Lua interpreter
 
     [:octicons-link-external-16: Enceladus](https://github.com/DanielSant0s/Enceladus)
 
