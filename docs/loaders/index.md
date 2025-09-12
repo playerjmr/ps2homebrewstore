@@ -123,7 +123,7 @@ hide:
 
     This app cannot be packaged as a PSU due to subfolders. 
 
-    [:material-cloud-download: OSD-XMB](https://github.com/HiroTex/OSD-XMB)
+    [:octicons-link-external-16: OSD-XMB](https://github.com/HiroTex/OSD-XMB)
 
     !!! tip "PS2BBL hotkey"
 
@@ -138,7 +138,7 @@ hide:
 
     Playstation BroadBand Network Definitive English Patch brings PSBBN to the modern PS2 age, with ease of install, SAS Support and ISO loading.
 
-    [:material-cloud-download: PSBBN-DEP](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)
+    [:octicons-link-external-16: PSBBN-DEP](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)
 
 
 
@@ -152,11 +152,11 @@ hide:
 
     This app cannot be packaged as a PSU due to subfolders and licensing.
 
-    [:material-cloud-download: XEB+](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
+    [:octicons-link-external-16:: XEB+](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
     [:material-cloud-download: XEB+ USB folder](../assets/NON-SAS/XEBPLUS.zip) Place above contents in this folder and place at root of USB.
 
-    [XEB+ Neutrino Loader plugin by Sync On Luma](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin)
+    [:octicons-link-external-16: XEB+ Neutrino Loader plugin by Sync On Luma](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin)
 
     !!! tip "PS2BBL hotkey"
     
