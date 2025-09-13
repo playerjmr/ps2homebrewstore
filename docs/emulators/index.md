@@ -49,7 +49,7 @@ hide:
 
     [![retrolauncher_pic](assets/retrolauncher.png)](https://github.com/Spaghetticode-Boon-Tobias/RETROLauncher)
 
-    ROM/ELF/ISO launcher that uses Retroarch, POPStarter, Neutrino and wLaunchELF ISR for the execution of the games/APPS writeen in LUA for Enceladus.
+    ROM/ELF/ISO launcher that uses Retroarch, POPStarter, Neutrino, OPL and wLaunchELF ISR for the execution of the games/APPS written in LUA for Enceladus.
 
     [:material-cloud-download: RETROLauncher](https://downloads.ps2store.com/NON-SAS/RETROLauncher.zip)  
     Extract zip and place in root of `mass:/`
