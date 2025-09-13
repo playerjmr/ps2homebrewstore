@@ -43,6 +43,17 @@ hide:
 
     [:material-cloud-download: PicoDrive 1.51B](../assets/SAVE-APPLICATION-SYSTEM/EMU_PICODRIVE/EMU_PICODRIVE151B/)
 
+-   __RETROLauncher__![non-sas-ext_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="75" }
+
+    ---
+
+    [![retrolauncher_pic](assets/retrolauncher.png)](https://github.com/Spaghetticode-Boon-Tobias/RETROLauncher)
+
+    ROM/ELF/ISO launcher that uses Retroarch, POPStarter, Neutrino and wLaunchELF ISR for the execution of the games/APPS writeen in LUA for Enceladus.
+
+    [:material-cloud-download: RETROLauncher](https://downloads.ps2store.com/NON-SAS/RETROLauncher.zip)  
+    Extract zip and place in root of `mass:/`
+
 
 -   __Xbox 2 Playstation Emulator__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
 
