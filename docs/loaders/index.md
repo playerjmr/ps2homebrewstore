@@ -87,7 +87,7 @@ hide:
 
     [:material-file-document: Documentation](https://github.com/pcm720/nhddl)
 
-    [:material-cloud-download: NHDDL](../assets/SAVE-APPLICATION-SYSTEM/APP_NHDDL.psu)
+    [:material-cloud-download: NHDDL](https://downloads.ps2homebrewstore.com/SAS/APP_NHDDL.psu)
 
     !!! tip "PS2BBL hotkey"
 
