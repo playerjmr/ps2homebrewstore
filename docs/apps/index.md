@@ -93,13 +93,13 @@ hide:
 
     File manager with support for multiple devices.
 
-    [:material-cloud-download: wLE ISR ExFat USB](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF.psu)
+    [:material-cloud-download: wLE ISR ExFat USB](https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-XF.psu)
 
-    [:material-cloud-download: wLE ISR ExFat USB / MMCE](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF-MM.psu)
+    [:material-cloud-download: wLE ISR ExFat USB / MMCE](https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-XF-MM.psu)
 
-    [:material-cloud-download: wLE ISR ExFat USB / MX4SIO](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-XF-MX.psu)
+    [:material-cloud-download: wLE ISR ExFat USB / MX4SIO](https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-XF-MX.psu)
 
-    [:material-cloud-download: wLE ISR HDD](../assets/SAVE-APPLICATION-SYSTEM/APP_WLE-ISR-HDD.psu) Used for [:material-file-document: header injection](https://www.psx-place.com/threads/wlaunchelf-isr_hdd.34075/)
+    [:material-cloud-download: wLE ISR HDD](https://downloads.ps2homebrewstore.com/SAS/APP_WLE-ISR-HDD.psu) Used for [:material-file-document: header injection](https://www.psx-place.com/threads/wlaunchelf-isr_hdd.34075/)
 
 
 -   __wLaunch Elf (krHACKen's Fork)__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
