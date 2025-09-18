@@ -238,3 +238,25 @@ hide:
     [:octicons-link-external-16: Enceladus](https://github.com/DanielSant0s/Enceladus)
 
 </div>
+
+
+[sas-psu]: ../assets/badges/SASPSU.png
+[sas-zip]: ../assets/badges/SASZIP.png
+[sas-7z]: ../assets/badges/SAS7Z.png
+[sas-7zip]: ../assets/badges/SAS7ZIP.png
+[sas-rar]: ../assets/badges/SASRAR.png
+[sas-ext]: ../assets/badges/SASEXTLINK.png
+
+[non-sas-psu]: ../assets/badges/NOTSASCOMPLIANTPSU.png
+[non-sas-zip]: ../assets/badges/NOTSASCOMPLIANTZIP.png
+[non-sas-7z]: ../assets/badges/NOTSASCOMPLIANT7Z.png
+[non-sas-7zip]: ../assets/badges/NOTSASCOMPLIANT7ZIP.png
+[non-sas-rar]: ../assets/badges/NOTSASCOMPLIANTRAR.png
+[non-sas-ext]: ../assets/badges/NOTSASCOMPLIANTEXTLINK.png
+
+[umcs-psu]: ../assets/badges/UMCSPSU.png
+[umcs-zip]: ../assets/badges/UMCS7ZIP.png
+[umcs-7z:]: ../assets/badges/UMCS7Z.png
+[umcs-7zip]: ../assets/badges/UMCS7ZIP.png
+[umcs-rar]: ../assets/badges/UMCSRAR.png
+[umcs-ext]: ../assets/badges/UMCSEXTLINK.png
