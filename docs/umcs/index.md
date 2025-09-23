@@ -32,7 +32,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
         Used by OpenTuna, Funtuna, Funtuna Fork and possibly more apps as hotkeys. Hoping to code out OpenTunas hotkeys and bad hardpaths.
     
 
-    - A great place to put apps that do not have icons and define in your hacked OSDSYS config file!
+    - A great place to put apps that do not have icons and define in your hacked OSDSYS config file because you hate to see corrupted icons in the MemCard Browser!
 
 
 -   __BOOT__![umcs-psu_pic][umcs-psu]{ width="75" }
@@ -47,11 +47,11 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
         Where exploits look to boot from. 
 
 
-    - `mc:/BOOT/BOOT.ELF`  
+    - `mc?:/BOOT/BOOT.ELF`  
         PS2BBL hotkeys and autoboot. Used to standardize both for all exploit types and apps that look for this path, which allows user to forward to another app using hotkeys. May have additional MMCE or MX4SIO drivers.
 
 
-    - `mc:/BOOT/BOOT2.ELF`  
+    - `mc?:/BOOT/BOOT2.ELF`  
         wLE ISR exFAT file browser / ELF launcher (Triangle during PS2BBL logo)
 
 
