@@ -55,9 +55,6 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
         wLE ISR exFAT file browser / ELF launcher (Triangle during PS2BBL logo)
 
 
-    - `mc:/BOOT/ESR.ELF`  
-        ESR for running patched backup (in OSDMenu)
-
     !!! info "Pair the BOOT folder with your exploit"
 
         For consistency, use the correct BOOT, BOOT MMCE or BOOT MX4SIO download for the device you are using, same for the exploit you are using. MMCE downloads have MMCE drivers already. For [exploits that need installs](../exploits/), use the same device driver installer.
@@ -69,8 +66,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     ![apps_pic](assets/sys-conf.png)
 
-    [:material-cloud-download: SYS-CONF NO-HDD](https://downloads.ps2store.com/SAS/SYS-CONF-NO-HDD.psu) or [:material-cloud-download: SYS-CONF HDD](https://downloads.ps2store.com/SAS/SYS-CONF-HDD.psu)  
-    Uncomment out HDD drivers if you wish to boot apps via PS2BBL from APA HDD.
+    [:material-cloud-download: SYS-CONF](https://downloads.ps2homebrewstore.com/SAS/SYS-CONF.psu)
 
     - `mc?:/SYS-CONF/`  
         Configuration files for the `BOOT` folder other apps that look here.
@@ -150,6 +146,20 @@ graph LR
     Config @ mc?:/SYS-CONF/PS2BBL.INI and OSDMENU.CNF
     ///
 
+
+[sas-psu]: ../assets/badges/SASPSU.png
+[sas-zip]: ../assets/badges/SASZIP.png
+[sas-7z]: ../assets/badges/SAS7Z.png
+[sas-7zip]: ../assets/badges/SAS7ZIP.png
+[sas-rar]: ../assets/badges/SASRAR.png
+[sas-ext]: ../assets/badges/SASEXTLINK.png
+
+[non-sas-psu]: ../assets/badges/NOTSASCOMPLIANTPSU.png
+[non-sas-zip]: ../assets/badges/NOTSASCOMPLIANTZIP.png
+[non-sas-7z]: ../assets/badges/NOTSASCOMPLIANT7Z.png
+[non-sas-7zip]: ../assets/badges/NOTSASCOMPLIANT7ZIP.png
+[non-sas-rar]: ../assets/badges/NOTSASCOMPLIANTRAR.png
+[non-sas-ext]: ../assets/badges/NOTSASCOMPLIANTEXTLINK.png
 
 [umcs-psu]: ../assets/badges/UMCSPSU.png
 [umcs-zip]: ../assets/badges/UMCS7ZIP.png

@@ -10,7 +10,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __OPL 1.2.0 Betas__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+-   __OPL 1.2.0 Betas__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -19,13 +19,13 @@ hide:
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD.  
     These extract to `APP_OPL`
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2241](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2241.psu) RECOMMENDED  
+    [:material-cloud-download: OPL 1.2.0 Beta 2241](https://downloads.ps2store.com/SAS/APP_OPL/APP_OPL120B2241.psu) RECOMMENDED  
     MMCE, SMB, APA, Fat32, ExFat, NBD
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2212](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2212.psu)  
+    [:material-cloud-download: OPL 1.2.0 Beta 2212](https://downloads.ps2store.com/SAS/APP_OPL/APP_OPL120B2212.psu)  
     SMB, APA, Fat32, ExFat, NBD
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2049](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_OPL120B2049GID.psu)  
+    [:material-cloud-download: OPL 1.2.0 Beta 2049](https://downloads.ps2store.com/SAS/APP_OPL/APP_OPL120B2049GID.psu)  
     SMB, APA, Fat32, ExFat, NBD
 
     !!! tip "PS2BBL hotkey"
@@ -33,7 +33,7 @@ hide:
         `R2` when the PS2BBL logo appears
 
 
--   __OPL Previous Stable Builds__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+-   __OPL Previous Stable Builds__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -55,7 +55,7 @@ hide:
     [:material-cloud-download: OPL 0.5.0 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-050.psu)
 
 
--   __Unofficial OPL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+-   __Unofficial OPL__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -66,16 +66,16 @@ hide:
     Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.  
     These extract to `APP_OPL`
 
-    [:material-cloud-download: uOPL](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_UOPL.psu)
+    [:material-cloud-download: uOPL](https://downloads.ps2store.com/SAS/APP_OPL/APP_UOPL.psu)
 
-    [:material-cloud-download: uOPL Betrayal](../assets/SAVE-APPLICATION-SYSTEM/APP_OPL/APP_UOPL-BETRAYAL.psu) 
+    [:material-cloud-download: uOPL Betrayal](https://downloads.ps2store.com/SAS/APP_OPL/APP_UOPL-BETRAYAL.psu) 
 
     !!! tip "PS2BBL hotkey"
 
         `R2` when the PS2BBL logo appears
 
 
--   __NHDDL__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+-   __NHDDL__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -94,7 +94,7 @@ hide:
         `R1` when the PS2BBL logo appears
 
 
--   __Neutrino__![nonsas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="75" }
+-   __Neutrino__![nonsas-zip_pic][non-sas-zip]{ width="75" }
 
     ---
 
@@ -108,10 +108,10 @@ hide:
 
     [:material-file-document: Documentation](https://github.com/rickgaiser/neutrino)
 
-    [:material-cloud-download: Neutrino](../assets/NON-SAS/NEUTRINO.zip)
+    [:material-cloud-download: Neutrino](https://downloads.ps2homebrewstore.com/NON-SAS/NEUTRINO.zip)
 
 
--   __OSD-XMB__![nonsas-ext_pic](../assets/badges/NOTSASCOMPLIANTEXTLINK.png){ width="75" }
+-   __OSD-XMB__![nonsas-ext_pic][non-sas-ext]{ width="75" }
 
     ---
 
@@ -130,7 +130,7 @@ hide:
         `D-PAD UP` when the PS2BBL logo appears.
 
 
--   __PSBBN DEP__![nonsas-ext_pic](../assets/badges/NOTSASCOMPLIANTEXTLINK.png){ width="75" }
+-   __PSBBN DEP__![nonsas-ext_pic][non-sas-ext]{ width="75" }
 
     ---
 
@@ -142,7 +142,7 @@ hide:
 
 
 
--   __XEB+__![nonsas-ext_pic](../assets/badges/NOTSASCOMPLIANTEXTLINK.png){ width="75" }
+-   __XEB+__![nonsas-ext_pic][non-sas-ext]{ width="75" }
 
     ---
 
@@ -154,7 +154,7 @@ hide:
 
     [:octicons-link-external-16:: XEB+](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
 
-    [:material-cloud-download: XEB+ USB folder](../assets/NON-SAS/XEBPLUS.zip) Place above contents in this folder and place at root of USB.
+    [:material-cloud-download: XEB+ USB folder](https://downloads.ps2homebrewstore.com/NON-SAS/XEBPLUS.zip) Place above contents in this folder and place at root of USB.
 
     [:octicons-link-external-16: XEB+ Neutrino Loader plugin by Sync On Luma](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin)
 
@@ -165,3 +165,24 @@ hide:
     
 
 </div>
+
+[sas-psu]: ../assets/badges/SASPSU.png
+[sas-zip]: ../assets/badges/SASZIP.png
+[sas-7z]: ../assets/badges/SAS7Z.png
+[sas-7zip]: ../assets/badges/SAS7ZIP.png
+[sas-rar]: ../assets/badges/SASRAR.png
+[sas-ext]: ../assets/badges/SASEXTLINK.png
+
+[non-sas-psu]: ../assets/badges/NOTSASCOMPLIANTPSU.png
+[non-sas-zip]: ../assets/badges/NOTSASCOMPLIANTZIP.png
+[non-sas-7z]: ../assets/badges/NOTSASCOMPLIANT7Z.png
+[non-sas-7zip]: ../assets/badges/NOTSASCOMPLIANT7ZIP.png
+[non-sas-rar]: ../assets/badges/NOTSASCOMPLIANTRAR.png
+[non-sas-ext]: ../assets/badges/NOTSASCOMPLIANTEXTLINK.png
+
+[umcs-psu]: ../assets/badges/UMCSPSU.png
+[umcs-zip]: ../assets/badges/UMCS7ZIP.png
+[umcs-7z:]: ../assets/badges/UMCS7Z.png
+[umcs-7zip]: ../assets/badges/UMCS7ZIP.png
+[umcs-rar]: ../assets/badges/UMCSRAR.png
+[umcs-ext]: ../assets/badges/UMCSEXTLINK.png

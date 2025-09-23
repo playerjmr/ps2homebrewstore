@@ -12,7 +12,7 @@ hide:
 
 
 
--   __HDD Tester__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+-   __HDD Tester__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -20,10 +20,10 @@ hide:
 
     Speed test tool for internal HDD/SSD
 
-    [:material-cloud-download: HDD Tester](../assets/SAVE-APPLICATION-SYSTEM/DST_HDDTESTER.psu)
+    [:material-cloud-download: HDD Tester](https://downloads.ps2homebrewstore.com/SAS/DST_HDDTESTER.psu)
 
 
--   __Mechacon Crash Tester__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+-   __Mechacon Crash Tester__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -31,10 +31,10 @@ hide:
 
     Test for SCPH-37K to SCPH-70K to inform if a [PICFIX](https://ps2modchiptutorials.com/misc/picfix/) or PICFIXv2 is needed to save lazer upon DSP crash.
 
-    [:material-cloud-download: Mechacon Crash Tester](../assets/SAVE-APPLICATION-SYSTEM/DST_MECHACON-CRASH-TESTER.psu)
+    [:material-cloud-download: Mechacon Crash Tester](https://downloads.ps2homebrewstore.com/SAS/DST_MECHACON-CRASH-TESTER.psu)
 
 
--   __Pad Test__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+-   __Pad Test__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -42,7 +42,7 @@ hide:
 
     Test your controller(s)
 
-    [:material-cloud-download: Pad Test](../assets/SAVE-APPLICATION-SYSTEM/DST_PADTEST.psu)
+    [:material-cloud-download: Pad Test](https://downloads.ps2homebrewstore.com/SAS/DST_PADTEST.psu)
 
 
 -   __Controller Test__![non-sas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="75" }
@@ -54,11 +54,10 @@ hide:
     Nice gui to test your controller
 
     [:material-cloud-download: Pad Test](https://downloads.ps2homebrewstore.com/NON-SAS/DST_CONTROLLER.zip)  
-    Extract zip to `mass:/APPS/`  
-    Unable to run from MemCard
+    Extract zip to `mass:/APPS/`
 
 
--   __PS2 RDRAM Test__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+-   __PS2 RDRAM Test__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -66,10 +65,10 @@ hide:
 
     Test a PS2's RDRAM for faults.
 
-    [:material-cloud-download: PS2 RDRAM Test](../assets/SAVE-APPLICATION-SYSTEM/DST_PS2-RDRAMTEST.psu)
+    [:material-cloud-download: PS2 RDRAM Test](https://downloads.ps2homebrewstore.com/SAS/DST_PS2-RDRAMTEST.psu)
 
 
--   __PS2 Temps__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+-   __PS2 Temps__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -77,10 +76,10 @@ hide:
 
     Show your consoles temperature, SCPH-50K and later.
 
-    [:material-cloud-download: PS2 Temps](../assets/SAVE-APPLICATION-SYSTEM/DST_PS2TEMPS.psu)
+    [:material-cloud-download: PS2 Temps](https://downloads.ps2homebrewstore.com/SAS/DST_PS2TEMPS.psu)
 
 
--   __ROM Version Checker__![sas-psu_pic](../assets/badges/SASPSU.png){ width="75" }
+-   __ROM Version Checker__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -88,7 +87,28 @@ hide:
 
     Check if a PS2 supports: System Updates, MechaPwn, ProtoPwn
 
-    [:material-cloud-download: ROM Version Checker](../assets/SAVE-APPLICATION-SYSTEM/DST_ROMVERCHK.psu)
+    [:material-cloud-download: ROM Version Checker](https://downloads.ps2homebrewstore.com/SAS/DST_ROMVERCHK.psu)
 
 
 </div>
+
+[sas-psu]: ../assets/badges/SASPSU.png
+[sas-zip]: ../assets/badges/SASZIP.png
+[sas-7z]: ../assets/badges/SAS7Z.png
+[sas-7zip]: ../assets/badges/SAS7ZIP.png
+[sas-rar]: ../assets/badges/SASRAR.png
+[sas-ext]: ../assets/badges/SASEXTLINK.png
+
+[non-sas-psu]: ../assets/badges/NOTSASCOMPLIANTPSU.png
+[non-sas-zip]: ../assets/badges/NOTSASCOMPLIANTZIP.png
+[non-sas-7z]: ../assets/badges/NOTSASCOMPLIANT7Z.png
+[non-sas-7zip]: ../assets/badges/NOTSASCOMPLIANT7ZIP.png
+[non-sas-rar]: ../assets/badges/NOTSASCOMPLIANTRAR.png
+[non-sas-ext]: ../assets/badges/NOTSASCOMPLIANTEXTLINK.png
+
+[umcs-psu]: ../assets/badges/UMCSPSU.png
+[umcs-zip]: ../assets/badges/UMCS7ZIP.png
+[umcs-7z:]: ../assets/badges/UMCS7Z.png
+[umcs-7zip]: ../assets/badges/UMCS7ZIP.png
+[umcs-rar]: ../assets/badges/UMCSRAR.png
+[umcs-ext]: ../assets/badges/UMCSEXTLINK.png
