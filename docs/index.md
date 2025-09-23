@@ -45,7 +45,7 @@ hide:
 
 ##  Hotkeys
 
-???+ tip "Hotkeys"
+???- tip "Hotkeys"
 
     During the PS2BBL logo, you have 4 seconds to activate run these options. On some like R1, it will go down the list till one is found, else exit to OSDSYS.
 
