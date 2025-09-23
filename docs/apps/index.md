@@ -56,8 +56,10 @@ hide:
 
     ---
 
-    Incoming....
-    
+    Incoming....broken link for now
+
+    [:material-cloud-download: ESR Launcher](https://downloads.ps2homebrewstore.com/SAS/APP_ESR-LAUNCHER.psu)  
+
 
 -   __Graphics Synthesizer Mode__![sas-psu_pic][sas-psu]{ width="75" }
 
