@@ -28,10 +28,6 @@ hide:
     [:material-cloud-download: OPL 1.2.0 Beta 2049](https://downloads.ps2store.com/SAS/APP_OPL/APP_OPL120B2049GID.psu)  
     SMB, APA, Fat32, ExFat, NBD
 
-    !!! tip "PS2BBL hotkey"
-
-        `R2` when the PS2BBL logo appears
-
 
 -   __OPL Previous Stable Builds__![sas-psu_pic][sas-psu]{ width="75" }
 
@@ -70,10 +66,6 @@ hide:
 
     [:material-cloud-download: uOPL Betrayal](https://downloads.ps2store.com/SAS/APP_OPL/APP_UOPL-BETRAYAL.psu) 
 
-    !!! tip "PS2BBL hotkey"
-
-        `R2` when the PS2BBL logo appears
-
 
 -   __NHDDL__![sas-psu_pic][sas-psu]{ width="75" }
 
@@ -88,10 +80,6 @@ hide:
     [:material-file-document: Documentation](https://github.com/pcm720/nhddl)
 
     [:material-cloud-download: NHDDL](https://downloads.ps2homebrewstore.com/SAS/APP_NHDDL.psu)
-
-    !!! tip "PS2BBL hotkey"
-
-        `R1` when the PS2BBL logo appears
 
 
 -   __Neutrino__![nonsas-zip_pic][non-sas-zip]{ width="75" }
@@ -111,7 +99,7 @@ hide:
     [:material-cloud-download: Neutrino](https://downloads.ps2homebrewstore.com/NON-SAS/NEUTRINO.zip)
 
 
--   __OSD-XMB__![nonsas-ext_pic][non-sas-ext]{ width="75" }
+-   __OSD-XMB__![nonsas-zip][non-sas-zip]{ width="75" }
 
     ---
 
@@ -121,13 +109,12 @@ hide:
 
     Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, MMCE, MX4SIO
 
-    This app cannot be packaged as a PSU due to subfolders. 
+    [:material-cloud-download: APP_OSDXMB](https://downloads.ps2homebrewstore.com/SAS/APP_OSDXMB.psu)  
+    PSU paste to root of Memory Card  
+    Edit `mc?:/APP-OSDXMB/athena.ini` as needed
 
-    [:octicons-link-external-16: OSD-XMB](https://github.com/HiroTex/OSD-XMB)
-
-    !!! tip "PS2BBL hotkey"
-
-        `D-PAD UP` when the PS2BBL logo appears.
+    [:material-cloud-download: OSDXMB](https://downloads.ps2homebrewstore.com/NON-SAS/OSDXMB.zip)  
+    Unzip to root of USB or MMCE SD Card.
 
 
 -   __PSBBN DEP__![nonsas-ext_pic][non-sas-ext]{ width="75" }
@@ -157,10 +144,6 @@ hide:
     [:material-cloud-download: XEB+ USB folder](https://downloads.ps2homebrewstore.com/NON-SAS/XEBPLUS.zip) Place above contents in this folder and place at root of USB.
 
     [:octicons-link-external-16: XEB+ Neutrino Loader plugin by Sync On Luma](https://github.com/sync-on-luma/xebplus-neutrino-loader-plugin)
-
-    !!! tip "PS2BBL hotkey"
-    
-        `D-PAD DOWN` when the PS2BBL logo appears.
 
     
 

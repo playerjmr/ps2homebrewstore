@@ -56,7 +56,9 @@ hide:
 
     ---
 
-    Incoming....broken link for now
+    [![esr-launcher_Pic](assets/esr-launcher.png)](https://www.psx-place.com/resources/esr-launcher.1526/)
+
+    GUI to launch ESR patched discs.
 
     [:material-cloud-download: ESR Launcher](https://downloads.ps2homebrewstore.com/SAS/APP_ESR-LAUNCHER.psu)  
 
