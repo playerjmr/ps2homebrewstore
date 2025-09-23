@@ -23,3 +23,4 @@
 *[GUI]: Graphical User Interface
 *[UI]: User Interface
 *[AIO]: All-In-One
+*[MCP2]: MemCard PRO2
