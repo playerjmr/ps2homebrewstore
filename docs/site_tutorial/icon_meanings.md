@@ -81,6 +81,9 @@ glightbox: true
         Variants: `Green - Copy` `Red - Delete`
 
 
+-   
+
+
 </div>
 
 
@@ -144,6 +147,8 @@ glightbox: true
     !!! info "Mini Command Prompt"
 
         Debugging application
+
+-   
 
 
 </div>

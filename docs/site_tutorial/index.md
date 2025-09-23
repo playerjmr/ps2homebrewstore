@@ -14,7 +14,7 @@ __SAS Applications include:__
 
 - [Memory Card icons](icon_meanings) for visual indicator as to apps purpose and critical status to your boot environment. 
 
-- title.cfg for other apps such as OPL,OSD-XMB and PSBBN DEP to list apps to run without user intervention.
+- title.cfg for other apps such as OSDMenu, OPL, OSD-XMB and PSBBN DEP to list apps to run without user intervention.
 
 - Prefix such as `APP_OPL` (Application)) or `DST_ROMVERCHK` (Diagnostic Service Tool) for ease of navigating in wLE ISR exFAT, and to allow other apps that don't rely on title.cfg to boot such app like OSDMenu allows user to run app from the MC Browser.
 
