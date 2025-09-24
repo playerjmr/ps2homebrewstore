@@ -60,7 +60,7 @@ hide:
 
     ---
 
-    ![ogmc_Pic](assets/og-mc.png)
+    [![ogmc_Pic](assets/og-mc.png)](https://www.psx-place.com/resources/original-card-test.1504/)
 
     Test that attempts to determine if your card is original and passess the correct MagicGate tests.
 
