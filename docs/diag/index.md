@@ -45,7 +45,7 @@ hide:
     [:material-cloud-download: Pad Test](https://downloads.ps2homebrewstore.com/SAS/DST_PADTEST.psu)
 
 
--   __Controller Test__![non-sas-zip_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="75" }
+-   __Controller Test__![non-sas-zip_pic][non-sas-zip]{ width="75" }
 
     ---
 
@@ -55,6 +55,16 @@ hide:
 
     [:material-cloud-download: Pad Test](https://downloads.ps2homebrewstore.com/NON-SAS/DST_CONTROLLER.zip)  
     Extract zip to `mass:/APPS/`
+
+-   __Original MemCard Test__![sas-psu][sas-psu]{ width="75" }
+
+    ---
+
+    ![ogmc_Pic](assets/og-mc.png)
+
+    Test that attempts to determine if your card is original and passess the correct MagicGate tests.
+
+    [:material-cloud-download: Original MemCard Test](https://downloads.ps2homebrewstore.com/SAS/DST_OG-MEMCARD-TEST.psu)  
 
 
 -   __PS2 RDRAM Test__![sas-psu_pic][sas-psu]{ width="75" }
