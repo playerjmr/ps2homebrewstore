@@ -10,7 +10,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __OPL 1.2.0 Betas__![sas-psu_pic][sas-psu]{ width="75" }
+-   __OPL 1.2.0 Betas__![sascompat][sas-compat]{ width="60" }![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -19,7 +19,7 @@ hide:
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD.  
     These extract to `APP_OPL`
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2241](https://downloads.ps2store.com/SAS/APP_OPL/APP_OPL120B2241.psu) RECOMMENDED  
+    [:material-cloud-download: OPL 1.2.0 Beta 2241](https://downloads.ps2store.com/SAS/APP_OPL/APP_OPL120B2241.psu) __RECOMMENDED__  
     MMCE, SMB, APA, Fat32, ExFat, NBD
 
     [:material-cloud-download: OPL 1.2.0 Beta 2212](https://downloads.ps2store.com/SAS/APP_OPL/APP_OPL120B2212.psu)  
@@ -99,7 +99,7 @@ hide:
     [:material-cloud-download: Neutrino](https://downloads.ps2homebrewstore.com/NON-SAS/NEUTRINO.zip)
 
 
--   __OSD-XMB__![nonsas-zip][non-sas-zip]{ width="75" }
+-   __OSD-XMB__![sascompat][sas-compat]{ width="60" }![nonsas-zip][non-sas-zip]{ width="75" }
 
     ---
 
@@ -117,7 +117,7 @@ hide:
     Unzip to root of USB or MMCE SD Card.
 
 
--   __PSBBN DEP__![nonsas-ext_pic][non-sas-ext]{ width="75" }
+-   __PSBBN DEP__![sascompat][sas-compat]{ width="60" }![nonsas-ext_pic][non-sas-ext]{ width="75" }
 
     ---
 
@@ -169,3 +169,5 @@ hide:
 [umcs-7zip]: ../assets/badges/UMCS7ZIP.png
 [umcs-rar]: ../assets/badges/UMCSRAR.png
 [umcs-ext]: ../assets/badges/UMCSEXTLINK.png
+
+[sas-compat]: ../assets/badges/sascompatible.png

@@ -227,7 +227,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   __OSDMenu__![sas-psu_pic][sas-psu]{ width="75" }
+-   __OSDMenu__![sascompat][sas-compat]{ width="60" }![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -329,3 +329,5 @@ hide:
 [umcs-7zip]: ../assets/badges/UMCS7ZIP.png
 [umcs-rar]: ../assets/badges/UMCSRAR.png
 [umcs-ext]: ../assets/badges/UMCSEXTLINK.png
+
+[sas-compat]: ../assets/badges/sascompatible.png
