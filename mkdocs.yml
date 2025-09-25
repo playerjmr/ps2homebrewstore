@@ -28,6 +28,7 @@ theme:
         icon: material/brightness-3
         name: Switch to light mode
   features:
+    - announce.dismiss
     - search.suggest
     - search.highlight
     - search.share
