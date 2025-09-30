@@ -24,3 +24,5 @@
 *[UI]: User Interface
 *[AIO]: All-In-One
 *[MCP2]: MemCard PRO2
+*[wLE]: double u LaunchELF
+*[uLE]: uLaunchELF
