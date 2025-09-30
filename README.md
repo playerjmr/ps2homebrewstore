@@ -1,5 +1,13 @@
 ## Contributing
 
+Made with [Material for MKDocs](https://squidfunk.github.io/mkdocs-material/)
+
+Downloads hosted at https://downloads.ps2homebrewstore.com which is Cloudflare R2. Right now only main web-dev has access to upload and maintain. 
+
+To help with the project, you may reach R3Z3N the webdev on [Discord](https://discord.com/users/693253444059791440)
+
+Uploads need to be verified so SAS/UMCS team can approve, hence why Cloudflare R2 does not yet have a pulbic bucket.
+
 ### Dependencies
 
 This project requires [python and pip](https://www.python.org/).
