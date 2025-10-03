@@ -19,13 +19,13 @@ hide:
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD.  
     These extract to `APP_OPL`
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2241](https://downloads.ps2store.com/SAS/APP_OPL/APP_OPL120B2241.psu) __RECOMMENDED__  
+    [:material-cloud-download: OPL 1.2.0 Beta 2241](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2241.psu) __RECOMMENDED__  
     MMCE, SMB, APA, Fat32, ExFat, NBD
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2212](https://downloads.ps2store.com/SAS/APP_OPL/APP_OPL120B2212.psu)  
+    [:material-cloud-download: OPL 1.2.0 Beta 2212](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2212.psu)  
     SMB, APA, Fat32, ExFat, NBD
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2049](https://downloads.ps2store.com/SAS/APP_OPL/APP_OPL120B2049GID.psu)  
+    [:material-cloud-download: OPL 1.2.0 Beta 2049](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2049GID.psu)  
     SMB, APA, Fat32, ExFat, NBD
 
 
@@ -62,9 +62,9 @@ hide:
     Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.  
     These extract to `APP_OPL`
 
-    [:material-cloud-download: uOPL](https://downloads.ps2store.com/SAS/APP_OPL/APP_UOPL.psu)
+    [:material-cloud-download: uOPL](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_UOPL.psu)
 
-    [:material-cloud-download: uOPL Betrayal](https://downloads.ps2store.com/SAS/APP_OPL/APP_UOPL-BETRAYAL.psu) 
+    [:material-cloud-download: uOPL Betrayal](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_UOPL-BETRAYAL.psu) 
 
 
 -   __NHDDL__![sas-psu_pic][sas-psu]{ width="75" }
