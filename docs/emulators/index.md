@@ -39,9 +39,9 @@ hide:
 
     A port of PicoDrive for the PS2
 
-    [:material-cloud-download: PicoDrive 2.05](https://downloads.ps2homebrewstore.com/SAS/EMU_PICODRIVE/EMU_PICODRIVE205/)
+    [:material-cloud-download: PicoDrive 2.05](https://downloads.ps2homebrewstore.com/SAS/EMU_PICODRIVE/EMU_PICODRIVE205.psu)
 
-    [:material-cloud-download: PicoDrive 1.51B](https://downloads.ps2homebrewstore.com/SAS/EMU_PICODRIVE/EMU_PICODRIVE151B/)
+    [:material-cloud-download: PicoDrive 1.51B](https://downloads.ps2homebrewstore.com/SAS/EMU_PICODRIVE/EMU_PICODRIVE151B.psu)
 
 -   __RETROLauncher__![non-sas-ext_pic](../assets/badges/NOTSASCOMPLIANTZIP.png){ width="75" }
 
@@ -63,7 +63,7 @@ hide:
 
     Original Xbox Emulator for the PS2.
 
-    [:material-cloud-download: XB2PS2](https://downloads.ps2homebrewstore.com/SAS/EMU_X2PMC.psu)
+    [:material-cloud-download: XB2PS2](https://downloads.ps2homebrewstore.com/SAS/EMU_X2P.psu)
 
 
 
