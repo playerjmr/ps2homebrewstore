@@ -16,7 +16,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
 !!! tip "RESCUE.ELF"
 
-    Download and Rename [wLE ISR exFAT](https://israpps.github.io/projects/wlaunchelf-isr) to `RESCUE.ELF` and place at root of USB stick.
+    Download and rename [wLE ISR exFAT](https://israpps.github.io/projects/wlaunchelf-isr) to `RESCUE.ELF` and place at root of USB stick.
 
 <div class="grid cards" markdown>
 
