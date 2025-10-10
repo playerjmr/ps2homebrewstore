@@ -10,7 +10,7 @@ hide:
 
 [:simple-hackaday: __Exploits:__ SoftMod your PS2!](exploits){ .md-button .md-button--stretch }
 
-[:fontawesome-solid-compact-disc: __Loaders:__ Play games in ISO format](loaders){ .md-button .md-button--stretch }
+[:fontawesome-solid-compact-disc: __Loaders:__ Play game backups](loaders){ .md-button .md-button--stretch }
 
 [:material-toolbox: __Applications:__ Non-loader apps](apps){ .md-button .md-button--stretch }
 
@@ -21,6 +21,8 @@ hide:
 [:material-heart-pulse: __Diagnostics:__ Discover problems](diag){ .md-button .md-button--stretch }
 
 [:simple-builtbybit: __UMCS:__ Default Setup Files](umcs){ .md-button .md-button--stretch }
+
+[:fontawesome-solid-computer: __PC Tools:__ Manage your setup](pc-tools){ .md-button .md-button--stretch }
 
 </div>
 
