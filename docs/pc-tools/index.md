@@ -48,7 +48,9 @@ hide:
 
     ---
 
-    Screenshot here...need to upload and provide app
+    ![mymc++advanced_pic](assets/mymc++advancedgui.png)
+
+    NEED TO UPLOAD....in progress
 
     Fork of MyMC++ that has more features to manager VMCs.
 
@@ -57,9 +59,13 @@ hide:
 
     ---
 
-    Screenshot here...need to upload and provide archive
+    ![ps2savearchive_pic](assets/ps2savearchive.png)
+
+    NEED TO UPLOAD....in progress
 
     Syntax X assembled the largest game save archive and started on a GUI. This is a WIP, if anyone wants to continue please reach out!
+
+    For example a search and export/import feature would be ideal!
 
 -   __OPL Server__
 
