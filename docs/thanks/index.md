@@ -110,9 +110,9 @@ hide:
 
 !!! danger "No Thanks to:"
 
-    TnA Plastic of r/PS2Homebrew, psx-place.com and PS2 Scene Discord due to his atrocious behavior.
+    __TnA Plastic__ of _r/PS2Homebrew_, _psx-place.com_ and _PS2 Scene_ Discord due to his atrocious behavior.
 
-    While TnA did have a vision for SAS/UMCS there was no ACTUAL work done by him which is par for the course over almost 2 decades. There is no "invention" by him, but rather others building the vision. TnA...fuck off. The best you do is "news" where it be better to let the devs actually annouce stuff, and you should remove ANY mention of __"we"__...because there is no "we" when you contributed no actual work.
+    While TnA (also known as Plastic elsewhere, or TnA Plastic) did have a vision for SAS/UMCS there was no ACTUAL work done by him which is par for the course over almost 2 decades. There is no "invention" by him, but rather others building the vision. TnA...fuck off. The best you do is "news" where it be better to let the devs actually annouce stuff, and you should remove ANY mention of __"we"__...because there is no "we" when you contributed no actual work.
 
     This message will remain until TnA is no longer a mod/admin/server of ANYTHING PS2 related. He has already been kicked from r/PS2 for harassement and his disgusting behavior.
 
