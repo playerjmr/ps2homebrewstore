@@ -4,16 +4,12 @@ hide:
   - toc
 ---
 
-[mmcedownloads test][1]
 
-[mmcedownloads test public][2]
-
-[1]: https://2cc09d4c1171534194a27c7cd76c3a74.r2.cloudflarestorage.com/ps2store-downloads/MMCE-ALL.7z
-
-[2]: https://pub-40f4eac5156546b5abd89a118c8be838.r2.dev/MMCE-ALL.7z
 
 
 ## When is PS2BBL's config called?
+
+Different optons to present user. This page is not linked on website yet as I figure out best how to present to the end user.
 
 ### Option 1
 
