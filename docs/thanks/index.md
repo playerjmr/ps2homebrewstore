@@ -30,7 +30,7 @@ hide:
 [ripto]: https://github.com/NathanNeurotic
 [yornn]: https://github.com/mcoirault
 [korax]: https://github.com/koraxial
-[berion]: https://www.psx-place.com/members/berion.1431/
+[berion]: https://www.psx-place.com/members/berion.1431/#resources
 [krahjohlito]: https://github.com/KrahJohlito
 [pcm720]: https://github.com/pcm720
 [hirotex]: https://github.com/HiroTex
@@ -39,7 +39,7 @@ hide:
 [bucanero]: https://github.com/bucanero
 [techwritescode]: https://github.com/techwritescode
 [spacecoyote]: https://www.psx-place.com/members/spacecoyote.86651/
-[nuno]: https://www.psx-place.com/members/nuno6573.77367/
+[nuno]: https://github.com/nuno6573?tab=repositories
 [github]: https://github.com/saildot4k/ps2homebrewstore "PS2 Homebrew Store Github"
 [discord]: https://discord.gg/r3frDccRby "PS2 Space Discord"
 
