@@ -18,6 +18,20 @@ hide:
     Manage art and install backups to PS2 APA disk.
 
 
+-   __OPL Server__
+
+    ---
+
+    [![opl-server_pic](assets/oplserver.png)](https://github.com/elmariolo/OPL-Server){:target="_blank" .md-button .md-button--stretch }
+
+    A dedicated Windowws SAMBA (SMBv1 Protocol) Server for OPL
+
+    - OPL SHARE: PS2 (Despite whatever your folder share is named on Windows)
+    - USERNAME: yourcomputerusername
+    - PASSWORD: yourcomputerpassword
+    - PORT: whatever you set in OPL-Server
+
+
 -   __PFS BatchKit Manager__
 
     ---
@@ -41,7 +55,7 @@ hide:
 
     [![mymc++_pic](assets/mymc++.png)](https://github.com/Adubbz/mymcplusplus){:target="_blank" .md-button .md-button--stretch }
 
-    mymc++ is a PlayStation 2 memory card manager for use with .ps2 images created by PCSX2, as well as .mc2 files created by the MemCard PRO2 and .mcd created by SD2PSX
+    MyMC++ is a PlayStation 2 memory card manager for use with .ps2 images created by PCSX2, as well as .mc2 files created by the MemCard PRO2 and .mcd created by SD2PSX
 
 
 -   __MyMC++ Advanced GUI__
@@ -64,22 +78,6 @@ hide:
     Syntax X assembled the largest game save archive and started on a GUI. This is a WIP, if anyone wants to continue please reach out!
 
     For example a search and export/import feature would be ideal!
-
--   __OPL Server__
-
-    ---
-
-    [![opl-server_pic](assets/oplserver.png)](https://github.com/elmariolo/OPL-Server){:target="_blank" .md-button .md-button--stretch }
-
-    A dedicated Windowws SAMBA (SMBv1 Protocol) Server for OPL
-
-    - OPL SHARE: PS2 (Despite whatever your folder share is named on Windows)
-    - USERNAME: yourcomputerusername
-    - PASSWORD: yourcomputerpassword
-    - PORT: whatever you set in OPL-Server
-
-
-
 
 
 </div>
