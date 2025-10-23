@@ -16,7 +16,7 @@
 *[OEM]: Original Equipment Manufacturer
 *[Loader]: ISO loader such as OPL or Neutrino
 *[PS2BBL]: Playstation 2 Basic Bootloader
-*[PSBBN]: Playstation Broadband Network
+*[PSBBN]: PlayStation Broadband Navigator
 *[DEP]: Definitive English Patch
 *[XEB+]: Xtreme Elite Boot Plus
 *[NHDDL]: Neutrino HDD Launcher (Fat32 USB, Exfat USB/HDD, APA, MMCE, iLINK, UDPBD)

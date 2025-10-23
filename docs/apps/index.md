@@ -17,7 +17,7 @@ hide:
 
     [![Apollo-Save-Tool_Pic](assets/apollo.png)](https://github.com/bucanero/apollo-ps2){:target="_blank"}
 
-    Save file manager
+    Apollo Save Tool allows you to download, unlock, patch and resign save-game files directly on your PS2
 
     [:material-cloud-download: Apollo](https://downloads.ps2homebrewstore.com/SAS/APP_APOLLO.psu)
 
@@ -80,7 +80,7 @@ hide:
 
     [![kernel-loader_Pic](assets/kernel-loader.png)](https://kernelloader.sourceforge.net/linux.html){:target="_blank"}
 
-    Kernelloader is a bootloader for PS2 Linux and other PS2 operating systems.
+    Kernel Loader is a bootloader for PS2 Linux and other PS2 operating systems.
 
     [:material-cloud-download: Kernel Loader](https://downloads.ps2homebrewstore.com/SAS/RTE_KERNELLDR3/psu)
 

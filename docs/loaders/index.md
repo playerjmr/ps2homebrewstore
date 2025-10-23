@@ -57,7 +57,7 @@ hide:
 
     [![uOPL_Pic](assets/uopl.png)](https://github.com/NathanNeurotic/uOPL){:target="_blank"}
 
-    KrahJohnlitos last ditch attempt to make OPL great again! 
+    KrahJohlito's last ditch attempt to make OPL great again! 
 
     Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.  
     These extract to `APP_OPL`
@@ -74,8 +74,6 @@ hide:
     [![NHDDL_Pic](assets/nhddl.png)](https://github.com/pcm720/nhddl){:target="_blank"}
 
     Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
-
-    PS2BBL hotkey pre-configured: `R1`
 
     [:material-file-document: Documentation](https://github.com/pcm720/nhddl)
 
@@ -123,7 +121,7 @@ hide:
 
     [![PSBBN_Pic](assets/psbbn-dep.png)](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch){:target="_blank"}
 
-    Playstation BroadBand Network Definitive English Patch brings PSBBN to the modern PS2 age, with ease of install, SAS Support and ISO loading.
+    Playstation BroadBand Navigator Definitive English Patch brings PSBBN to the modern PS2 age, with ease of install, SAS Support and ISO loading.
 
     [:octicons-link-external-16: PSBBN-DEP](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)
 
@@ -135,7 +133,7 @@ hide:
 
     [![XEB+_Pic](assets/xeb.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/){:target="_blank"}
 
-    Fully Lua Scripted dashboard experience that is extensable.
+    Fully Lua scripted dashboard experience that is extensable.
 
     This app cannot be packaged as a PSU due to subfolders and licensing.
 
