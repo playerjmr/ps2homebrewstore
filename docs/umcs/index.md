@@ -69,11 +69,11 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
     [:material-cloud-download: SYS-CONF](https://downloads.ps2homebrewstore.com/SAS/SYS-CONF.psu)
 
     - `mc?:/SYS-CONF/`  
-        Configuration files for the `BOOT` folder other apps that look here.
+        Configuration folder for the `BOOT` folder and other apps that look here.
 
 
     - `mc:/SYS-CONF/PS2BBL.INI / PSXBBL.INI`  
-        PS2BBL's config file. Supports 9 paths.
+        PS2BBL's config file. Supports unlimited paths.
 
 
     - `mc:/SYS-CONF/LAUNCHELF.CNF`  
