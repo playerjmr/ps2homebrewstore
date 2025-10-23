@@ -16,7 +16,7 @@ hide:
 
     ---
 
-    [![HDD-Tester_Pic](assets/hddtester.png)](https://github.com/GrimBrew/PS2HDDTester)
+    [![HDD-Tester_Pic](assets/hddtester.png)](https://github.com/GrimBrew/PS2HDDTester){:target="_blank"}
 
     Speed test tool for internal HDD/SSD
 
@@ -27,7 +27,7 @@ hide:
 
     ---
 
-    [![Mech-Crash-Test_Pic](assets/mechcrashtester.png)](https://ps2modchiptutorials.com/misc/picfix.html)
+    [![Mech-Crash-Test_Pic](assets/mechcrashtester.png)](https://ps2modchiptutorials.com/misc/picfix.html){:target="_blank"}
 
     Test for SCPH-37K to SCPH-70K to inform if a [PICFIX](https://ps2modchiptutorials.com/misc/picfix/) or PICFIXv2 is needed to save lazer upon DSP crash.
 
@@ -38,7 +38,7 @@ hide:
 
     ---
 
-    [![Pad-Test_Pic](assets/padtest.png)](https://www.psx-place.com/resources/ps2-controller-tester-by-jbit.670/)
+    [![Pad-Test_Pic](assets/padtest.png)](https://www.psx-place.com/resources/ps2-controller-tester-by-jbit.670/){:target="_blank"}
 
     Test your controller(s)
 
@@ -49,7 +49,7 @@ hide:
 
     ---
 
-    ![Controller-Test_Pic](assets/controller-tester.png)
+    ![Controller-Test_Pic](assets/controller-tester.png){:target="_blank"}
 
     Nice gui to test your controller
 
@@ -60,7 +60,7 @@ hide:
 
     ---
 
-    [![ogmc_Pic](assets/og-mc.png)](https://www.psx-place.com/resources/original-card-test.1504/)
+    [![ogmc_Pic](assets/og-mc.png)](https://www.psx-place.com/resources/original-card-test.1504/){:target="_blank"}
 
     Test that attempts to determine if your card is original and passess the correct MagicGate tests.
 
@@ -71,7 +71,7 @@ hide:
 
     ---
 
-    [![PS2RDRAMTEST_Pic](assets/ps2rdramtest.png)](https://www.psx-place.com/resources/ps2-rdram-test-by-krat0s.899/)
+    [![PS2RDRAMTEST_Pic](assets/ps2rdramtest.png)](https://www.psx-place.com/resources/ps2-rdram-test-by-krat0s.899/){:target="_blank"}
 
     Test a PS2's RDRAM for faults.
 
@@ -82,7 +82,7 @@ hide:
 
     ---
 
-    [![PS2-Temps_Pic](assets/ps2tesmps.png)](https://www.psx-place.com/threads/ps2temps.27864/)
+    [![PS2-Temps_Pic](assets/ps2tesmps.png)](https://www.psx-place.com/threads/ps2temps.27864/){:target="_blank"}
 
     Show your consoles temperature, SCPH-50K and later.
 
@@ -93,7 +93,7 @@ hide:
 
     ---
 
-    [![ROMVERCHK_Pic](assets/romverchk.png)](https://github.com/SlimPugGamer/ROMVersionChecker/)
+    [![ROMVERCHK_Pic](assets/romverchk.png)](https://github.com/SlimPugGamer/ROMVersionChecker/){:target="_blank"}
 
     Check if a PS2 supports: System Updates, MechaPwn, ProtoPwn
 

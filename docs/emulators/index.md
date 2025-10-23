@@ -13,7 +13,7 @@ hide:
 
     ---
 
-    [![DKWDRV_Pic](assets/dkwdrv.png)](https://github.com/DKWDRV/DKWDRV)
+    [![DKWDRV_Pic](assets/dkwdrv.png)](https://github.com/DKWDRV/DKWDRV){:target="_blank"}
 
     Replacement for the Sony PS1DRV
 
@@ -24,7 +24,7 @@ hide:
 
     ---
 
-    [![POPSLoader_Pic](assets/popsloader.png)](https://www.psx-place.com/resources/popsloader.1396/)
+    [![POPSLoader_Pic](assets/popsloader.png)](https://www.psx-place.com/resources/popsloader.1396/){:target="_blank"}
 
     Customizable POPStarter launcher.
 
@@ -35,7 +35,7 @@ hide:
 
     ---
 
-    [![Picodrive_Pic](assets/picodrive.jpg)](https://github.com/notaz/picodrive)
+    [![Picodrive_Pic](assets/picodrive.jpg)](https://github.com/notaz/picodrive){:target="_blank"}
 
     A port of PicoDrive for the PS2
 
@@ -47,7 +47,7 @@ hide:
 
     ---
 
-    [![retrolauncher_pic](assets/retrolauncher.png)](https://github.com/Spaghetticode-Boon-Tobias/RETROLauncher)
+    [![retrolauncher_pic](assets/retrolauncher.png)](https://github.com/Spaghetticode-Boon-Tobias/RETROLauncher){:target="_blank"}
 
     ROM/ELF/ISO launcher that uses Retroarch, POPStarter, Neutrino, OPL and wLaunchELF ISR for the execution of the games/APPS written in LUA for Enceladus.
 
@@ -59,7 +59,7 @@ hide:
 
     ---
 
-    [![X2P_Pic](assets/x2p.jpg)](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa)
+    [![X2P_Pic](assets/x2p.jpg)](https://github.com/koraxial/Xbox-2-PlayStation-Emulator-AlFa){:target="_blank"}
 
     Original Xbox Emulator for the PS2.
 

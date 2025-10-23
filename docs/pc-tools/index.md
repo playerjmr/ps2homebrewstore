@@ -13,7 +13,7 @@ hide:
 
     ---
 
-    [![opl-manager_pic](https://oplmanager.com/site/img/OPLM_V21.5_01.png)](https://oplmanager.com/site/)
+    [![opl-manager_pic](assets/oplmanager.png)](https://oplmanager.com/site/){:target="_blank" .md-button .md-button--stretch }
 
     Manage art and install backups to PS2 APA disk.
 
@@ -22,7 +22,7 @@ hide:
 
     ---
 
-    [![pfs-batckit_pic](https://camo.githubusercontent.com/f6d64d534f05741a194eee69b9e195716ca3281ebe6fc8caa979c64a7d138c84/68747470733a2f2f692e696d6775722e636f6d2f4f37304e46796e2e706e67)](https://github.com/GDX-X/PFS-BatchKit-Manager)
+    [![pfs-batckit_pic](assets/pfsbatchkitmanager.png)](https://github.com/GDX-X/PFS-BatchKit-Manager){:target="_blank" .md-button .md-button--stretch }
 
     Batch script that allows you to easily manage your PS2/PSX hard drive.
 
@@ -31,7 +31,7 @@ hide:
 
     ---
 
-    [Screenshot here...link only for now](https://github.com/GDX-X/sd2psx-save-converter)
+    [![SD2PSX-Save-Converter_pic](assets/sd2psxsaveconverter.png)](https://github.com/GDX-X/sd2psx-save-converter){:target="_blank" .md-button .md-button--stretch }
 
     This script is useful if you have a lot of saved data and use the Game ID option with your sd2psx or MemCardPRO. It allows you to convert all your saves files to .mcd or .mc2 individually, each with its own Game ID.
 
@@ -39,7 +39,7 @@ hide:
 
     ---
 
-    [![mymc++_pic](https://github.com/Adubbz/mymcplusplus/raw/master/screenshot.png)](https://github.com/Adubbz/mymcplusplus)
+    [![mymc++_pic](assets/mymc++.png)](https://github.com/Adubbz/mymcplusplus){:target="_blank" .md-button .md-button--stretch }
 
     mymc++ is a PlayStation 2 memory card manager for use with .ps2 images created by PCSX2, as well as .mc2 files created by the MemCard PRO2 and .mcd created by SD2PSX
 
@@ -48,7 +48,7 @@ hide:
 
     ---
 
-    ![mymc++advanced_pic](assets/mymc++advancedgui.png)
+    ![mymc++advanced_pic](assets/mymc++advancedgui.png){:target="_blank" .md-button .md-button--stretch }
 
     NEED TO UPLOAD....in progress
 
@@ -59,7 +59,7 @@ hide:
 
     ---
 
-    ![ps2savearchive_pic](assets/ps2savearchive.png)
+    ![ps2savearchive_pic](assets/ps2savearchive.png){:target="_blank" .md-button .md-button--stretch }
 
     NEED TO UPLOAD....in progress
 
@@ -71,7 +71,7 @@ hide:
 
     ---
 
-    [Screenshot here...need to upload and provide archive](https://github.com/elmariolo/OPL-Server)
+    [![opl-server_pic](assets/oplserver.png)](https://github.com/elmariolo/OPL-Server){:target="_blank" .md-button .md-button--stretch }
 
     A dedicated Windowws SAMBA (SMBv1 Protocol) Server for OPL
 

@@ -13,7 +13,7 @@ hide:
 
     ---
 
-    [![Hermes_Pic](assets/hermes.png){ width="450" }](https://www.retroguru.com/hermes/)
+    [![Hermes_Pic](assets/hermes.png){ width="450" }](https://www.retroguru.com/hermes/){:target="_blank"}
 
     A game by Retroguru
 
@@ -23,7 +23,7 @@ hide:
 
     ---
 
-    [![3D](assets/3d-pinball.png){ width="450" }](https://github.com/headshot2017/3dpinball-ps2)
+    [![3D](assets/3d-pinball.png){ width="450" }](https://github.com/headshot2017/3dpinball-ps2){:target="_blank"}
 
     3D Pinball from Windows XP. Note: may or may not work.
 

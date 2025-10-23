@@ -7,23 +7,37 @@ hide:
 
 ## SAS/UMCS Team
 
-<div class="grid cards" markdown>
+<div class="grid buttons" markdown>
 
-- [Ripto][ripto]
-- [korax][korax]
-- [Berion][berion]
-- [SpaceCoyote][spacecoyote]
-- [Yornn][yornn]
-- [KrahJohlito]
-- [nuno6573][nuno]
-- [pcm720][pcm720]
-- [HiroTex][hirotex]
-- [Boon Tobias][boon]
-- [Cosmic Scale][cosmic]
-- [bucanero][bucanero]
-- [techwritescode][techwritescode]
-- 
-- _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][discord] and [:fontawesome-brands-github:{ .pulse }][github]
+[Ripto][ripto]{:target="_blank" .md-button .md-button--stretch }
+
+[korax][korax]{:target="_blank" .md-button .md-button--stretch }
+
+[Berion][berion]{:target="_blank" .md-button .md-button--stretch }
+
+[SpaceCoyote][spacecoyote]{:target="_blank" .md-button .md-button--stretch }
+
+[Yornn][yornn]{:target="_blank" .md-button .md-button--stretch }
+
+[techwritescode][techwritescode]{:target="_blank" .md-button .md-button--stretch }
+
+[KrahJohlito]{:target="_blank" .md-button .md-button--stretch }
+
+[nuno6573][nuno]{:target="_blank" .md-button .md-button--stretch }
+
+[pcm720][pcm720]{:target="_blank" .md-button .md-button--stretch }
+
+[HiroTex][hirotex]{:target="_blank" .md-button .md-button--stretch }
+
+[Boon Tobias][boon]{:target="_blank" .md-button .md-button--stretch }
+
+[Cosmic Scale][cosmic]{:target="_blank" .md-button .md-button--stretch }
+
+[bucanero][bucanero]{:target="_blank" .md-button .md-button--stretch }
+
+[ ](#)
+
+_YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][discord] and [:fontawesome-brands-github:{ .pulse }][github]
 
 </div>
 

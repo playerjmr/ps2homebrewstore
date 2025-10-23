@@ -14,7 +14,7 @@ hide:
 
     ---
 
-    [![OPL-Latest_Pic](assets/opl2025.png)](https://github.com/rickgaiser/Open-PS2-Loader/releases)
+    [![OPL-Latest_Pic](assets/opl2025.png)](https://github.com/ps2homebrew/Open-PS2-Loader){:target="_blank"}
 
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD.  
     These extract to `APP_OPL`
@@ -33,7 +33,7 @@ hide:
 
     ---
 
-    [![OPL-Latest_Pic](assets/opl2025.png)](https://github.com/rickgaiser/Open-PS2-Loader/releases)
+    [![OPL-Latest_Pic](assets/opl2025.png)](https://github.com/ps2homebrew/Open-PS2-Loader){:target="_blank"}
 
     Open PS2 Loader Older Builds. Compatibility ranges with all OPL but provided for games that break on newer versions and vice versa.  
     These extract to `APP_OPL`
@@ -55,7 +55,7 @@ hide:
 
     ---
 
-    [![uOPL_Pic](assets/uopl.png)](https://github.com/NathanNeurotic/uOPL)
+    [![uOPL_Pic](assets/uopl.png)](https://github.com/NathanNeurotic/uOPL){:target="_blank"}
 
     KrahJohnlitos last ditch attempt to make OPL great again! 
 
@@ -71,7 +71,7 @@ hide:
 
     ---
 
-    [![NHDDL_Pic](assets/nhddl.png)](https://github.com/pcm720/nhddl)
+    [![NHDDL_Pic](assets/nhddl.png)](https://github.com/pcm720/nhddl){:target="_blank"}
 
     Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
 
@@ -86,7 +86,7 @@ hide:
 
     ---
 
-    [![Neutrino_Pic](assets/neutrino.png)](https://github.com/rickgaiser/neutrino)
+    [![Neutrino_Pic](assets/neutrino.png)](https://github.com/rickgaiser/neutrino){:target="_blank"}
 
     Neutrino is a small, fast and modular PS2 device emulator. A frontend such as NHDDL, PS2BBN DEP, OSD-XMB, XEB+ or PS2 Link is needed. 
 
@@ -103,7 +103,7 @@ hide:
 
     ---
 
-    [![OSDXMB_Pic](assets/osdxmb.png)](https://github.com/HiroTex/OSD-XMB)
+    [![OSDXMB_Pic](assets/osdxmb.png)](https://github.com/HiroTex/OSD-XMB){:target="_blank"}
 
     GUI resembling the PS3/PSP XMB Style.
 
@@ -121,7 +121,7 @@ hide:
 
     ---
 
-    [![PSBBN_Pic](assets/psbbn-dep.png)](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)
+    [![PSBBN_Pic](assets/psbbn-dep.png)](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch){:target="_blank"}
 
     Playstation BroadBand Network Definitive English Patch brings PSBBN to the modern PS2 age, with ease of install, SAS Support and ISO loading.
 
@@ -133,7 +133,7 @@ hide:
 
     ---
 
-    [![XEB+_Pic](assets/xeb.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/)
+    [![XEB+_Pic](assets/xeb.png)](https://www.psx-place.com/threads/xtremeeliteboot-s-dashboard-special-xmas-showcase.38959/){:target="_blank"}
 
     Fully Lua Scripted dashboard experience that is extensable.
 

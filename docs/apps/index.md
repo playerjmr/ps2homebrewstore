@@ -15,7 +15,7 @@ hide:
 
     ---
 
-    [![Apollo-Save-Tool_Pic](assets/apollo.png)](https://github.com/bucanero/apollo-ps2)
+    [![Apollo-Save-Tool_Pic](assets/apollo.png)](https://github.com/bucanero/apollo-ps2){:target="_blank"}
 
     Save file manager
 
@@ -26,7 +26,7 @@ hide:
 
     ---
 
-    [![Argon_Pic](assets/argon.jpg)](http://sourceforge.net/projects/argon-ps2/)
+    [![Argon_Pic](assets/argon.jpg)](http://sourceforge.net/projects/argon-ps2/){:target="_blank"}
 
     SMS based video player with XMB GUI
 
@@ -38,7 +38,7 @@ hide:
 
     ---
     
-    [![cheat-device_Pic](assets/cheat-device.png)](https://github.com/israpps/CheatDevicePS2)
+    [![cheat-device_Pic](assets/cheat-device.png)](https://github.com/israpps/CheatDevicePS2){:target="_blank"}
 
     Cheat Device is a game enhancer for PS2 games similar to Action Replay, GameShark, and CodeBreaker which supports booting discs and homebrew.
 
@@ -56,7 +56,7 @@ hide:
 
     ---
 
-    [![esr-launcher_Pic](assets/esr-launcher.png)](https://www.psx-place.com/resources/esr-launcher.1526/)
+    [![esr-launcher_Pic](assets/esr-launcher.png)](https://www.psx-place.com/resources/esr-launcher.1526/){:target="_blank"}
 
     GUI to launch ESR patched discs.
 
@@ -67,7 +67,7 @@ hide:
 
     ---
 
-    [![GSM_Pic](assets/gsm.png)](https://www.psx-place.com/resources/graphics-synthesizer-mode-selector-gsm.678/)
+    [![GSM_Pic](assets/gsm.png)](https://www.psx-place.com/resources/graphics-synthesizer-mode-selector-gsm.678/){:target="_blank"}
 
     Hooks into software to output different video modes. Caution: does break apps/games.
 
@@ -78,7 +78,7 @@ hide:
 
     ---
 
-    [![kernel-loader_Pic](assets/kernel-loader.png)](https://kernelloader.sourceforge.net/linux.html)
+    [![kernel-loader_Pic](assets/kernel-loader.png)](https://kernelloader.sourceforge.net/linux.html){:target="_blank"}
 
     Kernelloader is a bootloader for PS2 Linux and other PS2 operating systems.
 
@@ -89,7 +89,7 @@ hide:
 
     ---
 
-    [![SMS_Pic](assets/sms.png)](https://github.com/ps2homebrew/SMS?tab=readme-ov-file)
+    [![SMS_Pic](assets/sms.png)](https://github.com/ps2homebrew/SMS?tab=readme-ov-file){:target="_blank"}
 
     Video Player
 
@@ -100,7 +100,7 @@ hide:
 
     ---
 
-    [![wLE_Pic](assets/wle_isr.png)](https://github.com/israpps/wLaunchELF_ISR)
+    [![wLE_Pic](assets/wle_isr.png)](https://github.com/israpps/wLaunchELF_ISR){:target="_blank"}
 
     File manager with support for multiple devices.  
 
@@ -121,7 +121,7 @@ hide:
 
     ---
 
-    [![wLE_Pic](assets/wle_isr.png)](https://github.com/israpps/wLaunchELF_ISR_HDD)
+    [![wLE_Pic](assets/wle_isr.png)](https://github.com/israpps/wLaunchELF_ISR_HDD){:target="_blank"}
 
     THIS MOD IS INTENDED ONLY FOR APA HEADER INJECTIONS (HDD MANAGER)
 
