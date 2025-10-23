@@ -48,11 +48,9 @@ hide:
 
     ---
 
-    ![mymc++advanced_pic](assets/mymc++advancedgui.png){:target="_blank" .md-button .md-button--stretch }
+    [![mymc++advanced_pic](assets/mymc++advancedgui.png)](https://downloads.ps2homebrewstore.com/MISC/MyMC++AdvancedGUI.zip){:target="_blank" .md-button .md-button--stretch }
 
-    NEED TO UPLOAD....in progress
-
-    Fork of MyMC++ that has more features to manager VMCs.
+    Fork of MyMC++ that has more features to manager VMCs, and is packaged as a Windows excecutable.
 
 
 -   __PS1 and PS2 game save archive WIP__
