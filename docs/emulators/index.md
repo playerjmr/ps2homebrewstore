@@ -17,7 +17,7 @@ hide:
 
     Replacement for the Sony PS1DRV
 
-    [:material-cloud-download: DKWDRV 1.7.6](https://downloads.ps2homebrewstore.com/SAS/PS1_DKWDRV.psu)
+    [:material-cloud-download: DKWDRV 1.7.6f](https://downloads.ps2homebrewstore.com/SAS/PS1_DKWDRV.psu)
 
 
 -   __POPSLoader__![sas-psu_pic][sas-psu]{ width="75" }
