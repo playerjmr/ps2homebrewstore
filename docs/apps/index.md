@@ -82,7 +82,7 @@ hide:
 
     Kernel Loader is a bootloader for PS2 Linux and other PS2 operating systems.
 
-    [:material-cloud-download: Kernel Loader](https://downloads.ps2homebrewstore.com/SAS/RTE_KERNELLDR3/psu)
+    [:material-cloud-download: Kernel Loader](https://downloads.ps2homebrewstore.com/SAS/RTE_KERNELLDR3.psu)
 
 
 -   __Simple Media System (SMS)__![sas-psu_pic][sas-psu]{ width="75" }

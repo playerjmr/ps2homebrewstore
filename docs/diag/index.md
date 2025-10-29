@@ -64,7 +64,7 @@ hide:
 
     Test that attempts to determine if your card is original and passess the correct MagicGate tests.
 
-    [:material-cloud-download: Original MemCard Test](https://downloads.ps2homebrewstore.com/SAS/DST_OG-MEMCARD-TEST.psu)  
+    [:material-cloud-download: Original MemCard Test](https://downloads.ps2homebrewstore.com/SAS/DST_OG-CARD-TEST.psu)  
 
 
 -   __PS2 RDRAM Test__![sas-psu_pic][sas-psu]{ width="75" }
