@@ -71,11 +71,15 @@ hide:
 
     ---
 
-    ![ps2savearchive_pic](assets/ps2savearchive.png){:target="_blank" .md-button .md-button--stretch }
+    !!! warning "LARGE FILE!"
 
-    NEED TO UPLOAD....in progress
+        [![ps2savearchive_pic](assets/ps2savearchive.png)](https://downloads.ps2homebrewstore.com/MISC/PS2-Save-Library.7z){:target="_blank" .md-button .md-button--stretch }
 
-    Syntax X assembled the largest game save archive and started on a GUI. This is a WIP, if anyone wants to continue please reach out!
+        390MB Download which expands to 168GB!
+
+    [Syntax X :fontawesome-brands-discord:{ .pulse }][syntaxx] assembled the largest game save archive and started on a GUI. This is a WIP, if anyone wants to continue development please reach out!
+
+    [syntaxx]: https://discord.com/users/265648646849036288 
 
     For example a search and export/import feature would be ideal!
 
