@@ -22,6 +22,9 @@ hide:
     [:material-cloud-download: OPL 1.2.0 Beta 2241](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2241.psu) __RECOMMENDED__  
     MMCE, SMB, APA, Fat32, ExFat, NBD
 
+    [:material-cloud-download: OPL 1.2.0 Beta 2218](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2218.psu) __RECOMMENDED ALTERNATE__  
+    SMB, APA, Fat32, ExFat USB, NBD
+
     [:material-cloud-download: OPL 1.2.0 Beta 2212](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2212.psu)  
     SMB, APA, Fat32, ExFat, NBD
 
