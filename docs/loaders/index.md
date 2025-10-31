@@ -31,7 +31,8 @@ hide:
     [:material-cloud-download: OPL 1.2.0 Beta 2049](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2049GID.psu)  
     SMB, APA, Fat32, ExFat, NBD
 
-    [:material-cloud-download: OPL 120 Zip Bundle Unique Folder Names ](https://downloads.ps2homebrewstore.com/SAS/OPL_120_UNIQUE.zip) These extract to unique folder names such as `APP_OPL120B2247`. Usefull when you want multiple OPL versions installed. Caution: config files between versions may not be compatible. Hold `START` while booting OPL to NOT load config.
+    [:material-cloud-download: OPL 120 Zip Bundle Unique Folder Names ](https://downloads.ps2homebrewstore.com/SAS/OPL_120_UNIQUE.zip)  
+    These extract to unique folder names such as `APP_OPL120B2247`. Usefull when you want multiple OPL versions installed. Caution: config files between versions may not be compatible. Hold `START` while booting OPL to NOT load config.
 
 
 -   __OPL Previous Stable Builds__![sas-psu_pic][sas-psu]{ width="75" }
@@ -55,7 +56,8 @@ hide:
     
     [:material-cloud-download: OPL 0.5.0 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-050.psu)
 
-    [:material-cloud-download: OPL Stable Zip Bundle Unique Folder Names ](https://downloads.ps2homebrewstore.com/SAS/OPL_STABLE_UNIQUE.zip) These extract to unique folder names such as `APP_OPL-080`. Usefull when you want multiple OPL versions installed. Caution: config files between versions may not be compatible. Hold `START` while booting OPL to NOT load config.
+    [:material-cloud-download: OPL Stable Zip Bundle Unique Folder Names ](https://downloads.ps2homebrewstore.com/SAS/OPL_STABLE_UNIQUE.zip)  
+    These extract to unique folder names such as `APP_OPL-080`. Usefull when you want multiple OPL versions installed. Caution: config files between versions may not be compatible. Hold `START` while booting OPL to NOT load config.
 
 
 -   __Unofficial OPL__![sas-psu_pic][sas-psu]{ width="75" }
