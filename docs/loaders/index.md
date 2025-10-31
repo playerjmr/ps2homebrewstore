@@ -124,9 +124,11 @@ hide:
 
     [![PSBBN_Pic](assets/psbbn-dep.png)](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch){:target="_blank"}
 
-    Playstation BroadBand Navigator Definitive English Patch brings PSBBN to the modern PS2 age, with ease of install, SAS Support and ISO loading.
-
+    Playstation BroadBand Navigator Definitive English Patch brings PSBBN to the modern PS2 age, with ease of install, SAS Support and ISO loading.  
     [:octicons-link-external-16: PSBBN-DEP](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)
+
+    [:material-cloud-download: PSBBN Forwarder](https://downloads.ps2homebrewstore.com/SAS/APP_PSBBN-FOWRARDER.psu) Using PS2BBL HDD as a forwarder, this allows one to launch PSBBN from just about any application.  
+    Unzip to root of Memory Card
 
 
 
