@@ -239,10 +239,7 @@ hide:
     
     Edit `mc?:/SYS-CONF/OSDMENU.CFG` as needed. OSDMenu does not check paths, so everything in config file will be listed.
 
-    [:material-cloud-download: OSDMenu RC4](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU.psu)
-
-    [:material-cloud-download: OSDMenu RC2](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU/SYS_OSDMENU-100RC2.psu) This version is more modchip friendly.
-
+    [:material-cloud-download: OSDMenu RC5 19](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU.psu)
 
 
 -   __FreeMCBoot Decrypted__![sas-psu_pic][sas-psu]{ width="75" }

@@ -19,7 +19,7 @@ hide:
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD.  
     These extract to `APP_OPL`
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2247](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2247.psu) __RECOMMENDED__  
+    [:material-cloud-download: OPL 1.2.0 Beta 2249](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2249.psu) __RECOMMENDED__  
     MMCE, SMB, APA, Fat32, ExFat, NBD
 
     [:material-cloud-download: OPL 1.2.0 Beta 2218](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2218.psu) __RECOMMENDED ALTERNATE__  
