@@ -28,31 +28,33 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: APPS](../assets/SAVE-APPLICATION-SYSTEM/APPS.psu)
 
-    - `mc?:/APPS/`  
+    - __`mc?:/APPS/`__  
         Used by OpenTuna, Funtuna, Funtuna Fork and possibly more apps as hotkeys. Hoping to code out OpenTunas hotkeys and bad hardpaths.
     
 
-    - A great place to put apps that do not have icons and define in your hacked OSDSYS config file because you hate to see corrupted icons in the MemCard Browser!
+    !!! tip "Use cases"
+
+        A great place to put apps that do not have icons and define in your hacked OSDSYS config file because you hate to see corrupted icons in the MemCard Browser!
 
 
 -   __BOOT__![umcs-psu_pic][umcs-psu]{ width="75" }
 
     ---
 
-    ![apps_pic](assets/boot.png)
+    ![boot_pic](assets/boot.png)
 
     [:material-cloud-download: BOOT](../assets/SAVE-APPLICATION-SYSTEM/BOOT.psu), [:material-cloud-download: BOOT MMCE](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu) or [:material-cloud-download: BOOT MX4SIO](../assets/SAVE-APPLICATION-SYSTEM/BOOT-MMCE.psu)
 
-    - `mc?:/BOOT/`  
+    - __`mc?:/BOOT/`__  
         Where exploits look to boot from. 
 
 
-    - `mc?:/BOOT/BOOT.ELF`  
+    - __`mc?:/BOOT/BOOT.ELF`__  
         PS2BBL hotkeys and autoboot. Used to standardize both for all exploit types and apps that look for this path, which allows user to forward to another app using hotkeys. May have additional MMCE or MX4SIO drivers.
 
 
-    - `mc?:/BOOT/BOOT2.ELF`  
-        wLE ISR exFAT file browser / ELF launcher (Triangle during PS2BBL logo)
+    - __`mc?:/BOOT/BOOT2.ELF`__  
+        wLE ISR exFAT file browser / ELF launcher
 
 
     !!! info "Pair the BOOT folder with your exploit"
@@ -68,28 +70,35 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: SYS-CONF](https://downloads.ps2homebrewstore.com/SAS/SYS-CONF.psu)
 
-    - `mc?:/SYS-CONF/`  
+    - __`mc?:/SYS-CONF/`__  
         Configuration folder for the `BOOT` folder and other apps that look here.
 
 
-    - `mc:/SYS-CONF/PS2BBL.INI / PSXBBL.INI`  
+    - __`mc?:/SYS-CONF/PS2BBL.INI` / `PSXBBL.INI`__  
         PS2BBL's config file. Supports unlimited paths.
 
 
-    - `mc:/SYS-CONF/LAUNCHELF.CNF`  
-        wLE ISRs config file
+    - __`mc?:/SYS-CONF/LAUNCHELF.CNF`__  
+        uLE/wLE's config file
 
 
-    - `mc:/SYS-CONF/OSDMENU.CNF`  
+    - __`mc?:/SYS-CONF/OSDMENU.CNF`__  
         OSDMenu's config file
 
 
-    - `mc:/SYS-CONF/FREEMCB.CNF`  
+    - __`mc?:/SYS-CONF/FREEMCB.CNF`__  
         FreeMCBoot's config file
 
-
-    - `mc:/SYS-CONF/IPCONFIG.DAT`  
+    - __`mc?:/SYS-CONF/IPCONFIG.DAT`__  
         Network config shared between many homebrew apps.
+
+    !!! info "BDM Assault and exFAT"
+
+        - __`mc?:/SYS-CONF/USBD.IRX`__ / __`USBHDFSD.IRX`__ 
+            USB drivers adding exFAT support ([BDM Assault][BDM_ASSAULT])  
+        It is highly adviced to use MBR/FAT32 for most homebrew. exFAT is beneficial if USB is used for >4GB ISO's, but USB loading is the absolute worst way to play.
+
+    [BDM_ASSAULT]: https://github.com/israpps/BDMAssault
 
 
 </div>
@@ -134,7 +143,7 @@ graph LR
 
 !!! info "Landing on your hacked OSDSYS of choice:"
 
-    PS2BBL.INI and PSXBBL.INI have already been setup so that minimal config changes are needed if at all. To land on your hacked OSDSYS of choice, install the [OSDMenu/ FMCB Version XXXX](../apps/#system-apps) as needed. If multiple are installed (such as the MMCE AIO downloads), you can delete in order from first to last to land on the desired app. This is especially useful for modchip users as they may not play well or at all with some or all of the OSDSYS such as I believe Mars Pro. In that case, just delete all of the SYS_OSDMENU and SYS_FMCB-XXXX folders. Modchip users may need to disable chip to do so.
+    PS2BBL.INI and PSXBBL.INI are setup so that minimal config changes are needed if at all. To land on your hacked OSDSYS of choice, install the [OSDMenu/ FMCB Version XXXX](../apps/#system-apps) as needed. If multiple are installed (such as the MMCE AIO downloads), you can delete in order from first to last to land on the desired app. This is especially useful for modchip users as they may not play well or at all with some or all of the OSDSYS such as I believe Mars Pro. In that case, just delete all of the SYS_OSDMENU and SYS_FMCB-XXXX folders. Modchip users may need to disable chip to do so.
 
 
 !!! tip "Hotkeys"
