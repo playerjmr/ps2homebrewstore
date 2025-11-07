@@ -94,7 +94,7 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     !!! info "BDM Assault and exFAT"
 
-        - __`mc?:/SYS-CONF/USBD.IRX`__ / __`USBHDFSD.IRX`__ 
+        - __`mc?:/SYS-CONF/USBD.IRX`__ / __`USBHDFSD.IRX`__  
             USB drivers adding exFAT support ([BDM Assault][BDM_ASSAULT])  
         It is highly adviced to use MBR/FAT32 for most homebrew. exFAT is beneficial if USB is used for >4GB ISO's, but USB loading is the absolute worst way to play.
 
