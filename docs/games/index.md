@@ -30,7 +30,7 @@ hide:
     [:material-cloud-download: 3D Pinball Player](https://downloads.ps2homebrewstore.com/SAS/GME_3DPINBALL-PLAYER.psu)  
     PSU Paste to `mc?:/`
 
-    [:material-cloud-download: 3D Pinball Assets](https://downloads.ps2homebrewstore.com/NON-SAS/3DPINBALL.ZIP)  
+    [:material-cloud-download: 3D Pinball Assets](https://downloads.ps2homebrewstore.com/NON-SAS/3DPINBALL.zip)  
     Extract zip to `mass:/APPS/3DPINBALL`
 
 
