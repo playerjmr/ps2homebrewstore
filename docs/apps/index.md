@@ -142,7 +142,7 @@ hide:
 
     ---
 
-    [![wlE-KHN_Pic](assets/ule_khn.png)](https://www.psx-place.com/resources/unofficial-launchelf-khn.1534/)
+    [![wlE-KHN_Pic](assets/ule_khn.png)](https://www.psx-place.com/resources/unofficial-launchelf-khn.1534/){:target="_blank"}
 
     Launch PS1 VCDs via wLE and allows system partitions that start with double underscores to be managed IE `hdd0:/__system`
 
@@ -153,7 +153,7 @@ hide:
 
     ---
 
-    [![wlE_Pic](assets/wle_isr.png)](https://github.com/xfwcfw/uLaunchELF)
+    [![wlE_Pic](assets/wle_isr.png)](https://github.com/xfwcfw/uLaunchELF){:target="_blank"}
 
     wLE fork for PSX allowing reading of `xfrom0:/`  
     [:material-cloud-download: wLE XFW](https://downloads.ps2homebrewstore.com/SAS/APP_WLE-XFW.psu)
@@ -166,7 +166,7 @@ hide:
 
     ---
 
-    [![wlE_Pic](assets/wle_isr.png)](https://web.archive.org/web/20141104153858/http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/)
+    [![wlE_Pic](assets/wle_isr.png)](https://web.archive.org/web/20141104153858/http://psx-scene.com/forums/f113/unofficial-launchelf-v4-42-a-37242/){:target="_blank"}
 
     The original uLaunchElf file manager and ELF launcher from EP and Dlanor. 
 
@@ -178,7 +178,7 @@ hide:
 
     ---
 
-    [![PS2-Link_Pic](assets/ps2link.png)](https://github.com/ps2dev/ps2link)
+    [![PS2-Link_Pic](assets/ps2link.png)](https://github.com/ps2dev/ps2link){:target="_blank"}
 
     Run apps over network, useful for debugging.
 
@@ -191,7 +191,7 @@ hide:
 
     ---
 
-    [![MCA_Pic](assets/mca.png)](https://github.com/ffgriever-pl/Memory-Card-Annihilator)
+    [![MCA_Pic](assets/mca.png)](https://github.com/ffgriever-pl/Memory-Card-Annihilator){:target="_blank"}
 
     Format, Backup and Restore your normal memory cards.
 
@@ -202,7 +202,7 @@ hide:
 
     ---
 
-    [![Power_Pic](assets/poweroff.png)](https://www.psx-place.com/resources/power-off-power-off-elf.349/)
+    [![Power_Pic](assets/poweroff.png)](https://www.psx-place.com/resources/power-off-power-off-elf.349/){:target="_blank"}
 
     Turn off the PS2 console.
 
@@ -213,7 +213,7 @@ hide:
 
     ---
 
-    [![Restart_Pic](assets/restart.png)](https://www.psx-place.com/resources/reboot-reboot-elf.348/)
+    [![Restart_Pic](assets/restart.png)](https://www.psx-place.com/resources/reboot-reboot-elf.348/){:target="_blank"}
 
     Reboot the PS2.
 
@@ -231,7 +231,7 @@ hide:
 
     ---
 
-    [![OSDMenu_Pic](assets/osdmenu.png)](https://github.com/pcm720/OSDMenu)
+    [![OSDMenu_Pic](assets/osdmenu.png)](https://github.com/pcm720/OSDMenu){:target="_blank"}
 
     Hacked OSDSYS like FMCB, however can launch apps from memcard browser as well.
 
@@ -246,7 +246,7 @@ hide:
 
     ---
 
-    [![FMCBD](assets/fmcb.png)](https://israpps.github.io/FreeMcBoot-Installer/)
+    [![FMCBD](assets/fmcb.png)](https://israpps.github.io/FreeMcBoot-Installer/){:target="_blank"}
 
     The Hacked OSDSYS that everyone knows, but is non-extensible and not open-source.
     Supports FAT32/exFAT USB, MemCard, CDROM.  
@@ -272,6 +272,17 @@ hide:
     GUI to modify the FreeMCBoot config file.
 
     [:material-cloud-download: FMCB Configurator](https://downloads.ps2homebrewstore.com/SAS/SYS_FMCB-CFG.psu)
+
+-   __NTPS2__![sas-psu_pic][sas-psu]{ width="75" }
+
+    ---
+
+    [![NTPS2_Pic](assets/ntps2.png)](https://github.com/ShyavanS/NTPS2){:target="_blank"}
+
+     NTP client for the PS2 that sets the date and time from pool.ntp.org.  
+     Network connection required!
+
+    [:material-cloud-download: NTPS2](https://downloads.ps2homebrewstore.com/SAS/SYS_NTPS2.psu)
 
 
 </div>
