@@ -233,13 +233,13 @@ hide:
 
     [![OSDMenu_Pic](assets/osdmenu.png)](https://github.com/pcm720/OSDMenu){:target="_blank"}
 
-    Hacked OSDSYS like FMCB, however can launch apps from memcard browser as well.
+    Hacked OSDSYS like FMCB, however can launch apps from memcard browser, support for RetroGem, modchips. Too much to list! This is the new hotness!
 
     Supports FAT32/exFAT USB, APA/exFAT HDD, MMCE, MX4SIO, MemCard, i.Link, UDPBD, CDROM. 
     
     Edit `mc?:/SYS-CONF/OSDMENU.CFG` as needed. OSDMenu does not check paths, so everything in config file will be listed.
 
-    [:material-cloud-download: OSDMenu RC6 10](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU.psu)
+    [:material-cloud-download: OSDMenu 1.0.0](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU.psu)
 
 
 -   __FreeMCBoot Decrypted__![sas-psu_pic][sas-psu]{ width="75" }
