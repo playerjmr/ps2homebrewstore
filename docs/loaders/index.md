@@ -134,7 +134,7 @@ hide:
     [:octicons-link-external-16: PSBBN-DEP](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)
 
     [:material-cloud-download: PSBBN Forwarder](https://downloads.ps2homebrewstore.com/SAS/APP_PSBBN-FORWARDER.psu) Using PS2BBL HDD as a forwarder, this allows one to launch PSBBN from just about any application.  
-    Unzip to root of Memory Card
+    PSU Paste to root of Memory Card
 
 
 
