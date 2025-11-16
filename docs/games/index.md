@@ -7,7 +7,23 @@ hide:
 
 # Games
 
-<div class="grid cards" markdown> Please contribute some SAS games!
+<div class="grid cards" markdown>
+
+
+
+-   __3D Pinball__![non-sas-zip_pic][non-sas-zip]{ width="75" }
+
+    ---
+
+    [![3D-Pinball_Pic](assets/3d-pinball.png){ width="450" }](https://github.com/headshot2017/3dpinball-ps2){:target="_blank"}
+
+    3D Pinball from Windows XP. Note: may or may not work.
+
+    [:material-cloud-download: 3D Pinball Player](https://downloads.ps2homebrewstore.com/SAS/GME_3DPINBALL-PLAYER.psu)  
+    PSU Paste to `mc?:/`
+
+    [:material-cloud-download: 3D Pinball Assets](https://downloads.ps2homebrewstore.com/NON-SAS/3DPINBALL.zip)  
+    Extract zip to `mass:/APPS/3DPINBALL`
 
 -   __Hermes__![sas-psu_pic][sas-psu]{ width="75" }
 
@@ -19,19 +35,15 @@ hide:
 
     [:material-cloud-download: Hermes](https://downloads.ps2homebrewstore.com/SAS/GME_HERMES.psu)
 
--   __3D Pinball__![non-sas-zip_pic][non-sas-zip]{ width="75" }
+-   __Super Mario 64__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
-    [![3D](assets/3d-pinball.png){ width="450" }](https://github.com/headshot2017/3dpinball-ps2){:target="_blank"}
+    [![SM64_Pic](assets/sm64.png){ width="450" }](https://archive.org/details/super-mario-64-for-ps-2){:target="_blank"}
 
-    3D Pinball from Windows XP. Note: may or may not work.
+    A game by Retroguru
 
-    [:material-cloud-download: 3D Pinball Player](https://downloads.ps2homebrewstore.com/SAS/GME_3DPINBALL-PLAYER.psu)  
-    PSU Paste to `mc?:/`
-
-    [:material-cloud-download: 3D Pinball Assets](https://downloads.ps2homebrewstore.com/NON-SAS/3DPINBALL.zip)  
-    Extract zip to `mass:/APPS/3DPINBALL`
+    [:material-cloud-download: Super Mario 64](https://downloads.ps2homebrewstore.com/SAS/GME_SM64.psu)
 
 
 </div>
