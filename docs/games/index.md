@@ -41,8 +41,6 @@ hide:
 
     [![SM64_Pic](assets/sm64.png){ width="450" }](https://archive.org/details/super-mario-64-for-ps-2){:target="_blank"}
 
-    A game by Retroguru
-
     [:material-cloud-download: Super Mario 64](https://downloads.ps2homebrewstore.com/SAS/GME_SM64.psu)
 
 
