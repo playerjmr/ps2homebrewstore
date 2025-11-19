@@ -39,9 +39,9 @@ hide:
 
     ---
 
-    [![OPL-Latest_Pic](assets/opl2025.png)](https://github.com/ps2homebrew/Open-PS2-Loader){:target="_blank"}
+    [![OPL-Latest_Pic](assets/oplstable.png)](https://github.com/ps2homebrew/Open-PS2-Loader){:target="_blank"}
 
-    Open PS2 Loader Older Builds. Compatibility ranges with all OPL but provided for games that break on newer versions and vice versa.  
+    Open PS2 Loader Older Builds. No MMCE or UDPBD support! Compatibility ranges with all OPL but provided for games that break on newer versions and vice versa.  
     These extract to `APP_OPL`
 
     [:material-cloud-download: OPL 1.1.0 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-110.psu), [:material-cloud-download: OPL 1.0.0 ](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-100.psu)
