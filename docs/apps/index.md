@@ -42,6 +42,8 @@ hide:
 
     Cheat Device is a game enhancer for PS2 games similar to Action Replay, GameShark, and CodeBreaker which supports booting discs and homebrew.
 
+
+    Recommended to download both Forwarder and USB or MMCE downloads:  
     [:material-cloud-download: Cheat Device Forwarder](https://downloads.ps2homebrewstore.com/SAS/APP_CHEATDEVICE-FORWARDER.psu)  
     PSU Paste to MemCard root
 

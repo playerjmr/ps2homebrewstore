@@ -17,7 +17,7 @@ hide:
 
     [![3D-Pinball_Pic](assets/3d-pinball.png){ width="450" }](https://github.com/headshot2017/3dpinball-ps2){:target="_blank"}
 
-    3D Pinball from Windows XP. Note: may or may not work.
+    3D Pinball from Windows XP. Note: may or may not work and both downloads needed.
 
     [:material-cloud-download: 3D Pinball Player](https://downloads.ps2homebrewstore.com/SAS/GME_3DPINBALL-PLAYER.psu)  
     PSU Paste to `mc?:/`
@@ -35,13 +35,19 @@ hide:
 
     [:material-cloud-download: Hermes](https://downloads.ps2homebrewstore.com/SAS/GME_HERMES.psu)
 
--   __Super Mario 64__![sas-psu_pic][sas-psu]{ width="75" }
+-   __Super Mario 64__![sas-psu_pic][sas-psu]{ width="75" } ![sas-zip_pic][sas-zip]{ width="75" }
 
     ---
 
     [![SM64_Pic](assets/sm64.png){ width="450" }](https://archive.org/details/super-mario-64-for-ps-2){:target="_blank"}
 
-    [:material-cloud-download: Super Mario 64](https://downloads.ps2homebrewstore.com/SAS/GME_SM64.psu)
+    [:material-cloud-download: Super Mario 64 PSU](https://downloads.ps2homebrewstore.com/SAS/GME_SM64.psu)  
+    Warning 6.7MB! Please use the download below for USB:
+
+    [:material-cloud-download: Super Mario 64 ZIP](https://downloads.ps2homebrewstore.com/NON-SAS/GME_SM64.zip)  
+    Extract zip to `usb:/APPS/`
+
+
 
 
 </div>

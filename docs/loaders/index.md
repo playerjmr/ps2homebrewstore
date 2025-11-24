@@ -116,6 +116,7 @@ hide:
 
     Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, MMCE, MX4SIO
 
+    Both Downloads needed:  
     [:material-cloud-download: APP_OSDXMB](https://downloads.ps2homebrewstore.com/SAS/APP_OSDXMB.psu)  
     PSU paste to root of Memory Card  
     Edit `mc?:/APP-OSDXMB/athena.ini` as needed
