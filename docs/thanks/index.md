@@ -128,7 +128,7 @@ _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][disc
 
     While TnA (also known as Plastic elsewhere, or TnA Plastic) did have a vision for SAS/UMCS there was no ACTUAL work done by him which is par for the course over almost 2 decades. There is no "invention" by him, but rather others building the vision. TnA...fuck off. The best you do is "news" where it be better to let the devs actually annouce stuff, and you should remove ANY mention of __"we"__...because there is no "we" when you contributed no actual work.
 
-    This message will remain until TnA is no longer a mod/admin/server of ANYTHING PS2 related. He has already been kicked from r/PS2 for harassement and his disgusting behavior.
+    This message will remain until TnA is no longer a mod/admin/server of ANYTHING PS2 related. He has already been kicked from r/PS2 for harassement and his disgusting behavior. Other PS2 related Discord servers have already taken steps and removed his discord server as a "Recommended Server".
 
 [ps2modchiptutorials]: https://ps2modchiptutorials.com "PS2 Modchip Tutorials"
 [consolemods]: https://consolemods.org "Console Mods"
