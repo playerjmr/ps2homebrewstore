@@ -124,7 +124,7 @@ _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][disc
 
 !!! danger "No Thanks to:"
 
-    __TnA Plastic__ of _r/PS2Homebrew_, _psx-place.com_ and _PS2 Scene_ Discord due to his atrocious behavior.
+    __TnA Plastic__ of _r/PS2Homebrew_, _psx-place.com_ and _PS2 Scene_ Discord due to his atrocious behavior silencing anyone that disagrees and harassing those that are trying to learn, especially noobs, muting those poor souls for hours or days and proceeding to shit on those he muted/kicked/banned.
 
     While TnA (also known as Plastic elsewhere, or TnA Plastic) did have a vision for SAS/UMCS there was no ACTUAL work done by him which is par for the course over almost 2 decades. There is no "invention" by him, but rather others building the vision. TnA...fuck off. The best you do is "news" where it be better to let the devs actually annouce stuff, and you should remove ANY mention of __"we"__...because there is no "we" when you contributed no actual work.
 
