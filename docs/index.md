@@ -34,10 +34,10 @@ hide:
 ## Help
 <div class="grid buttons" markdown>
 
-[__:material-help-circle: Icon Meanings:__ What does it mean?](/site_tutorial/icon_meanings){ .md-button .md-button--stretch }
+[__:material-help-circle: Icon Meanings:__ What does it mean?](/site_tutorial/icon_meanings){ .md-button .md-button--lightsteelblue .md-button--stretch }
 
 
-[__:fontawesome-brands-readme: Tutorial:__ How to use this site](/site_tutorial/){ .md-button .md-button--stretch }
+[__:fontawesome-brands-readme: Tutorial:__ How to use this site](/site_tutorial/){ .md-button .md-button--lightsteelblue .md-button--stretch }
 
 
 [__:material-hand-wave: Thanks:__ Pay your respects](/thanks/){ .md-button .md-button--primary .md-button--stretch }
