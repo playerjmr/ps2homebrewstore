@@ -67,6 +67,17 @@ hide:
     [:material-cloud-download: Original MemCard Test](https://downloads.ps2homebrewstore.com/SAS/DST_OG-CARD-TEST.psu)  
 
 
+-   __PS2Ident__![sas-psu_pic][sas-psu]{ width="75" }
+
+    ---
+
+    [![PS2IDEENT_Pic](assets/ps2ident.png)](https://github.com/ps2homebrew/PS2Ident){:target="_blank"}
+
+    Dumps PS2 ROM and MECHACON NVRAM and gathers data from the console for research purposes.
+
+    [:material-cloud-download: PS2Ident](https://downloads.ps2homebrewstore.com/SAS/DST_PS2IDENT.psu)
+
+
 -   __PS2 RDRAM Test__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
