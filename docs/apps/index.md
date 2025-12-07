@@ -186,7 +186,7 @@ hide:
 
     [:material-cloud-download: PS2 Link](https://downloads.ps2homebrewstore.com/SAS/DBG_PS2LINK.psu)
 
-    [:material-cloud-download: PS2 Link HighMem Loading](https://downloads.ps2homebrewstore.com/SAS/DBG_PS2LINK-HILDING.psu)
+    [:material-cloud-download: PS2 Link HighMem Loading](https://downloads.ps2homebrewstore.com/SAS/DBG_PS2LINK-HILOAD.psu)
 
 
 -   __Memory Card Annihilator__![sas-psu_pic][sas-psu]{ width="75" }
