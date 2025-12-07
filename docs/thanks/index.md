@@ -124,11 +124,19 @@ _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][disc
 
 !!! danger "No Thanks to:"
 
-    __TnA Plastic__ of _r/PS2Homebrew_, _psx-place.com_ and _PS2 Scene_ Discord due to his atrocious persecutory behavior silencing anyone that disagrees and harassing those that are trying to learn, especially noobs, muting those poor souls for hours or days and proceeding to shit on those he muted/kicked/banned.
+    __TnA Plastic__ of _r/PS2Homebrew_, _psx-place.com_ and _PS2 Scene_ Discord due to his atrocious persecutory behavior silencing anyone that disagrees and harassing those that are trying to learn, especially noobs, muting those poor souls for hours or days and proceeding to shit on those he muted/kicked/banned.  
 
-    While TnA (aka Plastic and TnA Plastic) did have a vision for SAS/UMCS there was no ACTUAL work done by him which is par for the course over almost 2 decades. There is no "invention" by him, but rather others building the vision. TnA...fuck off. The SAS/UMCS contributers decided to give him a "meadia blackout" as his mere presence in the scene is divisive . There can be no invention by someone that does exactly ZERO work, which is his Modus Operandi.
+    While _TnA_ (aka _Plastic_, _TnA Plastic_) did have a vision for SAS/UMCS there was no ACTUAL work done by him which is par for the course over almost 2 decades. There is no "invention" by him, but rather others building the vision. TnA...fuck off. The SAS/UMCS contributers decided to give him a "media blackout" as his mere presence in the scene is divisive . There can be no invention by someone that does __ZERO__ work, which is his Modus Operandi.  
 
-    This message will remain until TnA is no longer a mod/admin/server of ANYTHING PS2 related. He has already been kicked from r/PS2 for harassement and his disgusting behavior. Other PS2 related Discord servers have already taken steps and removed his discord server as a "Recommended Server".
+    This message will remain until TnA is no longer a mod/admin/server of ANYTHING PS2 related. He has already been kicked as mod and user from multiple places for harassement and his disgusting behavior. Other PS2 related Discord servers have already taken steps and removed his discord server as a "Recommended Server".
+
+    - Reddit: _r/PS2_ - kicked as a moderator
+    
+    - Discord: Perma-Bans
+        - _PSX-Place_ (yet still allowed to be a mod at website!?)
+        - _PS2 Homebrew_
+        - _PS2 Space_
+        - _Consolemods.org_
 
 [ps2modchiptutorials]: https://ps2modchiptutorials.com "PS2 Modchip Tutorials"
 [consolemods]: https://consolemods.org "Console Mods"
