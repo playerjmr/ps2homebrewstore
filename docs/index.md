@@ -8,21 +8,21 @@ hide:
 # Where shall I take you today?
 <div class="grid buttons" markdown>
 
-[:simple-hackaday: __Exploits:__ SoftMod your PS2!](exploits){ .md-button .md-button--stretch }
+[:simple-hackaday: __Exploits:__ SoftMod your PS2!](exploits/index.md){ .md-button .md-button--stretch }
 
-[:fontawesome-solid-compact-disc: __Loaders:__ Play game backups](loaders){ .md-button .md-button--stretch }
+[:fontawesome-solid-compact-disc: __Loaders:__ Play game backups](loaders/index.md){ .md-button .md-button--stretch }
 
-[:material-toolbox: __Applications:__ Non-loader apps](apps){ .md-button .md-button--stretch }
+[:material-toolbox: __Applications:__ Non-loader apps](apps/index.md){ .md-button .md-button--stretch }
 
-[:simple-retropie: __Emulators:__ Play Pre-PS2 games](emulators){ .md-button .md-button--stretch }
+[:simple-retropie: __Emulators:__ Play Pre-PS2 games](emulators/index.md){ .md-button .md-button--stretch }
 
-[:material-controller: __Games:__ Homebrew games](games){ .md-button .md-button--stretch }
+[:material-controller: __Games:__ Homebrew games](games/index.md){ .md-button .md-button--stretch }
 
-[:material-heart-pulse: __Diagnostics:__ Discover problems](diag){ .md-button .md-button--stretch }
+[:material-heart-pulse: __Diagnostics:__ Discover problems](diag/index.md){ .md-button .md-button--stretch }
 
-[:simple-builtbybit: __UMCS:__ Default Setup Files](umcs){ .md-button .md-button--stretch }
+[:simple-builtbybit: __UMCS:__ Default Setup Files](umcs/index.md){ .md-button .md-button--stretch }
 
-[:fontawesome-solid-computer: __PC Tools:__ Manage your setup](pc-tools){ .md-button .md-button--stretch }
+[:fontawesome-solid-computer: __PC Tools:__ Manage your setup](pc-tools/index.md){ .md-button .md-button--stretch }
 
 </div>
 
@@ -34,13 +34,13 @@ hide:
 ## Help
 <div class="grid buttons" markdown>
 
-[__:material-help-circle: Icon Meanings:__ What does it mean?](/site_tutorial/icon_meanings){ .md-button .md-button--lightsteelblue .md-button--stretch }
+[__:material-help-circle: Icon Meanings:__ What does it mean?](site_tutorial/icon_meanings.md){ .md-button .md-button--lightsteelblue .md-button--stretch }
 
 
-[__:fontawesome-brands-readme: Tutorial:__ How to use this site](/site_tutorial/){ .md-button .md-button--lightsteelblue .md-button--stretch }
+[__:fontawesome-brands-readme: Tutorial:__ How to use this site](site_tutorial/index.md){ .md-button .md-button--lightsteelblue .md-button--stretch }
 
 
-[__:material-hand-wave: Thanks:__ Pay your respects](/thanks/){ .md-button .md-button--primary .md-button--stretch }
+[__:material-hand-wave: Thanks:__ Pay your respects](thanks/index.md){ .md-button .md-button--primary .md-button--stretch }
 
 </div>
 

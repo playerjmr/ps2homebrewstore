@@ -228,6 +228,3 @@ graph LR
 
             - Need to edit `mc?:/BOOT/CONFIG.INI` to choose initial landing app or drop down to different hacked OSDSYS
 
-
-
-[^1]: Modchips usually require the BOOT folder to be in Memory Card Slot 1 (`mc0:/BOOT/BOOT.ELF`) such as Matrix Infinity, DMS3/4, Ghost 2 and Modbo/Mars Pro

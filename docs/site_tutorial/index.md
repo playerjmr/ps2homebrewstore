@@ -12,7 +12,7 @@ Otherwise known as `Save Application System`, SAS apps/folders are single direct
 
 __SAS Applications include:__
 
-- [Memory Card icons](icon_meanings) for visual indicator as to apps purpose and critical status to your boot environment. 
+- [Memory Card icons](icon_meanings.md) for visual indicator as to apps purpose and critical status to your boot environment. 
 
 - title.cfg for other apps such as OSDMenu, OPL, OSD-XMB and PSBBN DEP to list apps to run without user intervention.
 
