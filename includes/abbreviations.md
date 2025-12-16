@@ -15,7 +15,6 @@
 *[OPL]: Open PS2 Loader
 *[OEM]: Original Equipment Manufacturer
 *[Loader]: ISO loader such as OPL or Neutrino
-*[PS2BBL]: Playstation 2 Basic Bootloader
 *[PSBBN]: PlayStation Broadband Navigator
 *[DEP]: Definitive English Patch
 *[XEB+]: Xtreme Elite Boot Plus
