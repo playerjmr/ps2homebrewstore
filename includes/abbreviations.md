@@ -25,3 +25,4 @@
 *[MCP2]: MemCard PRO2
 *[wLE]: Double unofficial LaunchELF (versions after uLE 4.42d)
 *[uLE]: unofficial LaunchELF (version 4.42d and prior)
+*[OSDSYS]: On Screen Display System, the default menu you see when booting a PS2

@@ -125,18 +125,17 @@ hide:
     Unzip to root of USB or MMCE SD Card.
 
 
--   __PSBBN DEP__![sascompat][sas-compat]{ width="60" }![nonsas-ext_pic][non-sas-ext]{ width="75" }
+-   __PSBBN DP__![sascompat][sas-compat]{ width="60" }![nonsas-ext_pic][non-sas-ext]{ width="75" }
 
     ---
 
     [![PSBBN_Pic](assets/psbbn-dep.png)](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch){:target="_blank"}
 
-    Playstation BroadBand Navigator Definitive English Patch brings PSBBN to the modern PS2 age, with ease of install, SAS Support and ISO loading.  
+    Playstation BroadBand Navigator Definitive Project brings PSBBN to the modern PS2 age, with ease of install, SAS Support and ISO loading.  
     [:octicons-link-external-16: PSBBN-DEP](https://github.com/CosmicScale/PSBBN-Definitive-English-Patch)
 
     [:material-cloud-download: PSBBN Forwarder](https://downloads.ps2homebrewstore.com/SAS/APP_PSBBN-FORWARDER.psu) Using PS2BBL HDD as a forwarder, this allows one to launch PSBBN from just about any application.  
     PSU Paste to root of Memory Card
-
 
 
 -   __XEB+__![nonsas-ext_pic][non-sas-ext]{ width="75" }
