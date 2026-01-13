@@ -26,9 +26,25 @@ hide:
 
     [![POPSLoader_Pic](assets/popsloader.png)](https://www.psx-place.com/resources/popsloader.1396/){:target="_blank"}
 
-    Customizable POPStarter launcher.
+    Customizable POPStarter launcher with a nice GUI to browse your PS1 collection.  
+    USB & HDD supported.  
+    DOES NOT SUPPORT MMCE/MX4SIO YET!  
+    REQUIRES POPStarter and POPS.  
 
     [:material-cloud-download: POPSLoader](https://downloads.ps2homebrewstore.com/SAS/PS1_POPSLOADER.psu)
+
+
+-   __POPStarter / POPS__![sas-zip_pic][sas-zip]{ width="75" }
+
+    ---
+
+    [![POPStarter_Pic](assets/popstarter.png)](https://web.archive.org/web/20240310050355/https://bitbucket.org/ShaolinAssassin/popstarter-documentation-stuff/wiki/browse/){:target="_blank"}
+
+    Launches POPS with drivers in POPSTARTER folder. Picture above links to archived documentation.
+
+    [:material-cloud-download: POPStarter Zip](https://downloads.ps2homebrewstore.com/SAS/POPSTARTER-CHOICES.zip) with USB exFAT, SMB, MMCE or MX4SIO choices.  
+
+    [:material-cloud-download: POPS Folder](https://downloads.ps2homebrewstore.com/NON-SAS/POPS.zip) Unzip and place at the root of the device you wish to use.
 
 
 -   __PicoDrive__![sas-psu_pic][sas-psu]{ width="75" }
