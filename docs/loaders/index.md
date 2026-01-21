@@ -20,16 +20,20 @@ hide:
     These extract to `APP_OPL`
 
     [:material-cloud-download: OPL 1.2.0 Beta 2249](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2249.psu) __RECOMMENDED__  
-    MMCE, SMB, APA, Fat32, ExFat, NBD
+    MMCE, SMB, APA, Fat32, ExFat, NBD.  
+    __Note: saving config is problematic sometimes, try saving a page of settings at a time.__
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2218](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2218.psu) __RECOMMENDED ALTERNATE__  
-    SMB, APA, Fat32, ExFat USB, NBD
+    [:material-cloud-download: OPL 1.2.0 Beta 2249](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-MMCEB3.psu) __MMCE ALTERNATIVE__  
+    MMCE
+
+    [:material-cloud-download: OPL 1.2.0 Beta 2218](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2218.psu) __RECOMMENDED ALTERNATIVE__  
+    SMB, APA, Fat32, ExFat USB/HDD/MX4SIO, NBD
 
     [:material-cloud-download: OPL 1.2.0 Beta 2212](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2212.psu)  
-    SMB, APA, Fat32, ExFat, NBD
+    SMB, APA, Fat32, ExFat USB/HDD/MX4SIO, NBD
 
     [:material-cloud-download: OPL 1.2.0 Beta 2049](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2049GID.psu)  
-    SMB, APA, Fat32, ExFat, NBD
+    SMB, APA, Fat32, ExFat USB/MX4SIO, NBD
 
     [:material-cloud-download: OPL 120 Zip Bundle Unique Folder Names ](https://downloads.ps2homebrewstore.com/SAS/OPL_120_UNIQUE.zip)  
     These extract to unique folder names such as `APP_OPL120B2247`. Usefull when you want multiple OPL versions installed. Caution: config files between versions may not be compatible. Hold `START` while booting OPL to NOT load config.
