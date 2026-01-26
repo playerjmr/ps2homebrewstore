@@ -137,6 +137,7 @@ _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][disc
         - _PS2 Homebrew_
         - _PS2 Space_
         - _Consolemods.org_
+        - _Athena PS2 System_
 
 [ps2modchiptutorials]: https://ps2modchiptutorials.com "PS2 Modchip Tutorials"
 [consolemods]: https://consolemods.org "Console Mods"
