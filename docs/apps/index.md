@@ -241,7 +241,19 @@ hide:
     
     Edit `mc?:/SYS-CONF/OSDMENU.CFG` as needed. OSDMenu does not check paths, so everything in config file will be listed.
 
-    [:material-cloud-download: OSDMenu 1.0.0](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU.psu)
+    [:material-cloud-download: OSDMenu 1.1.0](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU.psu)
+
+
+-   __OSDMenu Configurator__![sas-psu_pic][non-sas-zip]{ width="75" }
+
+    ---
+
+    ![OSDMenu-Configurator_Pic](assets/osdmenu_configurator.png)
+
+    GUI to modify OSDMenu, HOSDMenu, OSDMenu MBR and eGSM settings.
+
+    [:material-cloud-download: OSDMenu COnfigurator](https://downloads.ps2homebrewstore.com/NON-SAS/SYS_OSDMENU-CONFIGURATOR.zip)  
+    Extract zip to MMCE/USB/MX4SIO device:/APPS/
 
 
 -   __FreeMCBoot Decrypted__![sas-psu_pic][sas-psu]{ width="75" }
