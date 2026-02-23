@@ -47,10 +47,10 @@ hide:
     [:material-cloud-download: Cheat Device Forwarder](https://downloads.ps2homebrewstore.com/SAS/APP_CHEATDEVICE-FORWARDER.psu)  
     PSU Paste to MemCard root
 
-    [:material-cloud-download: Cheat Device USB](https://downloads.ps2homebrewstore.com/NON-SAS/APP_CHEATDEVICE-USB.psu)  
+    [:material-cloud-download: Cheat Device USB](https://downloads.ps2homebrewstore.com/NON-SAS/APP_CHEATDEVICE-USB.zip)  
     Extract zip to `usb:/APPS/`
 
-    [:material-cloud-download: Cheat Device MMCE](https://downloads.ps2homebrewstore.com/NON-SAS/APP_CHEATDEVICE-MMCE.psu)  
+    [:material-cloud-download: Cheat Device MMCE](https://downloads.ps2homebrewstore.com/NON-SAS/APP_CHEATDEVICE-MMCE.zip)  
     Extract zip to `mmce?:/APPS/`
 
 
