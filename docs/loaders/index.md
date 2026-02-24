@@ -23,7 +23,7 @@ hide:
     MMCE, SMB, APA, Fat32, ExFat, NBD.  
     __Note: saving config is problematic sometimes, try saving a page of settings at a time.__
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2249](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-MMCEB3.psu) __MMCE ALTERNATIVE__  
+    [:material-cloud-download: OPL 1.2.0 MMCE Beta 3](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-MMCEB3.psu) __MMCE ALTERNATIVE__  
     MMCE
 
     [:material-cloud-download: OPL 1.2.0 Beta 2218](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2218.psu) __RECOMMENDED ALTERNATIVE__  
