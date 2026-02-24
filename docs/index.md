@@ -6,9 +6,19 @@ hide:
 ---
 
 # Where shall I take you today?
+
+
+## Pre-Setup Exploits:
+
 <div class="grid buttons" markdown>
 
-[:simple-hackaday: __Exploits:__ SoftMod your PS2!](exploits/index.md){ .md-button .md-button--stretch }
+[:simple-hackaday: __Exploits:__ Softmod your PS2 via Memory Card. Pre-loaded with homebrew and pre-configured as much as possible!](exploits/index.md){ .md-button .md-button--stretch }
+
+</div>
+
+
+## Homebrew Downloads
+<div class="grid buttons" markdown>
 
 [:fontawesome-solid-compact-disc: __Loaders:__ Play game backups](loaders/index.md){ .md-button .md-button--stretch }
 
@@ -34,10 +44,10 @@ hide:
 ## Help
 <div class="grid buttons" markdown>
 
-[__:material-help-circle: Icon Meanings:__ What does it mean?](site_tutorial/icon_meanings.md){ .md-button .md-button--lightsteelblue .md-button--stretch }
+[__:material-help-circle: Icon Meanings:__ What does it mean?](site_tutorial/icon_meanings.md){ .md-button .md-button--gold .md-button--stretch }
 
 
-[__:fontawesome-brands-readme: Tutorial:__ How to use this site](site_tutorial/index.md){ .md-button .md-button--lightsteelblue .md-button--stretch }
+[__:fontawesome-brands-readme: Tutorial:__ How to use this site](site_tutorial/index.md){ .md-button .md-button--gold .md-button--stretch }
 
 
 [__:material-hand-wave: Thanks:__ Pay your respects](thanks/index.md){ .md-button .md-button--primary .md-button--stretch }

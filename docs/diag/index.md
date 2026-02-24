@@ -56,6 +56,20 @@ hide:
     [:material-cloud-download: Pad Test](https://downloads.ps2homebrewstore.com/NON-SAS/DST_CONTROLLER.zip)  
     Extract zip to `mass:/APPS/`
 
+
+-   __LensChanger__![sas-psu_pic][sas-psu]{ width="75" }
+
+    ---
+
+    [![LensChanger_Pic](assets/lenschanger.png)](https://www.psx-place.com/resources/lenschanger-by-dampro.677/){:target="_blank"}
+
+    When swapping different laser types, this will apply default laser configuration for the laser you are installing. 
+
+    NOTE: Recommend [PMAP Tune](https://github.com/ps2homebrew/PMAP){ target="blank" } instead if possible!
+
+    [:material-cloud-download: LensChanger](https://downloads.ps2homebrewstore.com/SAS/DST_LENSCHANGER.psu)  
+
+
 -   __Original MemCard Test__![sas-psu][sas-psu]{ width="75" }
 
     ---
