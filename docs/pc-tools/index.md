@@ -68,6 +68,24 @@ hide:
     Fork of MyMC++ that has more features to manager VMCs, and is packaged as a Windows excecutable.
 
 
+-   __Open ESR Disc Patcher__
+
+    ---
+
+    [![openesrdiscpatcher_pic](assets/open-esr-disc-patcher.png)](https://github.com/CaptainSwag101/OpenESRDiscPatcher/releases){:target="_blank" .md-button .md-button--stretch }
+
+    Patch your legal PS2 DVD backups to be ESR compatible. ESR patched discs fool the PS2 into running the disc as a video DVD.
+
+
+-   __PSX/PS2 Disc Patcher__
+
+    ---
+
+    [![psxps2discpatcher_pic](assets/psx-ps2-disc-masterpatcher.png)](https://www.psx-place.com/resources/psx-ps2-disc-patcher.1156/download?version=2013){:target="_blank" .md-button .md-button--stretch }
+
+    Patch your legal backups to master patched discs for use with MechaPwn or DTL-H TEST units.
+
+
 -   __PS1 and PS2 game save archive WIP__
 
     ---
