@@ -244,7 +244,7 @@ hide:
     [:material-cloud-download: OSDMenu 1.1.0](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU.psu)
 
 
--   __OSDMenu Configurator__![sas-psu_pic][non-sas-zip]{ width="75" }
+-   __OSDMenu Configurator__![sas-zip_pic][sas-zip]{ width="75" } ![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
@@ -252,7 +252,12 @@ hide:
 
     GUI to modify OSDMenu, HOSDMenu, OSDMenu MBR and eGSM settings.
 
-    [:material-cloud-download: OSDMenu COnfigurator](https://downloads.ps2homebrewstore.com/NON-SAS/SYS_OSDMENU-CONFIGURATOR.zip)  
+    Choose PSU or ZIP based on your needs:
+
+    [:material-cloud-download: OSDMenu Configurator PSU](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU-CONFIGURATOR.psu)  
+    PSU Paste to root of memory card.
+
+    [:material-cloud-download: OSDMenu Configurator ZIP](https://downloads.ps2homebrewstore.com/NON-SAS/SYS_OSDMENU-CONFIGURATOR.zip)  
     Extract zip to MMCE/USB/MX4SIO device:/APPS/
 
 
