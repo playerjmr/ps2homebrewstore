@@ -10,6 +10,37 @@ hide:
 
 <div class="grid cards" markdown>
 
+
+-   __NHDDL__![sas-psu_pic][sas-psu]{ width="75" }
+
+    ---
+
+    [![NHDDL_Pic](assets/nhddl.png)](https://github.com/pcm720/nhddl){:target="_blank"}
+
+    Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
+
+    [:material-file-document: Documentation](https://github.com/pcm720/nhddl)
+
+    [:material-cloud-download: NHDDL](https://downloads.ps2homebrewstore.com/SAS/APP_NHDDL.psu)
+
+
+-   __Neutrino__![nonsas-zip_pic][non-sas-zip]{ width="75" }
+
+    ---
+
+    [![Neutrino_Pic](assets/neutrino.png)](https://github.com/rickgaiser/neutrino){:target="_blank"}
+
+    Neutrino is a small, fast and modular PS2 device emulator. A frontend such as NHDDL, PS2BBN DEP, OSD-XMB, XEB+ or PS2 Link is needed. 
+
+    Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO
+
+    This app cannot be packaged as a PSU due to subfolders. Extract to `mc?:/` or `mmce:/` It will self extract to a `NEUTRINO` folder. 
+
+    [:material-file-document: Documentation](https://github.com/rickgaiser/neutrino)
+
+    [:material-cloud-download: Neutrino](https://downloads.ps2homebrewstore.com/NON-SAS/NEUTRINO.zip)
+
+
 -   __OPL 1.2.0 Betas__![sascompat][sas-compat]{ width="60" }![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
@@ -19,21 +50,16 @@ hide:
     Open PS2 Loader which supports MMCE, SMB, APA, Fat32, ExFat, NBD.  
     These extract to `APP_OPL`
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2249](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2249.psu) __RECOMMENDED__  
+    [:material-cloud-download: OPL 1.2.0 Beta 2257](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2257.psu) __RECOMMENDED__  
     MMCE, SMB, APA, Fat32, ExFat, NBD.  
     __Note: saving config is problematic sometimes, try saving a page of settings at a time.__
 
     [:material-cloud-download: OPL 1.2.0 MMCE Beta 3](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL-MMCEB3.psu) __MMCE ALTERNATIVE__  
     MMCE
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2218](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2218.psu) __RECOMMENDED ALTERNATIVE__  
+    [:material-cloud-download: OPL 1.2.0 Beta 2223](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2223.psu) __RECOMMENDED ALTERNATIVE__  
     SMB, APA, Fat32, ExFat USB/HDD/MX4SIO, NBD
 
-    [:material-cloud-download: OPL 1.2.0 Beta 2212](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2212.psu)  
-    SMB, APA, Fat32, ExFat USB/HDD/MX4SIO, NBD
-
-    [:material-cloud-download: OPL 1.2.0 Beta 2049](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_OPL120B2049GID.psu)  
-    SMB, APA, Fat32, ExFat USB/MX4SIO, NBD
 
     [:material-cloud-download: OPL 120 Zip Bundle Unique Folder Names ](https://downloads.ps2homebrewstore.com/SAS/OPL_120_UNIQUE.zip)  
     These extract to unique folder names such as `APP_OPL120B2247`. Usefull when you want multiple OPL versions installed. Caution: config files between versions may not be compatible. Hold `START` while booting OPL to NOT load config.
@@ -75,39 +101,11 @@ hide:
     Fat32/ExFat USB, APA HDD, Exfat HDD, APA Jail, UDPBD, MMCE, MX4SIO and Neutrino frontend.  
     These extract to `APP_OPL`
 
-    [:material-cloud-download: uOPL](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_UOPL.psu)
+    [:material-cloud-download: uOPL](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_UOPL.psu)  
+    Light Theme
 
-    [:material-cloud-download: uOPL Betrayal](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_UOPL-BETRAYAL.psu) 
-
-
--   __NHDDL__![sas-psu_pic][sas-psu]{ width="75" }
-
-    ---
-
-    [![NHDDL_Pic](assets/nhddl.png)](https://github.com/pcm720/nhddl){:target="_blank"}
-
-    Frontend for Neutrino that supports Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO. 
-
-    [:material-file-document: Documentation](https://github.com/pcm720/nhddl)
-
-    [:material-cloud-download: NHDDL](https://downloads.ps2homebrewstore.com/SAS/APP_NHDDL.psu)
-
-
--   __Neutrino__![nonsas-zip_pic][non-sas-zip]{ width="75" }
-
-    ---
-
-    [![Neutrino_Pic](assets/neutrino.png)](https://github.com/rickgaiser/neutrino){:target="_blank"}
-
-    Neutrino is a small, fast and modular PS2 device emulator. A frontend such as NHDDL, PS2BBN DEP, OSD-XMB, XEB+ or PS2 Link is needed. 
-
-    Supports: MBR/GPT Fat32/ExFat USB, APA HDD, Exfat HDD, UDPBD, MMCE, MX4SIO
-
-    This app cannot be packaged as a PSU due to subfolders. Extract to `mc?:/` or `mmce:/` It will self extract to a `NEUTRINO` folder. 
-
-    [:material-file-document: Documentation](https://github.com/rickgaiser/neutrino)
-
-    [:material-cloud-download: Neutrino](https://downloads.ps2homebrewstore.com/NON-SAS/NEUTRINO.zip)
+    [:material-cloud-download: uOPL Betrayal](https://downloads.ps2homebrewstore.com/SAS/APP_OPL/APP_UOPL-BETRAYAL.psu)  
+    Dark Theme
 
 
 -   __OSD-XMB__![sascompat][sas-compat]{ width="60" }![nonsas-zip][non-sas-zip]{ width="75" }
