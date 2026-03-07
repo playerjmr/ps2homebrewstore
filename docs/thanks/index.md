@@ -122,7 +122,7 @@ _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][disc
 
 ## No Thanks to:
 
-!!! danger "No Thanks to:"
+!!! danger "TnA Plastic"
 
     __TnA Plastic__ of ~~r/PS2Homebrew~~, _psx-place.com_ and _PS2 Scene_ Discord due to his atrocious persecutory behavior silencing anyone that disagrees and harassing those that are trying to learn, especially noobs, muting those poor souls for hours or days and proceeding to shit on those he muted/kicked/banned.  
 
@@ -138,6 +138,7 @@ _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][disc
         - _PS2 Space_
         - _Consolemods.org_
         - _Athena PS2 System_
+        - _Bitfunx_
 
 [ps2modchiptutorials]: https://ps2modchiptutorials.com "PS2 Modchip Tutorials"
 [consolemods]: https://consolemods.org "Console Mods"
