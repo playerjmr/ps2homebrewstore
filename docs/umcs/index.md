@@ -45,8 +45,6 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [:material-cloud-download: BOOT](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu), [:material-cloud-download: BOOT MMCE](https://downloads.ps2homebrewstore.com/SAS/BOOT-MMCE.psu) or [:material-cloud-download: BOOT MX4SIO](https://downloads.ps2homebrewstore.com/SAS/BOOT-MMCE.psu)
 
-    [:material-cloud-download: PSX BOOT](https://downloads.ps2homebrewstore.com/SAS/BOOT-PSX.psu), [:material-cloud-download: PSX BOOT MMCE](https://downloads.ps2homebrewstore.com/SAS/BOOT-PSX-MMCE.psu)
-
     - __`mc?:/BOOT/`__  
         Where exploits look to boot from. 
 
