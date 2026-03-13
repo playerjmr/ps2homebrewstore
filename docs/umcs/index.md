@@ -100,6 +100,15 @@ Should you ever mess up your config, here are backups to restore. Follow the sit
 
     [BDM_ASSAULT]: https://github.com/israpps/BDMAssault
 
+    !!! tip "R3Configurator - GUI for FMCB, FHDB, OSDMenu, PS2BBL, PSXBBL config files"
+
+        GUI to configure FMCB, FHDB, OSDMenu, OSDMenu MBR, HOSDMenu, and PS2BBL Extended
+
+        [:material-cloud-download: R3Configurator](https://downloads.ps2homebrewstore.com/NON-SAS/SYS_R3CONFIGURATOR.zip)  
+        Extract zip to MMCE/USB/MX4SIO `device:/APPS/`  
+        You will end up with: `device:/APPS/SYS_R3CONFIGURATOR/r3configurator.elf`
+
+
 
 </div>
 
