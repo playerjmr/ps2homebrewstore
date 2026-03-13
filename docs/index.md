@@ -3,6 +3,9 @@ icon: material/store
 hide:
   - navigation
   - toc
+
+search:
+  exclude: true
 ---
 
 # Where shall I take you today?

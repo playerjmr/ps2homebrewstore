@@ -292,6 +292,19 @@ hide:
 
     [:material-cloud-download: FMCB Configurator](https://downloads.ps2homebrewstore.com/SAS/SYS_FMCB-CFG.psu)
 
+
+-   __R3Configurator__![non-sas-zip_pic][non-sas-zip]{ width="75" }
+
+    ---
+
+    ![R3Configurator_Pic](assets/r3configurator.png)
+
+    GUI to configure FMCB, FHDB, OSDMenu, OSDMenu MBR, HOSDMenu, and PS2BBL Extended
+
+    [:material-cloud-download: R3Configurator](https://downloads.ps2homebrewstore.com/NON-SAS/SYS_R3CONFIGURATOR.zip)  
+    Extract zip to MMCE/USB/MX4SIO device:/APPS/
+
+
 -   __NTPS2__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
