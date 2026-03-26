@@ -297,7 +297,7 @@ hide:
 
     ---
 
-    ![R3Configurator_Pic](assets/r3configurator.png)
+    [![R3Configurator_Pic](assets/r3configurator.png)](https://github.com/saildot4k/R3CONFIGURATOR){:target="_blank"}
 
     GUI to configure FMCB, FHDB, OSDMenu, OSDMenu MBR, HOSDMenu, and PS2BBL Extended
 
