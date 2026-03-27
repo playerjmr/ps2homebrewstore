@@ -252,7 +252,7 @@ hide:
 
     A fork of [El Isras PS2BBL](https://github.com/israpps/PlayStation2-Basic-BootLoader).  
 
-    Launch keys/autoboot for PS2/PSX with OSDMenu features baked in: arg support, custom logo, eGSM, PS1Vmode Negator and RetroGem visual Game ID.  
+    Launch keys/autoboot for PS2/PSX with OSDMenu features baked in: arg support, custom user logo, eGSM, PS1Vmode Negator and RetroGem visual Game ID.  
     Can also be used as a forwarder. 
 
  
