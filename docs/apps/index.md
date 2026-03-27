@@ -244,21 +244,21 @@ hide:
     [:material-cloud-download: OSDMenu 1.2.0](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU.psu)
 
 
--   __OSDMenu Configurator__![sas-zip_pic][sas-zip]{ width="75" } ![sas-psu_pic][sas-psu]{ width="75" }
+-   __PS2BBL Extended__![sas-psu_pic][sas-psu]{ width="75" }
 
     ---
 
-    ![OSDMenu-Configurator_Pic](assets/osdmenu_configurator.png)
+    [![PS2BBL_Pic](../exploits/assets/ps2bbl-spash.png)](https://github.com/saildot4k/PlayStation2-Basic-BootLoader-Extended){:target="_blank"}
 
-    GUI to modify OSDMenu, HOSDMenu, OSDMenu MBR and eGSM settings.
+    A fork of [El Isras PS2BBL](https://github.com/israpps/PlayStation2-Basic-BootLoader).  
 
-    Choose PSU or ZIP based on your needs:
+    Launch keys/autoboot for PS2/PSX with OSDMenu features baked in: arg support, custom logo, eGSM, PS1Vmode Negator and RetroGem visual Game ID.  
+    Can also be used as a forwarder. 
 
-    [:material-cloud-download: OSDMenu Configurator PSU](https://downloads.ps2homebrewstore.com/SAS/SYS_OSDMENU-CONFIGURATOR.psu)  
-    PSU Paste to root of memory card.
+ 
+    Base support is Memory Card, USB (FAT32/exFAT) + choice. This is part of the core of UMCS.
 
-    [:material-cloud-download: OSDMenu Configurator ZIP](https://downloads.ps2homebrewstore.com/NON-SAS/SYS_OSDMENU-CONFIGURATOR.zip)  
-    Extract zip to MMCE/USB/MX4SIO device:/APPS/
+    [:material-cloud-download: BOOT](https://downloads.ps2homebrewstore.com/SAS/BOOT.psu), [:material-cloud-download: BOOT MMCE](https://downloads.ps2homebrewstore.com/SAS/BOOT-MMCE.psu) [:material-cloud-download: BOOT MX4SIO](https://downloads.ps2homebrewstore.com/SAS/BOOT-MMCE.psu) or [:material-cloud-download: BOOT HDD](https://downloads.ps2homebrewstore.com/SAS/BOOT-HDD.psu)
 
 
 -   __FreeMCBoot Decrypted__![sas-psu_pic][sas-psu]{ width="75" }
