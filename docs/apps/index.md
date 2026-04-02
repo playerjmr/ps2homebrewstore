@@ -282,18 +282,7 @@ hide:
     [:material-cloud-download: FMCBD 1.8C](https://downloads.ps2homebrewstore.com/SAS/SYS_FMCBD-18C.psu)
 
 
--   __FreeMCBoot Configurator__![sas-psu_pic][sas-psu]{ width="75" }
-
-    ---
-
-    ![FMCBC_Pic](assets/fmcb-cfg.png)
-
-    GUI to modify the FreeMCBoot config file.
-
-    [:material-cloud-download: FMCB Configurator](https://downloads.ps2homebrewstore.com/SAS/SYS_FMCB-CFG.psu)
-
-
--   __R3Configurator__![non-sas-zip_pic][non-sas-zip]{ width="75" }
+-   __R3Configurator__![sas-zip_pic][sas-zip]{ width="75" }
 
     ---
 
@@ -304,6 +293,17 @@ hide:
     [:material-cloud-download: R3Configurator](https://github.com/saildot4k/R3CONFIGURATOR/releases/download/nightly/SYS_R3CONFIGURATOR.zip)  
     Extract zip to MMCE/USB/MX4SIO `device:/APPS/`  
     You will end up with: `device:/APPS/SYS_R3CONFIGURATOR/r3configurator.elf`
+
+
+-   __FreeMCBoot Configurator__![sas-psu_pic][sas-psu]{ width="75" }
+
+    ---
+
+    ![FMCBC_Pic](assets/fmcb-cfg.png)
+
+    GUI to modify the FreeMCBoot config file.
+
+    [:material-cloud-download: FMCB Configurator](https://downloads.ps2homebrewstore.com/SAS/SYS_FMCB-CFG.psu)
 
 
 -   __NTPS2__![sas-psu_pic][sas-psu]{ width="75" }
