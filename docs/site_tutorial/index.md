@@ -14,10 +14,9 @@ __SAS Applications include:__
 
 1. [Memory Card icons](icon_meanings.md) for visual indicator as to apps purpose and critical status to your boot environment. 
 
-2. `title.cfg` plain text file for other apps such as OSDMenu, OPL, OSD-XMB and PSBBN DEP to list apps to run without user intervention. This includes
+2. `title.cfg` plain text file for other apps such as OSDMenu, OPL, OSD-XMB and PSBBN DEP to list apps to run without user intervention.
 
-    Example minimal title.cfg:
-    ```yaml
+    ```yaml title="title.cfg example"
         title=[APP] NHDDL                   # used by newer OPL and first "page" of info
         Title=NHDDL                         # used by older OPL and second "page" of info
         boot=nhddl.elf                      # relative path to ELF
