@@ -12,13 +12,40 @@ Otherwise known as `Save Application System`, SAS apps/folders are single direct
 
 __SAS Applications include:__
 
-- [Memory Card icons](icon_meanings.md) for visual indicator as to apps purpose and critical status to your boot environment. 
+1. [Memory Card icons](icon_meanings.md) for visual indicator as to apps purpose and critical status to your boot environment. 
 
-- title.cfg for other apps such as OSDMenu, OPL, OSD-XMB and PSBBN DEP to list apps to run without user intervention.
+2. `title.cfg` plain text file for other apps such as OSDMenu, OPL, OSD-XMB and PSBBN DEP to list apps to run without user intervention. This includes
 
-- Prefix (if app supported) such as `APP_OPL` (_Application_) or `DST_ROMVERCHK` (_Diagnostic Service Tool_) for organization.
+    Example minimal title.cfg:
+    ```yaml
+        title=[APP] NHDDL                   # used by newer OPL and first "page" of info
+        Title=NHDDL                         # used by older OPL and second "page" of info
+        boot=nhddl.elf                      # relative path to ELF
 
-- Packaged via a container called a `psu`. This is used to transfer game saves, but adopted for SAS so that all assets are contained. Even date/time is preserved so that Apps are always in order alphabetically by type in the MC Browser!
+        Version=1.2.0                       # version of app
+        Release=November 13th, 2025         # date app was updated
+        Developer=pcm720                    # who wrote the app
+        Genre=Homebrew                      # category of "game", in this case homebrew
+        Description=A Neutrino launcher     # description of app. If too long OPL will crash
+        Source=github.com/pcm720/nhddl      # where to find more info regarding app
+        Notes=SAS Compliant                 # Of course its SAS compliant!
+
+        CfgVersion=8                        # Info for OPL
+        $ConfigSource=1                     # Info for OPL
+    ```
+
+
+3. Folder prefix (if app supported) such as `APP_OPL` (_Application_) or `DST_ROMVERCHK` (_Diagnostic Service Tool_) for organization. Example full path: `mc0:/APP_OPL/OPL.ELF`
+    - `APP_` _Application_
+    - `SYS_` _System (caution when deleting)_
+    - `DST_` _Diagnostic service tool_
+    - `DBG_` _Debug_
+    - `RTE_` _Run time environment (App that relies on other scripts usually like Athena or Enceladus.)_
+    - `EMU_` _Emulator_
+    - `PS1_` _Playstation 1_
+    - `GME_` _Game_
+
+4. Packaged via a container called a `psu`. This is used to transfer game saves, but adopted for SAS so that all assets are contained. Even date/time is preserved so that Apps are always in order alphabetically by type in the MC Browser!
 
 ## How to install SAS apps
 
