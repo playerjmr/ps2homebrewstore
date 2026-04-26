@@ -142,6 +142,6 @@ _YOU could be here! Contact us on_ [:fontawesome-brands-discord:{ .pulse }][disc
 
 [ps2modchiptutorials]: https://ps2modchiptutorials.com "PS2 Modchip Tutorials"
 [consolemods]: https://consolemods.org "Console Mods"
-[ps2devwiki]: https://www.ps2devwiki.com "PS2 Dev Wiki"
+[ps2devwiki]: https://www.psdevwiki.com/ps2/ "PS2 Dev Wiki"
 [ps2homebrew_github]: https://github.com/ps2homebrew "PS2 Homebrew Github"
 [psx-place]: https://www.psx-place.com/forums/#playstation-2-ps2.6 "PSX-Place Forums"
